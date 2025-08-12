@@ -1,0 +1,37 @@
+[
+    {
+        "name": "California",
+        "questions": "CA.json",
+        "slug": "ca"
+    },
+    {
+        "name": "Georgia",
+        "questions": "GA.json",
+        "slug": "ga"
+    },
+    {
+        "name": "Minnesota",
+        "questions": "MN.json",
+        "slug": "mn"
+    },
+    {
+        "name": "New York",
+        "questions": "NY.json",
+        "slug": "ny"
+    },
+    {
+        "name": "North Carolina",
+        "questions": "NC.json",
+        "slug": "nc"
+    },
+    {
+        "name": "Ohio",
+        "questions": "OH.json",
+        "slug": "oh"
+    },
+    {
+        "name": "Texas",
+        "questions": "TX.json",
+        "slug": "tx"
+    }
+]
