@@ -73,6 +73,7 @@ export default function PageNavigation({ params }) {
                     {navigation.map((item) => {
                         return (
                             <DisclosureButton
+                                key={item.name}
                                 as="a"
                                 href={item.href}
                                 className={`block rounded-md px-3 py-2 text-base font-medium ${

@@ -7,10 +7,30 @@ import {
     DialogPanel,
     DialogTitle,
 } from "@headlessui/react";
-import { CheckIcon } from "@heroicons/react/24/outline";
+import Link from "next/link";
 
 export default function InstruccionesDialog() {
     const [open, setOpen] = useState(false);
+
+    const steps = [
+    {
+        name: "Seleccionar Estado",
+        description: "Escoge el estado donde presentarás tu examen teórico.",
+    },
+    {
+        name: "Definir Preguntas",
+        description:
+            "Elige cuántas preguntas quieres responder en tu práctica.",
+    },
+    {
+        name: "Responder Preguntas",
+        description: "Contesta cada pregunta simulando el examen real.",
+    },
+    {
+        name: "Revisar Resultados",
+        description: "Analiza tus aciertos y errores para mejorar.",
+    },
+];
 
     return (
         <div>
@@ -21,12 +41,12 @@ export default function InstruccionesDialog() {
                 >
                     Instrucciones
                 </button>
-                <a
-                    href="#select-state"
+                <Link
+                    href="#seleccionar-estado"
                     className="text-sm/6 font-semibold text-gray-900 dark:text-white"
                 >
                     Comenzar <span aria-hidden="true">→</span>
-                </a>
+                </Link>
             </div>
             <Dialog open={open} onClose={setOpen} className="relative z-10">
                 <DialogBackdrop
@@ -47,16 +67,16 @@ export default function InstruccionesDialog() {
                                 Pasos:
                             </DialogTitle>
 
-                            <Steps />
+                            <Steps steps={steps}/>
                             <div className="mt-5 sm:mt-6 sm:grid sm:grid-flow-row-dense sm:grid-cols-2 sm:gap-3">
-                                <a
-                                    href="#select-state"
+                                <Link
+                                    href="#seleccionar-estado"
                                     type="button"
                                     onClick={() => setOpen(false)}
                                     className="inline-flex w-full justify-center rounded-md bg-cyan-600 px-3 py-2 text-sm font-semibold text-white shadow-xs hover:bg-cyan-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-600 sm:col-start-2 dark:bg-cyan-500 dark:shadow-none dark:hover:bg-cyan-400 dark:focus-visible:outline-cyan-500"
                                 >
                                     Seleccionar Estado
-                                </a>
+                                </Link>
                                 <button
                                     type="button"
                                     data-autofocus
@@ -74,31 +94,13 @@ export default function InstruccionesDialog() {
     );
 }
 
-const steps = [
-    {
-        name: "Seleccionar Estado",
-        description: "Escoge el estado donde presentarás tu examen teórico.",
-    },
-    {
-        name: "Definir Preguntas",
-        description:
-            "Elige cuántas preguntas quieres responder en tu práctica.",
-    },
-    {
-        name: "Responder Preguntas",
-        description: "Contesta cada pregunta simulando el examen real.",
-    },
-    {
-        name: "Revisar Resultados",
-        description: "Analiza tus aciertos y errores para mejorar.",
-    },
-];
 
-function classNames(...classes) {
-    return classes.filter(Boolean).join(" ");
-}
 
-function Steps() {
+function Steps({steps}) {
+    function classNames(...classes) {
+        return classes.filter(Boolean).join(" ");
+    }
+
     return (
         <nav aria-label="Progress">
             <ol role="list" className="overflow-hidden">

@@ -1,20 +1,22 @@
 import "@/styles/global.css";
-import PageNavigation from "@/components/client/PageNavigation";
-import Footer from "@/components/client/Footer";
+import PageNavigation from "@/components/PageNavigation";
+import Footer from "@/components/Footer";
 
 export default function RootLayout({ children }) {
     return (
-        <html lang="es" className="scroll-smooth">
+        <html lang="es" className="scroll-smooth h-full">
             <head>
-                <title>Driving Exam Practice</title>
-                <link rel="icon" type="image/png" sizes="32x32" href="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"></link>
+                <link
+                    rel="icon"
+                    type="image/png"
+                    sizes="32x32"
+                    href="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
+                ></link>
             </head>
-            <body className="bg-gray-100 ">
-                <div className="flex flex-col h-screen">
+            <body className="h-full">
+                <div className="flex flex-col h-full">
                     <PageNavigation />
-                    <main className="mb-auto">
-                        {children}
-                    </main>
+                    <main className="grow">{children}</main>
                     <Footer />
                 </div>
             </body>
