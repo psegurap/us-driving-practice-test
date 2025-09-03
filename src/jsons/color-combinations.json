@@ -1,0 +1,202 @@
+[
+    {
+        "iconForeground": "text-emerald-800",
+        "iconBackground": "bg-emerald-100"
+    },
+    {
+        "iconForeground": "text-blue-800",
+        "iconBackground": "bg-blue-100"
+    },
+    {
+        "iconForeground": "text-blue-700",
+        "iconBackground": "bg-blue-50"
+    },
+    {
+        "iconForeground": "text-fuchsia-700",
+        "iconBackground": "bg-fuchsia-50"
+    },
+    {
+        "iconForeground": "text-zinc-800",
+        "iconBackground": "bg-zinc-100"
+    },
+    {
+        "iconForeground": "text-green-700",
+        "iconBackground": "bg-green-50"
+    },
+    {
+        "iconForeground": "text-indigo-800",
+        "iconBackground": "bg-indigo-100"
+    },
+    {
+        "iconForeground": "text-teal-800",
+        "iconBackground": "bg-teal-100"
+    },
+    {
+        "iconForeground": "text-purple-800",
+        "iconBackground": "bg-purple-100"
+    },
+    {
+        "iconForeground": "text-neutral-700",
+        "iconBackground": "bg-neutral-50"
+    },
+    {
+        "iconForeground": "text-rose-800",
+        "iconBackground": "bg-rose-100"
+    },
+    {
+        "iconForeground": "text-orange-800",
+        "iconBackground": "bg-orange-100"
+    },
+    {
+        "iconForeground": "text-gray-700",
+        "iconBackground": "bg-gray-50"
+    },
+    {
+        "iconForeground": "text-slate-800",
+        "iconBackground": "bg-slate-100"
+    },
+    {
+        "iconForeground": "text-emerald-800",
+        "iconBackground": "bg-emerald-100"
+    },
+    {
+        "iconForeground": "text-cyan-800",
+        "iconBackground": "bg-cyan-100"
+    },
+    {
+        "iconForeground": "text-purple-700",
+        "iconBackground": "bg-purple-50"
+    },
+    {
+        "iconForeground": "text-cyan-700",
+        "iconBackground": "bg-cyan-50"
+    },
+    {
+        "iconForeground": "text-rose-700",
+        "iconBackground": "bg-rose-50"
+    },
+    {
+        "iconForeground": "text-neutral-800",
+        "iconBackground": "bg-neutral-100"
+    },
+    {
+        "iconForeground": "text-amber-700",
+        "iconBackground": "bg-amber-50"
+    },
+    {
+        "iconForeground": "text-orange-700",
+        "iconBackground": "bg-orange-50"
+    },
+    {
+        "iconForeground": "text-fuchsia-800",
+        "iconBackground": "bg-fuchsia-100"
+    },
+    {
+        "iconForeground": "text-cyan-800",
+        "iconBackground": "bg-cyan-100"
+    },
+    {
+        "iconForeground": "text-gray-800",
+        "iconBackground": "bg-gray-100"
+    },
+    {
+        "iconForeground": "text-orange-800",
+        "iconBackground": "bg-orange-100"
+    },
+    {
+        "iconForeground": "text-violet-800",
+        "iconBackground": "bg-violet-100"
+    },
+    {
+        "iconForeground": "text-slate-700",
+        "iconBackground": "bg-slate-50"
+    },
+    {
+        "iconForeground": "text-lime-700",
+        "iconBackground": "bg-lime-50"
+    },
+    {
+        "iconForeground": "text-teal-700",
+        "iconBackground": "bg-teal-50"
+    },
+    {
+        "iconForeground": "text-indigo-700",
+        "iconBackground": "bg-indigo-50"
+    },
+    {
+        "iconForeground": "text-pink-700",
+        "iconBackground": "bg-pink-50"
+    },
+    {
+        "iconForeground": "text-amber-800",
+        "iconBackground": "bg-amber-100"
+    },
+    {
+        "iconForeground": "text-zinc-700",
+        "iconBackground": "bg-zinc-50"
+    },
+    {
+        "iconForeground": "text-stone-700",
+        "iconBackground": "bg-stone-50"
+    },
+    {
+        "iconForeground": "text-violet-700",
+        "iconBackground": "bg-violet-50"
+    },
+    {
+        "iconForeground": "text-red-700",
+        "iconBackground": "bg-red-50"
+    },
+    {
+        "iconForeground": "text-green-800",
+        "iconBackground": "bg-green-100"
+    },
+    {
+        "iconForeground": "text-green-700",
+        "iconBackground": "bg-green-50"
+    },
+    {
+        "iconForeground": "text-red-800",
+        "iconBackground": "bg-red-100"
+    },
+    {
+        "iconForeground": "text-yellow-700",
+        "iconBackground": "bg-yellow-50"
+    },
+    {
+        "iconForeground": "text-pink-700",
+        "iconBackground": "bg-pink-50"
+    },
+    {
+        "iconForeground": "text-stone-800",
+        "iconBackground": "bg-stone-100"
+    },
+    {
+        "iconForeground": "text-emerald-700",
+        "iconBackground": "bg-emerald-50"
+    },
+    {
+        "iconForeground": "text-pink-800",
+        "iconBackground": "bg-pink-100"
+    },
+    {
+        "iconForeground": "text-sky-800",
+        "iconBackground": "bg-sky-100"
+    },
+    {
+        "iconForeground": "text-indigo-700",
+        "iconBackground": "bg-indigo-50"
+    },
+    {
+        "iconForeground": "text-lime-800",
+        "iconBackground": "bg-lime-100"
+    },
+    {
+        "iconForeground": "text-yellow-800",
+        "iconBackground": "bg-yellow-100"
+    },
+    {
+        "iconForeground": "text-sky-700",
+        "iconBackground": "bg-sky-50"
+    }
+]

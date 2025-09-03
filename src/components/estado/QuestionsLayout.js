@@ -3,12 +3,14 @@
 import getQuestions from "@/components/estado/getQuestions";
 import QuestionsList from "@/components/estado/QuestionList";
 import ResultsBanner from "@/components/estado/ResultsBanner";
+import LoadingScreen from "@/components/estado/LoadingScreen";
 import { useState, useEffect, useTransition } from "react";
 
 export default function QuestionsLayout({ estado, questionsAmount }) {
     const [isPending, startTransition] = useTransition();
     const [questions, setQuestions] = useState([]);
     const [donePlaying, setDonePlaying] = useState(false);
+    const [areResultsPending, setAreResultsPending] = useState(false);
 
     useEffect(() => {
         startTransition(async () => {
@@ -23,7 +25,6 @@ export default function QuestionsLayout({ estado, questionsAmount }) {
 
     function handleFinalizarPrueba(inputs_answered) {
         let preguntas = questions;
-
         if (inputs_answered.length > 0) {
             inputs_answered.forEach((input) => {
                 let index_found = preguntas.findIndex(
@@ -36,9 +37,12 @@ export default function QuestionsLayout({ estado, questionsAmount }) {
             });
         }
 
-        setDonePlaying(true);
         setQuestions(preguntas);
-        console.log(questions);
+
+        setInterval(() => {
+            setDonePlaying(true);
+            setAreResultsPending(false);
+        }, 1000);
     }
 
     return (
@@ -82,8 +86,13 @@ export default function QuestionsLayout({ estado, questionsAmount }) {
                         questions={questions}
                         donePlaying={donePlaying}
                         handleFinalizarPrueba={handleFinalizarPrueba}
+                        setAreResultsPending={setAreResultsPending}
                     />
-                    {donePlaying ? <ResultsBanner /> : ""}
+                    <LoadingScreen
+                        areResultsPending={areResultsPending}
+                        setAreResultsPending={setAreResultsPending}
+                    />
+                    {donePlaying ? <ResultsBanner questions={questions} /> : ""}
                 </div>
             </div>
         </div>
@@ -113,6 +122,7 @@ function getFilteredQuestions(questions, amount) {
     questions_filtered.map((question) => {
         question["id"] = questions_ids.pop();
         question["respuesta_usuario"] = "";
+        question.opciones = shuffleArray(question.opciones)
         return question;
     });
 

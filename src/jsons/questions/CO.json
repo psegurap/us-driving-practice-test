@@ -1,0 +1,1897 @@
+[
+    {
+        "pregunta": "¿Qué hacer si ves una zona escolar con niños cruzando?",
+        "opciones": [
+            "Reducir velocidad y detenerte si es necesario",
+            "Seguir a la misma velocidad",
+            "Acelerar para pasar rápido",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Reducir velocidad y detenerte si es necesario"
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en una zona residencial en Colorado, salvo que se indique lo contrario?",
+        "opciones": ["15 mph", "25 mph", "35 mph", "45 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "Si te aproximas a una luz amarilla, ¿qué debes hacer?",
+        "opciones": [
+            "Acelerar para pasar antes que cambie a roja",
+            "Detenerte si es seguro hacerlo",
+            "Ignorar la luz",
+            "Tocar la bocina y continuar"
+        ],
+        "respuesta_correcta": "Detenerte si es seguro hacerlo"
+    },
+    {
+        "pregunta": "Cuando estacionas cuesta arriba con un bordillo, ¿hacia dónde deben apuntar las ruedas?",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia el bordillo",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia el bordillo"
+    },
+    {
+        "pregunta": "¿Qué significa una línea amarilla discontinua en el centro de la carretera?",
+        "opciones": [
+            "No se puede pasar",
+            "Se permite adelantar si es seguro",
+            "Carril de bicicletas",
+            "Zona peatonal"
+        ],
+        "respuesta_correcta": "Se permite adelantar si es seguro"
+    },
+    {
+        "pregunta": "Al incorporarte a una autopista, debes:",
+        "opciones": [
+            "Acelerar para igualar la velocidad del tráfico",
+            "Detenerte antes de entrar",
+            "Entrar lentamente sin mirar",
+            "Cambiar de carril inmediatamente"
+        ],
+        "respuesta_correcta": "Acelerar para igualar la velocidad del tráfico"
+    },
+    {
+        "pregunta": "¿Qué distancia mínima debes mantener detrás de otro vehículo en condiciones normales?",
+        "opciones": ["1 segundo", "2 segundos", "5 segundos", "10 segundos"],
+        "respuesta_correcta": "2 segundos"
+    },
+    {
+        "pregunta": "Si un semáforo tiene una luz verde con una flecha, significa:",
+        "opciones": [
+            "Puedes girar en la dirección de la flecha",
+            "Debes detenerte",
+            "La flecha indica que debes ceder el paso",
+            "La luz verde es solo para peatones"
+        ],
+        "respuesta_correcta": "Puedes girar en la dirección de la flecha"
+    },
+    {
+        "pregunta": "En Colorado, los cinturones de seguridad son obligatorios para:",
+        "opciones": [
+            "Solo el conductor",
+            "Todos los pasajeros",
+            "Solo los pasajeros menores de 18 años",
+            "Ninguno"
+        ],
+        "respuesta_correcta": "Todos los pasajeros"
+    },
+    {
+        "pregunta": "¿Cuál es la manera correcta de usar las luces intermitentes al girar?",
+        "opciones": [
+            "Encenderlas justo al girar",
+            "Encenderlas al menos 100 pies antes de girar",
+            "Encenderlas después de girar",
+            "No es necesario usarlas"
+        ],
+        "respuesta_correcta": "Encenderlas al menos 100 pies antes de girar"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si un vehículo de emergencia se aproxima con luces y sirenas encendidas?",
+        "opciones": [
+            "Continuar como si nada",
+            "Reducir la velocidad y mantener tu carril",
+            "Detenerte y ceder el paso",
+            "Acelerar para no estorbar"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si llegas a un cruce de cuatro vías sin señalización, ¿quién tiene el derecho de paso?",
+        "opciones": [
+            "El vehículo que llegó primero",
+            "El que esté a la izquierda",
+            "El que esté a la derecha",
+            "El más rápido"
+        ],
+        "respuesta_correcta": "El vehículo que llegó primero"
+    },
+    {
+        "pregunta": "Si un autobús escolar tiene luces rojas intermitentes encendidas, debes:",
+        "opciones": [
+            "Reducir velocidad y pasar con cuidado",
+            "Detenerte sin importar la dirección",
+            "Solo detenerte si estás detrás",
+            "Acelerar para pasar rápido"
+        ],
+        "respuesta_correcta": "Detenerte sin importar la dirección"
+    },
+    {
+        "pregunta": "Conducir bajo la influencia de alcohol con un BAC de 0.08% o más es:",
+        "opciones": [
+            "Legal si no hay accidentes",
+            "Ilegal",
+            "Permitido solo de noche",
+            "Legal si se tiene licencia por más de 5 años"
+        ],
+        "respuesta_correcta": "Ilegal"
+    },
+    {
+        "pregunta": "Si ves un ciclista en la carretera, debes:",
+        "opciones": [
+            "Pasar muy cerca",
+            "Mantener una distancia segura",
+            "Tocar la bocina para que se mueva",
+            "Acelerar para adelantar rápidamente"
+        ],
+        "respuesta_correcta": "Mantener una distancia segura"
+    },
+    {
+        "pregunta": "Al conducir bajo lluvia intensa, debes:",
+        "opciones": [
+            "Encender luces bajas y reducir velocidad",
+            "Encender luces altas y acelerar",
+            "Detener el vehículo siempre",
+            "Usar la bocina constantemente"
+        ],
+        "respuesta_correcta": "Encender luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un semáforo está apagado en un cruce, debes:",
+        "opciones": [
+            "Pasar sin detenerte",
+            "Tratarlo como un cruce de stop de cuatro vías",
+            "Esperar a que alguien te indique",
+            "Encender tus luces de emergencia y continuar"
+        ],
+        "respuesta_correcta": "Tratarlo como un cruce de stop de cuatro vías"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Ceda el paso'?",
+        "opciones": [
+            "Detenerse siempre",
+            "Reducir velocidad y ceder el paso a otros vehículos",
+            "Acelerar para no bloquear el cruce",
+            "Solo se aplica en autopistas"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso a otros vehículos"
+    },
+    {
+        "pregunta": "¿Qué acción es correcta si un vehículo se acerca en tu carril mientras estás en una curva?",
+        "opciones": [
+            "Mantener tu carril y tocar bocina",
+            "Moverte hacia el borde derecho si es seguro",
+            "Acelerar para evitarlo",
+            "Detener el vehículo en la curva"
+        ],
+        "respuesta_correcta": "Moverte hacia el borde derecho si es seguro"
+    },
+    {
+        "pregunta": "Si estacionas en una pendiente hacia abajo sin bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia la acera",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "¿Cuál es la edad mínima para obtener una licencia de aprendizaje en Colorado?",
+        "opciones": ["14 años", "15 años", "16 años", "18 años"],
+        "respuesta_correcta": "15 años"
+    },
+    {
+        "pregunta": "Cuando te acercas a un tren en un cruce ferroviario, debes:",
+        "opciones": [
+            "Acelerar para cruzar antes del tren",
+            "Detenerte y mirar ambos lados",
+            "Ignorar las señales",
+            "Solo reducir la velocidad"
+        ],
+        "respuesta_correcta": "Detenerte y mirar ambos lados"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si un vehículo te sigue demasiado cerca?",
+        "opciones": [
+            "Frenar bruscamente",
+            "Cambiar de carril o reducir velocidad",
+            "Acelerar para alejarte",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Cambiar de carril o reducir velocidad"
+    },
+    {
+        "pregunta": "Si tu vehículo empieza a derrapar en hielo, debes:",
+        "opciones": [
+            "Girar bruscamente en la dirección opuesta",
+            "Girar suavemente hacia la dirección del derrape",
+            "Frenar fuertemente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Girar suavemente hacia la dirección del derrape"
+    },
+    {
+        "pregunta": "Si quieres dar vuelta a la izquierda en una intersección con semáforo, ¿cuándo puedes girar?",
+        "opciones": [
+            "Solo cuando la flecha verde esté encendida",
+            "En cualquier momento",
+            "Solo cuando no haya tráfico",
+            "Cuando el semáforo esté rojo"
+        ],
+        "respuesta_correcta": "Solo cuando la flecha verde esté encendida"
+    },
+    {
+        "pregunta": "En autopistas, los carriles más rápidos suelen estar a:",
+        "opciones": ["La derecha", "El centro", "La izquierda", "No hay regla"],
+        "respuesta_correcta": "La izquierda"
+    },
+    {
+        "pregunta": "Si un vehículo te adelanta en una curva, ¿qué debes hacer?",
+        "opciones": [
+            "Mantener velocidad y carril",
+            "Reducir velocidad y mantener tu carril",
+            "Acelerar para impedir el adelantamiento",
+            "Tocar bocina y desviarte"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mantener tu carril"
+    },
+    {
+        "pregunta": "Si las luces de freno de tu vehículo no funcionan, ¿qué debes hacer al detenerte?",
+        "opciones": [
+            "Usar las manos para indicar",
+            "Usar señales de emergencia",
+            "Usar señales de brazo o golpes de freno",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Usar señales de brazo o golpes de freno"
+    },
+    {
+        "pregunta": "¿Qué distancia mínima se debe mantener al adelantar a un ciclista?",
+        "opciones": ["3 pies", "5 pies", "10 pies", "1 pie"],
+        "respuesta_correcta": "3 pies"
+    },
+    {
+        "pregunta": "Si un semáforo cambia a rojo mientras estás dentro de la intersección, debes:",
+        "opciones": [
+            "Salir de la intersección con cuidado",
+            "Frenar inmediatamente",
+            "Dar marcha atrás",
+            "Encender luces de emergencia"
+        ],
+        "respuesta_correcta": "Salir de la intersección con cuidado"
+    },
+    {
+        "pregunta": "Al conducir de noche, ¿cuándo debes usar luces altas?",
+        "opciones": [
+            "En carreteras sin iluminación y sin vehículos adelante",
+            "Siempre",
+            "Solo en ciudad",
+            "Nunca"
+        ],
+        "respuesta_correcta": "En carreteras sin iluminación y sin vehículos adelante"
+    },
+    {
+        "pregunta": "Cuando estacionas en paralelo, debes estar a qué distancia del bordillo:",
+        "opciones": [
+            "Menos de 12 pulgadas",
+            "Más de 24 pulgadas",
+            "Exactamente 18 pulgadas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Menos de 12 pulgadas"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia está detenido en el borde de la carretera, debes:",
+        "opciones": [
+            "Continuar normalmente",
+            "Reducir velocidad y cambiar de carril si es seguro",
+            "Tocar la bocina",
+            "Acelerar para pasar rápido"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es seguro"
+    },
+    {
+        "pregunta": "Si un peatón cruza fuera del paso peatonal, debes:",
+        "opciones": [
+            "Detenerte y ceder el paso",
+            "Continuar y tocar bocina",
+            "Acelerar para pasar antes",
+            "Solo reducir velocidad"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "En carreteras con niebla, debes:",
+        "opciones": [
+            "Usar luces bajas y reducir velocidad",
+            "Usar luces altas para ver mejor",
+            "Conducir normalmente",
+            "Encender luces intermitentes continuamente"
+        ],
+        "respuesta_correcta": "Usar luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Cuando te aproximas a una señal de 'Stop', debes:",
+        "opciones": [
+            "Reducir velocidad y continuar si no hay tráfico",
+            "Detener completamente antes de continuar",
+            "Solo frenar parcialmente",
+            "Tocar bocina y pasar"
+        ],
+        "respuesta_correcta": "Detener completamente antes de continuar"
+    },
+    {
+        "pregunta": "Si tu vehículo tiene frenos antibloqueo (ABS) y necesitas frenar de emergencia, debes:",
+        "opciones": [
+            "Bombea el freno varias veces",
+            "Presionar y mantener el freno",
+            "Usar freno de mano",
+            "Encender luces de emergencia"
+        ],
+        "respuesta_correcta": "Presionar y mantener el freno"
+    },
+    {
+        "pregunta": "Si ves una señal de 'Reducción de carril', significa:",
+        "opciones": [
+            "Tu carril termina y debes incorporarte al siguiente",
+            "Puedes seguir igual",
+            "Es una zona de estacionamiento",
+            "Se permite girar solo a la derecha"
+        ],
+        "respuesta_correcta": "Tu carril termina y debes incorporarte al siguiente"
+    },
+    {
+        "pregunta": "Si un conductor delante de ti hace un giro sin señalizar, debes:",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y estar preparado para detenerte",
+            "Tocar bocina",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar preparado para detenerte"
+    },
+    {
+        "pregunta": "Si estacionas en una pendiente hacia arriba sin bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia la acera",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "En Colorado, ¿cuál es la edad mínima para obtener una licencia completa para conducir solo?",
+        "opciones": ["16 años", "17 años", "18 años", "15 años"],
+        "respuesta_correcta": "16 años"
+    },
+    {
+        "pregunta": "Si un ciclista está girando a la izquierda, debes:",
+        "opciones": [
+            "Adelantarlo por la derecha",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y pasar",
+            "Acelerar para adelantarte"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si ves una señal de 'Curva peligrosa', debes:",
+        "opciones": [
+            "Reducir velocidad antes de la curva",
+            "Mantener la misma velocidad",
+            "Acelerar para pasar rápido",
+            "Tocar bocina en la curva"
+        ],
+        "respuesta_correcta": "Reducir velocidad antes de la curva"
+    },
+    {
+        "pregunta": "Cuando te acercas a una rotonda, debes:",
+        "opciones": [
+            "Entrar sin detenerte",
+            "Ceder el paso a los vehículos dentro de la rotonda",
+            "Acelerar para entrar primero",
+            "Tocar bocina antes de entrar"
+        ],
+        "respuesta_correcta": "Ceder el paso a los vehículos dentro de la rotonda"
+    },
+    {
+        "pregunta": "Si una carretera está mojada y hay hidroplaneo, debes:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Quitar el pie del acelerador y dirigir suavemente",
+            "Girar el volante rápidamente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y dirigir suavemente"
+    },
+    {
+        "pregunta": "Si un semáforo tiene luz verde pero hay peatones cruzando, debes:",
+        "opciones": [
+            "Acelerar para pasar antes de que crucen",
+            "Detenerte hasta que crucen",
+            "Tocar bocina y seguir",
+            "Ignorarlos"
+        ],
+        "respuesta_correcta": "Detenerte hasta que crucen"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce de tren y las luces están parpadeando, debes:",
+        "opciones": [
+            "Detenerte y esperar que pase el tren",
+            "Acelerar y cruzar rápido",
+            "Ignorar las luces",
+            "Solo reducir velocidad"
+        ],
+        "respuesta_correcta": "Detenerte y esperar que pase el tren"
+    },
+    {
+        "pregunta": "Si quieres adelantar a otro vehículo en carretera de doble sentido, debes:",
+        "opciones": [
+            "Asegurarte de que no venga tráfico en sentido contrario",
+            "Adelantar siempre por la derecha",
+            "Tocar bocina y adelantar",
+            "No se puede adelantar"
+        ],
+        "respuesta_correcta": "Asegurarte de que no venga tráfico en sentido contrario"
+    },
+    {
+        "pregunta": "Si tu vehículo empieza a incendiarse, debes:",
+        "opciones": [
+            "Intentar apagarlo con agua",
+            "Salir del vehículo y llamar al 911",
+            "Seguir conduciendo hasta casa",
+            "Ignorarlo y seguir"
+        ],
+        "respuesta_correcta": "Salir del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "Cuando hay varias señales de tránsito y un oficial de policía dirigiendo, debes:",
+        "opciones": [
+            "Seguir las señales",
+            "Seguir las instrucciones del oficial",
+            "Ignorar todo",
+            "Hacer lo que haga el vehículo de adelante"
+        ],
+        "respuesta_correcta": "Seguir las instrucciones del oficial"
+    },
+    {
+        "pregunta": "Si tu vehículo comienza a patinar al frenar en nieve, debes:",
+        "opciones": [
+            "Presionar y mantener el freno si tiene ABS",
+            "Bombea el freno repetidamente",
+            "Frenar con el freno de mano",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Presionar y mantener el freno si tiene ABS"
+    },
+    {
+        "pregunta": "Si estás involucrado en un accidente con daños menores y no hay heridos, debes:",
+        "opciones": [
+            "Abandonar la escena",
+            "Intercambiar información con el otro conductor y reportar si es necesario",
+            "Solo tomar fotos y seguir",
+            "Llamar a la policía sin intercambiar información"
+        ],
+        "respuesta_correcta": "Intercambiar información con el otro conductor y reportar si es necesario"
+    },
+    {
+        "pregunta": "Si un vehículo delante de ti hace un giro inesperado, debes:",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y pasar",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si estacionas en paralelo junto a otro vehículo, debes dejar un espacio mínimo de:",
+        "opciones": ["1 pie", "2 pies", "3 pies", "No importa"],
+        "respuesta_correcta": "1 pie"
+    },
+    {
+        "pregunta": "Al conducir detrás de un autobús escolar, debes:",
+        "opciones": [
+            "Mantener distancia y estar atento a señales",
+            "Adelantar rápidamente",
+            "Encender luces altas para alertar",
+            "Seguir muy cerca"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento a señales"
+    },
+    {
+        "pregunta": "Si ves una señal de 'Zona de construcción', debes:",
+        "opciones": [
+            "Reducir velocidad y estar atento a trabajadores",
+            "Acelerar para pasar rápido",
+            "Ignorar la señal",
+            "Solo cambiar de carril"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar atento a trabajadores"
+    },
+    {
+        "pregunta": "Si un vehículo se acerca por detrás con luces altas, debes:",
+        "opciones": [
+            "Encender luces altas también",
+            "Reducir velocidad y mirar hacia la derecha",
+            "Tocar bocina y acelerar",
+            "Mantener velocidad y mirar directo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar hacia la derecha"
+    },
+    {
+        "pregunta": "Si estás en una carretera con hielo negro, debes:",
+        "opciones": [
+            "Acelerar para no patinar",
+            "Reducir velocidad y evitar giros bruscos",
+            "Frenar bruscamente",
+            "Ignorar las condiciones"
+        ],
+        "respuesta_correcta": "Reducir velocidad y evitar giros bruscos"
+    },
+    {
+        "pregunta": "Al aproximarte a un cruce con señal de 'Ceda el paso', debes:",
+        "opciones": [
+            "Detenerte completamente siempre",
+            "Reducir velocidad y ceder el paso si hay tráfico",
+            "Acelerar para cruzar primero",
+            "Solo mirar a la derecha"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si hay tráfico"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia está detrás de ti en una autopista, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Moverte al carril derecho y reducir velocidad",
+            "Acelerar para no estorbar",
+            "Detenerte en el carril"
+        ],
+        "respuesta_correcta": "Moverte al carril derecho y reducir velocidad"
+    },
+    {
+        "pregunta": "Si quieres girar a la derecha en un semáforo rojo, debes:",
+        "opciones": [
+            "Detenerte completamente y ceder el paso si es seguro",
+            "Girar sin detenerte",
+            "Esperar a luz verde siempre",
+            "Solo reducir velocidad y girar"
+        ],
+        "respuesta_correcta": "Detenerte completamente y ceder el paso si es seguro"
+    },
+    {
+        "pregunta": "Si un semáforo está en rojo y quieres girar a la izquierda desde una calle de un solo sentido hacia otra de un solo sentido, debes:",
+        "opciones": [
+            "Esperar a que esté en verde",
+            "Girar inmediatamente",
+            "Encender luces altas y girar",
+            "Tocar bocina y girar"
+        ],
+        "respuesta_correcta": "Esperar a que esté en verde"
+    },
+    {
+        "pregunta": "Si tu vehículo tiene frenos ABS y comienzas a derrapar, debes:",
+        "opciones": [
+            "Bombea los frenos",
+            "Presionar y mantener el freno mientras diriges suavemente",
+            "Usar solo el freno de mano",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Presionar y mantener el freno mientras diriges suavemente"
+    },
+    {
+        "pregunta": "Si un vehículo se detiene en tu carril debido a un accidente adelante, debes:",
+        "opciones": [
+            "Adelantar por la derecha rápidamente",
+            "Reducir velocidad y cambiar de carril si es seguro",
+            "Encender luces altas y continuar",
+            "Detenerte en seco y esperar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es seguro"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo señala para girar a la derecha, debes:",
+        "opciones": [
+            "Mantener distancia y estar listo para detenerte",
+            "Adelantar por la derecha",
+            "Tocar bocina y seguir",
+            "Acelerar para pasar primero"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si estás en un cruce y las luces de tráfico no funcionan, debes:",
+        "opciones": [
+            "Pasar con cuidado como si fuera un cruce de stop de cuatro vías",
+            "Seguir normalmente",
+            "Tocar bocina y pasar",
+            "Acelerar para cruzar primero"
+        ],
+        "respuesta_correcta": "Pasar con cuidado como si fuera un cruce de stop de cuatro vías"
+    },
+    {
+        "pregunta": "Cuando estacionas en una pendiente hacia arriba con bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia el bordillo",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia el bordillo"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia tiene sirenas y luces encendidas y viene detrás de ti en una autopista, debes:",
+        "opciones": [
+            "Seguir igual",
+            "Moverte al carril derecho y reducir velocidad",
+            "Acelerar para alejarte",
+            "Detenerte en el carril"
+        ],
+        "respuesta_correcta": "Moverte al carril derecho y reducir velocidad"
+    },
+    {
+        "pregunta": "Si conduces de noche y otro vehículo tiene luces altas, debes:",
+        "opciones": [
+            "Mirar directamente las luces",
+            "Reducir velocidad y mirar hacia la derecha",
+            "Encender luces altas también",
+            "Tocar bocina"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar hacia la derecha"
+    },
+    {
+        "pregunta": "Cuando te aproximas a un cruce peatonal sin semáforo y hay peatones esperando, debes:",
+        "opciones": [
+            "Acelerar para pasar antes",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y seguir",
+            "Solo reducir velocidad"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si un vehículo tiene luces intermitentes activadas mientras estaciona, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Mantener distancia y estar atento",
+            "Adelantar rápidamente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento"
+    },
+    {
+        "pregunta": "Si tu vehículo comienza a incendiarse, debes:",
+        "opciones": [
+            "Intentar apagarlo con agua",
+            "Salir del vehículo y llamar al 911",
+            "Seguir conduciendo hasta llegar a casa",
+            "Ignorar el fuego"
+        ],
+        "respuesta_correcta": "Salir del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "Si un conductor está distraído y se acerca a tu carril, debes:",
+        "opciones": [
+            "Acelerar para evitarlo",
+            "Reducir velocidad y moverte al carril derecho si es seguro",
+            "Tocar bocina y mantener tu carril",
+            "Frenar bruscamente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y moverte al carril derecho si es seguro"
+    },
+    {
+        "pregunta": "Si estacionas en paralelo, debes estar a qué distancia del vehículo de adelante y atrás:",
+        "opciones": [
+            "Al menos 2 pies",
+            "Menos de 1 pie",
+            "Exactamente 6 pulgadas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Al menos 2 pies"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se detiene en el borde de la carretera, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Reducir velocidad y cambiar de carril si es seguro",
+            "Encender luces altas",
+            "Tocar bocina y seguir"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es seguro"
+    },
+    {
+        "pregunta": "Cuando hay niebla densa, debes usar:",
+        "opciones": [
+            "Luces bajas y reducir velocidad",
+            "Luces altas",
+            "Encender luces intermitentes",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un ciclista va a girar a la izquierda, debes:",
+        "opciones": [
+            "Adelantarlo por la derecha",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y pasar",
+            "Acelerar para adelantarte"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si tu vehículo patina en nieve, debes:",
+        "opciones": [
+            "Girar bruscamente en sentido opuesto",
+            "Girar suavemente en la dirección del patinaje",
+            "Frenar fuerte",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del patinaje"
+    },
+    {
+        "pregunta": "Al ver una señal de 'Reducción de carril', debes:",
+        "opciones": [
+            "Incorporarte al carril siguiente de manera segura",
+            "Seguir igual",
+            "Encender luces altas",
+            "Tocar bocina"
+        ],
+        "respuesta_correcta": "Incorporarte al carril siguiente de manera segura"
+    },
+    {
+        "pregunta": "Si un semáforo cambia a amarillo mientras cruzas la intersección, debes:",
+        "opciones": [
+            "Acelerar para salir rápido",
+            "Salir con cuidado",
+            "Frenar bruscamente en medio",
+            "Dar marcha atrás"
+        ],
+        "respuesta_correcta": "Salir con cuidado"
+    },
+    {
+        "pregunta": "Si un peatón está cruzando con luz verde peatonal, pero el semáforo de tu carril está en verde, debes:",
+        "opciones": [
+            "Pasar antes que el peatón",
+            "Detenerte y ceder el paso",
+            "Tocar bocina para que se mueva",
+            "Acelerar y cruzar rápido"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo frena bruscamente, debes:",
+        "opciones": [
+            "Frenar inmediatamente sin pensar",
+            "Mantener distancia de seguimiento y frenar suavemente",
+            "Adelantarlo por la derecha",
+            "Tocar bocina y acelerar"
+        ],
+        "respuesta_correcta": "Mantener distancia de seguimiento y frenar suavemente"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce de vía férrea y hay varios trenes, debes:",
+        "opciones": [
+            "Cruzar rápidamente",
+            "Detenerte y esperar a que pase todo tren",
+            "Pasar solo si no hay señales activas",
+            "Ignorar la señal"
+        ],
+        "respuesta_correcta": "Detenerte y esperar a que pase todo tren"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se acerca con sirenas y luces, y estás en una intersección, debes:",
+        "opciones": [
+            "Pasar rápido para no bloquear",
+            "Detenerte dentro de la intersección",
+            "Moverte fuera de la intersección y ceder el paso",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Moverte fuera de la intersección y ceder el paso"
+    },
+    {
+        "pregunta": "Si un ciclista va por el carril y hay mucho tráfico, debes:",
+        "opciones": [
+            "Adelantarlo muy cerca",
+            "Reducir velocidad y mantener distancia segura",
+            "Tocar bocina para que se mueva",
+            "Ignorarlo y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mantener distancia segura"
+    },
+    {
+        "pregunta": "Si hay hielo negro en la carretera, debes:",
+        "opciones": [
+            "Acelerar para mantener control",
+            "Reducir velocidad y evitar movimientos bruscos",
+            "Frenar bruscamente",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y evitar movimientos bruscos"
+    },
+    {
+        "pregunta": "Si estás en una carretera de un solo sentido y quieres girar a la izquierda en un semáforo rojo, debes:",
+        "opciones": [
+            "Detenerte completamente y ceder el paso",
+            "Girar sin detenerte",
+            "Esperar la luz verde",
+            "Encender luces altas y girar"
+        ],
+        "respuesta_correcta": "Detenerte completamente y ceder el paso"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce con señal de 'Ceda el paso', debes:",
+        "opciones": [
+            "Detenerte completamente siempre",
+            "Reducir velocidad y ceder el paso si hay tráfico",
+            "Acelerar para cruzar primero",
+            "Solo mirar a la derecha"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si hay tráfico"
+    },
+    {
+        "pregunta": "Si un vehículo hace un giro inesperado frente a ti, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y estar listo para frenar",
+            "Tocar bocina y seguir",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para frenar"
+    },
+    {
+        "pregunta": "Si un autobús escolar tiene luces amarillas intermitentes, significa:",
+        "opciones": [
+            "Prepararte para detenerte",
+            "Puedes adelantar con cuidado",
+            "Seguir normalmente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Prepararte para detenerte"
+    },
+    {
+        "pregunta": "Si estás en un cruce peatonal y un peatón empieza a cruzar fuera del paso peatonal, debes:",
+        "opciones": [
+            "Detenerte y ceder el paso",
+            "Acelerar para pasar antes",
+            "Tocar bocina y seguir",
+            "Solo reducir velocidad"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Cuando estacionas en paralelo junto a otro vehículo, debes:",
+        "opciones": [
+            "Dejar al menos 1 pie de espacio",
+            "Estar pegado al vehículo de adelante",
+            "Estar a más de 3 pies",
+            "No importa"
+        ],
+        "respuesta_correcta": "Dejar al menos 1 pie de espacio"
+    },
+    {
+        "pregunta": "Si conduces detrás de un vehículo con luces intermitentes de peligro, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Mantener distancia y estar atento",
+            "Adelantar rápidamente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento"
+    },
+    {
+        "pregunta": "Si estacionas en una pendiente hacia abajo con bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia el bordillo",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "Si un semáforo cambia a amarillo mientras cruzas, debes:",
+        "opciones": [
+            "Acelerar para salir rápido",
+            "Salir con cuidado",
+            "Frenar bruscamente",
+            "Dar marcha atrás"
+        ],
+        "respuesta_correcta": "Salir con cuidado"
+    },
+    {
+        "pregunta": "Si un vehículo se detiene delante de un cruce peatonal, debes:",
+        "opciones": [
+            "Adelantarlo por la derecha",
+            "Detenerte y esperar que crucen peatones",
+            "Tocar bocina y pasar",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Detenerte y esperar que crucen peatones"
+    },
+    {
+        "pregunta": "Si te aproximas a una señal de 'Reducción de carril', debes:",
+        "opciones": [
+            "Incorporarte al carril siguiente de manera segura",
+            "Seguir igual",
+            "Encender luces altas",
+            "Tocar bocina"
+        ],
+        "respuesta_correcta": "Incorporarte al carril siguiente de manera segura"
+    },
+    {
+        "pregunta": "Si te aproximas a un vehículo que da marcha atrás en un estacionamiento, debes:",
+        "opciones": [
+            "Tocar bocina y pasar",
+            "Reducir velocidad y estar listo para detenerte",
+            "Adelantar por la izquierda sin reducir velocidad",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si ves una señal de 'Prohibido girar a la izquierda', significa:",
+        "opciones": [
+            "No puedes girar a la izquierda en esa intersección",
+            "Puedes girar a la izquierda si no hay tráfico",
+            "Solo prohibido girar a la izquierda en horas pico",
+            "Es una recomendación, no obligatorio"
+        ],
+        "respuesta_correcta": "No puedes girar a la izquierda en esa intersección"
+    },
+    {
+        "pregunta": "Si conduces en una carretera con lluvia intensa, debes:",
+        "opciones": [
+            "Usar luces bajas y reducir velocidad",
+            "Usar luces altas y acelerar",
+            "Frenar bruscamente si ves agua",
+            "Encender luces intermitentes continuamente"
+        ],
+        "respuesta_correcta": "Usar luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si quieres cambiar de carril, debes:",
+        "opciones": [
+            "Encender señal de giro, revisar espejos y ángulo muerto, luego cambiar",
+            "Cambiar inmediatamente sin señalizar",
+            "Solo tocar bocina antes de cambiar",
+            "Encender luces altas y cambiar"
+        ],
+        "respuesta_correcta": "Encender señal de giro, revisar espejos y ángulo muerto, luego cambiar"
+    },
+    {
+        "pregunta": "Si un vehículo te sigue muy cerca (tailgating), debes:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Reducir velocidad gradualmente y aumentar distancia con el vehículo delante",
+            "Acelerar para alejarte",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad gradualmente y aumentar distancia con el vehículo delante"
+    },
+    {
+        "pregunta": "Si tu vehículo comienza a incendiarse mientras conduces, debes:",
+        "opciones": [
+            "Seguir conduciendo hasta llegar a casa",
+            "Detenerte, salir y llamar al 911",
+            "Intentar apagarlo con agua mientras conduces",
+            "Ignorar y continuar"
+        ],
+        "respuesta_correcta": "Detenerte, salir y llamar al 911"
+    },
+    {
+        "pregunta": "Si un vehículo se aproxima con luces altas encendidas, debes:",
+        "opciones": [
+            "Mirar directamente las luces",
+            "Reducir velocidad y mirar hacia la derecha",
+            "Encender luces altas también",
+            "Tocar bocina"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar hacia la derecha"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se aproxima con sirenas y luces, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Detenerte y permanecer en el carril",
+            "Moverte al carril derecho y reducir velocidad",
+            "Acelerar para alejarte"
+        ],
+        "respuesta_correcta": "Moverte al carril derecho y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un semáforo cambia a amarillo mientras te aproximas a la intersección, debes:",
+        "opciones": [
+            "Acelerar para pasar antes que cambie a rojo",
+            "Reducir velocidad y detenerte si es seguro",
+            "Ignorar la luz amarilla",
+            "Tocar bocina y pasar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y detenerte si es seguro"
+    },
+    {
+        "pregunta": "Cuando estacionas en paralelo, ¿a qué distancia del bordillo debes estar?",
+        "opciones": [
+            "Menos de 12 pulgadas",
+            "Entre 1 y 2 pies",
+            "Exactamente 18 pulgadas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Menos de 12 pulgadas"
+    },
+    {
+        "pregunta": "Si un autobús escolar tiene luces rojas intermitentes, debes:",
+        "opciones": [
+            "Detenerte sin importar el carril",
+            "Reducir velocidad y pasar con cuidado",
+            "Seguir normalmente",
+            "Solo detenerte si estás detrás del autobús"
+        ],
+        "respuesta_correcta": "Detenerte sin importar el carril"
+    },
+    {
+        "pregunta": "Si un vehículo delante de ti gira sin señalizar, debes:",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si estás en autopista y quieres salir en una rampa, debes:",
+        "opciones": [
+            "Reducir velocidad gradualmente en la rampa",
+            "Frenar bruscamente antes de la rampa",
+            "Mantener velocidad hasta la salida",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Reducir velocidad gradualmente en la rampa"
+    },
+    {
+        "pregunta": "Si estacionas en pendiente hacia abajo con bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia el bordillo",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "Cuando hay niebla, debes usar:",
+        "opciones": [
+            "Luces bajas y reducir velocidad",
+            "Luces altas",
+            "Encender luces intermitentes",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un cruce peatonal tiene un semáforo verde para vehículos, pero hay peatones cruzando, debes:",
+        "opciones": [
+            "Acelerar para pasar",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y seguir",
+            "Ignorarlos"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si te aproximas a una señal de 'Pare', debes:",
+        "opciones": [
+            "Detenerte completamente y continuar cuando sea seguro",
+            "Reducir velocidad y continuar",
+            "Tocar bocina y pasar",
+            "Solo mirar y seguir"
+        ],
+        "respuesta_correcta": "Detenerte completamente y continuar cuando sea seguro"
+    },
+    {
+        "pregunta": "Si un vehículo está girando a la derecha desde tu carril, debes:",
+        "opciones": [
+            "Mantener distancia y estar listo para detenerte",
+            "Adelantarlo por la derecha",
+            "Tocar bocina y seguir",
+            "Acelerar para pasar primero"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si un ciclista va recto y tú quieres girar a la derecha, debes:",
+        "opciones": [
+            "Ceder el paso al ciclista",
+            "Adelantar al ciclista por la derecha",
+            "Tocar bocina y girar",
+            "Acelerar y girar primero"
+        ],
+        "respuesta_correcta": "Ceder el paso al ciclista"
+    },
+    {
+        "pregunta": "Si tu vehículo comienza a patinar sobre hielo, debes:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar suavemente en la dirección del patinaje",
+            "Girar bruscamente en dirección opuesta",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del patinaje"
+    },
+    {
+        "pregunta": "Si un autobús escolar tiene luces amarillas intermitentes encendidas, debes:",
+        "opciones": [
+            "Prepararte para detenerte",
+            "Adelantar con cuidado",
+            "Seguir normalmente",
+            "Ignorar y continuar"
+        ],
+        "respuesta_correcta": "Prepararte para detenerte"
+    },
+    {
+        "pregunta": "Si un vehículo delante de ti hace un giro sin señalizar, debes:",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si estacionas en paralelo junto a otro vehículo, debes:",
+        "opciones": [
+            "Dejar al menos 1 pie de espacio",
+            "Estar pegado al vehículo de adelante",
+            "Estar a más de 3 pies",
+            "No importa"
+        ],
+        "respuesta_correcta": "Dejar al menos 1 pie de espacio"
+    },
+    {
+        "pregunta": "Si conduces detrás de un vehículo con luces intermitentes de peligro encendidas, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Mantener distancia y estar atento",
+            "Adelantar rápidamente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento"
+    },
+    {
+        "pregunta": "Si estacionas en pendiente hacia arriba con bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia el bordillo",
+            "Hacia la calle",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia el bordillo"
+    },
+    {
+        "pregunta": "Si hay niebla densa, debes:",
+        "opciones": [
+            "Usar luces bajas y reducir velocidad",
+            "Usar luces altas",
+            "Encender luces intermitentes",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Usar luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un cruce peatonal tiene semáforo verde para vehículos pero hay peatones cruzando, debes:",
+        "opciones": [
+            "Acelerar para pasar",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y seguir",
+            "Ignorarlos"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si un ciclista va recto y tú quieres girar a la izquierda, debes:",
+        "opciones": [
+            "Ceder el paso al ciclista",
+            "Adelantarlo por la derecha",
+            "Tocar bocina y girar",
+            "Acelerar y girar primero"
+        ],
+        "respuesta_correcta": "Ceder el paso al ciclista"
+    },
+    {
+        "pregunta": "Si tu vehículo comienza a patinar en nieve, debes:",
+        "opciones": [
+            "Girar bruscamente en dirección opuesta",
+            "Girar suavemente hacia la dirección del patinaje",
+            "Frenar fuertemente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Girar suavemente hacia la dirección del patinaje"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo gira sin señalizar, debes:",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce de tren sin señales, debes:",
+        "opciones": [
+            "Acelerar para cruzar rápido",
+            "Reducir velocidad, mirar ambos lados y cruzar con precaución",
+            "Ignorar el cruce",
+            "Solo tocar bocina y cruzar"
+        ],
+        "respuesta_correcta": "Reducir velocidad, mirar ambos lados y cruzar con precaución"
+    },
+    {
+        "pregunta": "Si un vehículo se detiene delante de ti en un cruce peatonal, debes:",
+        "opciones": [
+            "Adelantar por la derecha",
+            "Detenerte y esperar que crucen los peatones",
+            "Tocar bocina y pasar",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Detenerte y esperar que crucen los peatones"
+    },
+    {
+        "pregunta": "Si te aproximas a una señal de 'Ceda el paso', debes:",
+        "opciones": [
+            "Reducir velocidad y ceder el paso si hay tráfico",
+            "Detenerte completamente siempre",
+            "Acelerar para cruzar primero",
+            "Solo mirar a la derecha"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si hay tráfico"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se acerca con sirenas y luces encendidas, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Detenerte y permanecer en el carril",
+            "Moverte al carril derecho y reducir velocidad",
+            "Acelerar para alejarte"
+        ],
+        "respuesta_correcta": "Moverte al carril derecho y reducir velocidad"
+    },
+    {
+        "pregunta": "Si estacionas en paralelo junto a otro vehículo, debes dejar:",
+        "opciones": [
+            "Al menos 1 pie de espacio",
+            "Estar pegado al vehículo de adelante",
+            "Estar a más de 3 pies",
+            "No importa"
+        ],
+        "respuesta_correcta": "Al menos 1 pie de espacio"
+    },
+    {
+        "pregunta": "Si un vehículo se aproxima con luces altas, debes:",
+        "opciones": [
+            "Mirar directamente las luces",
+            "Reducir velocidad y mirar hacia la derecha",
+            "Encender luces altas también",
+            "Tocar bocina"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar hacia la derecha"
+    },
+    {
+        "pregunta": "Si conduces en una carretera con niebla, debes:",
+        "opciones": [
+            "Usar luces bajas y reducir velocidad",
+            "Usar luces altas",
+            "Encender luces intermitentes",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Usar luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo hace un giro inesperado, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se aproxima con sirenas y luces encendidas mientras estás en una intersección, debes:",
+        "opciones": [
+            "Pasar rápido para no bloquear",
+            "Detenerte dentro de la intersección",
+            "Moverte fuera de la intersección y ceder el paso",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Moverte fuera de la intersección y ceder el paso"
+    },
+    {
+        "pregunta": "Si estás conduciendo detrás de un vehículo con luces intermitentes de peligro encendidas, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Mantener distancia y estar atento",
+            "Adelantar rápidamente",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento"
+    },
+    {
+        "pregunta": "Si estacionas en pendiente hacia arriba sin bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia la acera",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "Si conduces detrás de un vehículo que da marcha atrás en un estacionamiento, debes:",
+        "opciones": [
+            "Tocar bocina y pasar",
+            "Reducir velocidad y estar listo para detenerte",
+            "Adelantar por la izquierda sin reducir velocidad",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si un vehículo delante de ti hace un giro a la derecha sin señalizar, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce peatonal sin semáforo y hay peatones esperando, debes:",
+        "opciones": [
+            "Acelerar para pasar antes",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y seguir",
+            "Solo reducir velocidad"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si un semáforo no funciona, debes:",
+        "opciones": [
+            "Pasar con cuidado como si fuera un cruce de stop de cuatro vías",
+            "Seguir normalmente",
+            "Tocar bocina y pasar",
+            "Acelerar para cruzar primero"
+        ],
+        "respuesta_correcta": "Pasar con cuidado como si fuera un cruce de stop de cuatro vías"
+    },
+    {
+        "pregunta": "Si estacionas en una pendiente hacia arriba con bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia el bordillo",
+            "Hacia la calle",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia el bordillo"
+    },
+    {
+        "pregunta": "Si te aproximas a una señal de 'Zona de construcción', debes:",
+        "opciones": [
+            "Reducir velocidad y estar atento a trabajadores",
+            "Acelerar para pasar rápido",
+            "Ignorar la señal",
+            "Solo cambiar de carril"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar atento a trabajadores"
+    },
+    {
+        "pregunta": "Si quieres girar a la izquierda en un semáforo rojo desde una calle de un solo sentido hacia otra de un solo sentido, debes:",
+        "opciones": [
+            "Detenerte completamente y ceder el paso",
+            "Girar sin detenerte",
+            "Esperar la luz verde",
+            "Encender luces altas y girar"
+        ],
+        "respuesta_correcta": "Detenerte completamente y ceder el paso"
+    },
+    {
+        "pregunta": "Si estacionas en paralelo, ¿a qué distancia del vehículo de adelante y atrás debes estar?",
+        "opciones": [
+            "Al menos 2 pies",
+            "Menos de 1 pie",
+            "Exactamente 6 pulgadas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Al menos 2 pies"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce con señal de 'Pare', debes:",
+        "opciones": [
+            "Detenerte completamente y continuar cuando sea seguro",
+            "Reducir velocidad y continuar",
+            "Tocar bocina y pasar",
+            "Solo mirar y seguir"
+        ],
+        "respuesta_correcta": "Detenerte completamente y continuar cuando sea seguro"
+    },
+    {
+        "pregunta": "Si estás conduciendo y un animal cruza repentinamente la carretera, debes:",
+        "opciones": [
+            "Frenar bruscamente y girar sin cuidado",
+            "Reducir velocidad y frenar con control",
+            "Acelerar para pasar rápido",
+            "Ignorar al animal"
+        ],
+        "respuesta_correcta": "Reducir velocidad y frenar con control"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce ferroviario con luces intermitentes encendidas, debes:",
+        "opciones": [
+            "Cruzar rápidamente",
+            "Detenerte y esperar a que se apaguen las luces",
+            "Encender luces altas y continuar",
+            "Tocar bocina y cruzar"
+        ],
+        "respuesta_correcta": "Detenerte y esperar a que se apaguen las luces"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo tiene una llanta ponchada, debes:",
+        "opciones": [
+            "Adelantar inmediatamente",
+            "Mantener distancia y estar atento a movimientos inesperados",
+            "Tocar bocina y pasar",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento a movimientos inesperados"
+    },
+    {
+        "pregunta": "Si hay un derrame de aceite o líquido en la carretera, debes:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Reducir velocidad y evitar giros bruscos",
+            "Acelerar para pasar rápido",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Reducir velocidad y evitar giros bruscos"
+    },
+    {
+        "pregunta": "Si te aproximas a un semáforo en rojo y quieres girar a la derecha, debes:",
+        "opciones": [
+            "Detenerte completamente y ceder el paso",
+            "Girar sin detenerte",
+            "Solo reducir velocidad",
+            "Tocar bocina y girar"
+        ],
+        "respuesta_correcta": "Detenerte completamente y ceder el paso"
+    },
+    {
+        "pregunta": "Si un ciclista está utilizando la vía completa para girar a la izquierda, debes:",
+        "opciones": [
+            "Adelantarlo por la derecha",
+            "Mantener distancia y esperar que complete el giro",
+            "Tocar bocina y pasar",
+            "Ignorar al ciclista"
+        ],
+        "respuesta_correcta": "Mantener distancia y esperar que complete el giro"
+    },
+    {
+        "pregunta": "Si un autobús escolar está detenido en tu carril con luces rojas intermitentes, incluso en una carretera de varios carriles, debes:",
+        "opciones": [
+            "Detenerte hasta que el bus continúe",
+            "Adelantar con cuidado",
+            "Seguir normalmente",
+            "Encender luces altas y pasar"
+        ],
+        "respuesta_correcta": "Detenerte hasta que el bus continúe"
+    },
+    {
+        "pregunta": "Si un vehículo delante de ti gira a la izquierda desde un carril incorrecto, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Ignorar la situación"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si conduces por una carretera resbaladiza y ves un charco profundo, debes:",
+        "opciones": [
+            "Acelerar para pasar rápido",
+            "Reducir velocidad y rodear el charco si es seguro",
+            "Frenar bruscamente dentro del charco",
+            "Ignorar el charco"
+        ],
+        "respuesta_correcta": "Reducir velocidad y rodear el charco si es seguro"
+    },
+    {
+        "pregunta": "Si un vehículo se detiene en un cruce peatonal, debes:",
+        "opciones": [
+            "Adelantar por la derecha",
+            "Detenerte y esperar que crucen los peatones",
+            "Tocar bocina y pasar",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Detenerte y esperar que crucen los peatones"
+    },
+    {
+        "pregunta": "Si un vehículo se aproxima en sentido contrario en una carretera de doble sentido y se sale de su carril, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y moverte a tu derecha",
+            "Encender luces altas",
+            "Ignorar el vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y moverte a tu derecha"
+    },
+    {
+        "pregunta": "Si estás en un cruce con visibilidad limitada, debes:",
+        "opciones": [
+            "Acelerar para pasar primero",
+            "Reducir velocidad y avanzar con precaución",
+            "Tocar bocina y pasar",
+            "Mantener velocidad normal"
+        ],
+        "respuesta_correcta": "Reducir velocidad y avanzar con precaución"
+    },
+    {
+        "pregunta": "Si estacionas en paralelo con bordillo inclinado hacia la calle, las ruedas delanteras deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia el bordillo",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia está estacionado con luces encendidas, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Reducir velocidad y cambiar de carril si es seguro",
+            "Encender luces altas",
+            "Tocar bocina y seguir"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es seguro"
+    },
+    {
+        "pregunta": "Si un ciclista va por el carril de tráfico y tú quieres adelantarlo, debes:",
+        "opciones": [
+            "Adelantarlo dejando al menos 3 pies de distancia",
+            "Pasar lo más cerca posible",
+            "Tocar bocina y adelantar",
+            "Ignorar al ciclista"
+        ],
+        "respuesta_correcta": "Adelantarlo dejando al menos 3 pies de distancia"
+    },
+    {
+        "pregunta": "Si estás en autopista y pierdes tu salida, debes:",
+        "opciones": [
+            "Dar reversa en la autopista",
+            "Seguir hasta la próxima salida",
+            "Detenerte en el carril de emergencia",
+            "Encender luces de emergencia y retroceder"
+        ],
+        "respuesta_correcta": "Seguir hasta la próxima salida"
+    },
+    {
+        "pregunta": "Si te aproximas a un semáforo en rojo y no hay señal de giro a la derecha permitido, debes:",
+        "opciones": [
+            "Esperar a que esté en verde",
+            "Girar de todos modos",
+            "Tocar bocina y girar",
+            "Encender luces altas y girar"
+        ],
+        "respuesta_correcta": "Esperar a que esté en verde"
+    },
+    {
+        "pregunta": "Si un peatón está cruzando en una zona designada y tú tienes luz verde, debes:",
+        "opciones": [
+            "Continuar sin detenerte",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y pasar",
+            "Acelerar para pasar primero"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se acerca desde atrás con sirenas encendidas y estás en una intersección, debes:",
+        "opciones": [
+            "Continuar normalmente",
+            "Moverte fuera de la intersección y ceder el paso",
+            "Detenerte dentro de la intersección",
+            "Acelerar para salir de la intersección"
+        ],
+        "respuesta_correcta": "Moverte fuera de la intersección y ceder el paso"
+    },
+    {
+        "pregunta": "Si conduces en una carretera con fuertes lluvias, debes:",
+        "opciones": [
+            "Usar luces bajas y reducir velocidad",
+            "Usar luces altas",
+            "Frenar bruscamente al ver agua",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Usar luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo tiene las luces de freno encendidas de repente, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y mantener distancia segura",
+            "Tocar bocina y pasar",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mantener distancia segura"
+    },
+    {
+        "pregunta": "Si te aproximas a una zona escolar con niños cruzando, debes:",
+        "opciones": [
+            "Reducir velocidad y detenerte si es necesario",
+            "Seguir a la misma velocidad",
+            "Acelerar para pasar rápido",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Reducir velocidad y detenerte si es necesario"
+    },
+    {
+        "pregunta": "Si un ciclista va a girar a la derecha y tú estás detrás, debes:",
+        "opciones": [
+            "Adelantarlo por la derecha",
+            "Reducir velocidad y ceder el paso si es necesario",
+            "Tocar bocina y pasar",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se aproxima desde el carril opuesto en una carretera de dos carriles, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Detenerte inmediatamente",
+            "Reducir velocidad y moverte a la derecha si es seguro",
+            "Acelerar para alejarte"
+        ],
+        "respuesta_correcta": "Reducir velocidad y moverte a la derecha si es seguro"
+    },
+    {
+        "pregunta": "Si conduces en una carretera con hielo negro, debes:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Reducir velocidad y evitar movimientos bruscos",
+            "Acelerar para mantener control",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Reducir velocidad y evitar movimientos bruscos"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo da marcha atrás en un estacionamiento, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si te aproximas a un cruce de tren y ves varios trenes, debes:",
+        "opciones": [
+            "Cruzar rápidamente",
+            "Detenerte y esperar a que pasen todos los trenes",
+            "Pasar solo si no hay señales activas",
+            "Ignorar la señal"
+        ],
+        "respuesta_correcta": "Detenerte y esperar a que pasen todos los trenes"
+    },
+    {
+        "pregunta": "Si hay niebla, debes usar:",
+        "opciones": [
+            "Luces bajas y reducir velocidad",
+            "Luces altas",
+            "Encender luces intermitentes",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si estacionas en paralelo, ¿a qué distancia del bordillo debes estar?",
+        "opciones": [
+            "Menos de 12 pulgadas",
+            "Entre 1 y 2 pies",
+            "Exactamente 18 pulgadas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Menos de 12 pulgadas"
+    },
+    {
+        "pregunta": "Si un vehículo te sigue muy de cerca, debes:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Reducir velocidad gradualmente y permitir que te adelante si es seguro",
+            "Acelerar inmediatamente",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad gradualmente y permitir que te adelante si es seguro"
+    },
+    {
+        "pregunta": "Si te aproximas a una intersección sin semáforo ni señal de 'Pare', debes:",
+        "opciones": [
+            "Acelerar para cruzar primero",
+            "Reducir velocidad y ceder el paso a vehículos en la intersección",
+            "Seguir normalmente",
+            "Tocar bocina y pasar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso a vehículos en la intersección"
+    },
+    {
+        "pregunta": "Si un vehículo se detiene delante de ti para dar paso a un peatón, debes:",
+        "opciones": [
+            "Adelantarlo por la derecha",
+            "Detenerte y esperar que crucen",
+            "Tocar bocina y seguir",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Detenerte y esperar que crucen"
+    },
+    {
+        "pregunta": "Si hay escombros en la carretera, debes:",
+        "opciones": [
+            "Pasar sobre ellos",
+            "Reducir velocidad y rodearlos si es seguro",
+            "Acelerar para pasar rápido",
+            "Ignorarlos"
+        ],
+        "respuesta_correcta": "Reducir velocidad y rodearlos si es seguro"
+    },
+    {
+        "pregunta": "Si un vehículo da marcha atrás en un estacionamiento, debes:",
+        "opciones": [
+            "Adelantarlo rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y pasar",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia tiene sirenas encendidas y luces, y estás detenido en un cruce, debes:",
+        "opciones": [
+            "Seguir normalmente",
+            "Moverte fuera del cruce y ceder el paso",
+            "Encender luces altas",
+            "Acelerar para alejarte"
+        ],
+        "respuesta_correcta": "Moverte fuera del cruce y ceder el paso"
+    },
+    {
+        "pregunta": "Si conduces por una carretera con arena suelta o grava, debes:",
+        "opciones": [
+            "Acelerar para mantener control",
+            "Reducir velocidad y evitar giros bruscos",
+            "Frenar bruscamente",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y evitar giros bruscos"
+    },
+    {
+        "pregunta": "Si un ciclista va recto y hay un carril derecho disponible, debes:",
+        "opciones": [
+            "Adelantar dejando al menos 3 pies de distancia",
+            "Pasar muy cerca",
+            "Tocar bocina y adelantar",
+            "Ignorar al ciclista"
+        ],
+        "respuesta_correcta": "Adelantar dejando al menos 3 pies de distancia"
+    },
+    {
+        "pregunta": "Si ves una señal de 'Cruce de animales', debes:",
+        "opciones": [
+            "Acelerar para pasar rápido",
+            "Reducir velocidad y estar atento",
+            "Ignorar la señal",
+            "Encender luces altas"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar atento"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo señala para girar a la izquierda desde un carril central, debes:",
+        "opciones": [
+            "Adelantarlo por la derecha",
+            "Mantener distancia y estar listo para detenerte",
+            "Tocar bocina y pasar",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si un vehículo delante de ti frena bruscamente, debes:",
+        "opciones": [
+            "Frenar inmediatamente sin pensar",
+            "Mantener distancia de seguimiento y frenar suavemente",
+            "Adelantarlo por la derecha",
+            "Tocar bocina y acelerar"
+        ],
+        "respuesta_correcta": "Mantener distancia de seguimiento y frenar suavemente"
+    },
+    {
+        "pregunta": "Si hay una señal de 'Reducción de carril', debes:",
+        "opciones": [
+            "Seguir igual",
+            "Incorporarte al carril siguiente de manera segura",
+            "Encender luces altas",
+            "Tocar bocina"
+        ],
+        "respuesta_correcta": "Incorporarte al carril siguiente de manera segura"
+    },
+    {
+        "pregunta": "Si un vehículo delante de ti se detiene repentinamente sin señal, debes:",
+        "opciones": [
+            "Adelantarlo inmediatamente",
+            "Reducir velocidad y mantener distancia segura",
+            "Tocar bocina y pasar",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mantener distancia segura"
+    },
+    {
+        "pregunta": "Si conduces en una carretera con viento fuerte, debes:",
+        "opciones": [
+            "Acelerar para mantener el control",
+            "Sujetar firmemente el volante y reducir velocidad",
+            "Frenar bruscamente",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Sujetar firmemente el volante y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un vehículo delante tuyo gira a la derecha sin señalizar, debes:",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y estar listo para detenerte",
+            "Tocar bocina y seguir",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y estar listo para detenerte"
+    },
+    {
+        "pregunta": "Si conduces en una carretera cubierta de nieve, debes:",
+        "opciones": [
+            "Acelerar para mantener control",
+            "Reducir velocidad y aumentar la distancia de seguimiento",
+            "Frenar bruscamente",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y aumentar la distancia de seguimiento"
+    },
+    {
+        "pregunta": "Si un peatón está cruzando en un paso peatonal marcado, debes:",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerte y ceder el paso",
+            "Tocar bocina y pasar",
+            "Acelerar para pasar primero"
+        ],
+        "respuesta_correcta": "Detenerte y ceder el paso"
+    }
+]

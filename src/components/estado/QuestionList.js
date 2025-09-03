@@ -5,8 +5,10 @@ export default function QuestionsList({
     questions,
     handleFinalizarPrueba,
     donePlaying,
+    setAreResultsPending
 }) {
     function handleFormSubmit(event) {
+        setAreResultsPending(true)
         event.preventDefault();
         handleFinalizarPrueba(event.target.querySelectorAll("input:checked"));
     }

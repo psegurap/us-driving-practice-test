@@ -1,0 +1,1852 @@
+[
+    {
+        "pregunta": "¿Qué significa una señal de tráfico octagonal roja?",
+        "opciones": [
+            "Ceda el paso",
+            "Pare completamente",
+            "No entre",
+            "Advertencia de cruce"
+        ],
+        "respuesta_correcta": "Pare completamente"
+    },
+    {
+        "pregunta": "Cuando conduces en una carretera mojada, deberías:",
+        "opciones": [
+            "Conducir a la velocidad límite publicada",
+            "Mantener la misma distancia de seguimiento",
+            "Reducir tu velocidad",
+            "Frenar bruscamente"
+        ],
+        "respuesta_correcta": "Reducir tu velocidad"
+    },
+    {
+        "pregunta": "La concentración de alcohol en sangre (BAC) máxima permitida para conductores mayores de 21 años es:",
+        "opciones": ["0.08%", "0.05%", "0.10%", "0.02%"],
+        "respuesta_correcta": "0.08%"
+    },
+    {
+        "pregunta": "Cuando veas una señal de límite de velocidad de 55 mph significa:",
+        "opciones": [
+            "Puedes conducir 55 mph en todo momento",
+            "Debes conducir exactamente a 55 mph",
+            "Nunca debes exceder de 55 mph en condiciones seguras",
+            "La velocidad mínima permitida es 55 mph"
+        ],
+        "respuesta_correcta": "Nunca debes exceder de 55 mph en condiciones seguras"
+    },
+    {
+        "pregunta": "¿Qué debes hacer cuando ves luces rojas intermitentes en un autobús escolar?",
+        "opciones": [
+            "Reducir velocidad y pasar con cuidado",
+            "Detenerte siempre",
+            "Solo detenerte si hay niños presentes",
+            "Tocar la bocina y continuar"
+        ],
+        "respuesta_correcta": "Detenerte siempre"
+    },
+    {
+        "pregunta": "¿Quién tiene el derecho de paso en una intersección sin señales o semáforos?",
+        "opciones": [
+            "El vehículo más grande",
+            "El vehículo que llega primero",
+            "El vehículo de la izquierda",
+            "El que tenga mayor velocidad"
+        ],
+        "respuesta_correcta": "El vehículo que llega primero"
+    },
+    {
+        "pregunta": "Cuando una flecha verde aparece en un semáforo significa:",
+        "opciones": [
+            "Puedes girar en la dirección de la flecha",
+            "Debes detenerte antes de girar",
+            "El semáforo cambiará pronto",
+            "No puedes girar"
+        ],
+        "respuesta_correcta": "Puedes girar en la dirección de la flecha"
+    },
+    {
+        "pregunta": "Al estacionar cuesta abajo en una calle con bordillo, las ruedas delanteras deben apuntar:",
+        "opciones": [
+            "Recto hacia adelante",
+            "Hacia el bordillo",
+            "Lejos del bordillo",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia el bordillo"
+    },
+    {
+        "pregunta": "Cuando un ciclista está en el carril de tráfico, los conductores deben:",
+        "opciones": [
+            "Tocarle la bocina para que se mueva",
+            "Compartir el carril con él sin dejar espacio",
+            "Darle el mismo derecho que a un vehículo",
+            "Adelantarlo siempre sin importar la línea"
+        ],
+        "respuesta_correcta": "Darle el mismo derecho que a un vehículo"
+    },
+    {
+        "pregunta": "En condiciones de niebla, lo más seguro es conducir con:",
+        "opciones": [
+            "Luces altas",
+            "Luces bajas",
+            "Luces intermitentes de emergencia",
+            "Sin luces"
+        ],
+        "respuesta_correcta": "Luces bajas"
+    },
+    {
+        "pregunta": "¿Qué indica una línea amarilla continua en el centro de la carretera?",
+        "opciones": [
+            "Puedes adelantar en cualquier momento",
+            "No se permite adelantar",
+            "Zona de estacionamiento",
+            "Cruce de peatones"
+        ],
+        "respuesta_correcta": "No se permite adelantar"
+    },
+    {
+        "pregunta": "Si estás involucrado en un choque, debes:",
+        "opciones": [
+            "Abandonar el lugar inmediatamente",
+            "Quedarte en la escena e intercambiar información",
+            "Solo llamar a la policía si hay lesiones",
+            "Esconder tu vehículo"
+        ],
+        "respuesta_correcta": "Quedarte en la escena e intercambiar información"
+    },
+    {
+        "pregunta": "¿Cuál es la regla de los tres segundos?",
+        "opciones": [
+            "Tiempo para cruzar una intersección",
+            "Distancia de seguimiento segura detrás de otro vehículo",
+            "Duración de una luz amarilla",
+            "Tiempo máximo para estacionar en doble fila"
+        ],
+        "respuesta_correcta": "Distancia de seguimiento segura detrás de otro vehículo"
+    },
+    {
+        "pregunta": "Cuando un semáforo cambia de verde a amarillo, debes:",
+        "opciones": [
+            "Acelerar para cruzar antes de que cambie a rojo",
+            "Detenerte si es seguro hacerlo",
+            "Ignorarlo y seguir",
+            "Disminuir la velocidad y continuar"
+        ],
+        "respuesta_correcta": "Detenerte si es seguro hacerlo"
+    },
+    {
+        "pregunta": "La multa por usar un teléfono celular en mano mientras conduces es:",
+        "opciones": [
+            "Permitido siempre",
+            "Una infracción de tránsito",
+            "Permitido si manejas despacio",
+            "Permitido solo en autopistas"
+        ],
+        "respuesta_correcta": "Una infracción de tránsito"
+    },
+    {
+        "pregunta": "Al acercarte a un cruce peatonal sin semáforo, debes:",
+        "opciones": [
+            "Detenerte siempre",
+            "Reducir velocidad y ceder el paso a los peatones",
+            "Ignorarlo si no hay señal de alto",
+            "Tocar la bocina"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso a los peatones"
+    },
+    {
+        "pregunta": "¿Qué significa una señal triangular roja y blanca?",
+        "opciones": ["Pare", "Cruce escolar", "Ceda el paso", "No entre"],
+        "respuesta_correcta": "Ceda el paso"
+    },
+    {
+        "pregunta": "Si un semáforo no funciona en una intersección, debes:",
+        "opciones": [
+            "Pasar con precaución sin detenerte",
+            "Tratarla como una intersección con señal de alto en todas las direcciones",
+            "Esperar hasta que funcione",
+            "Ignorar la intersección"
+        ],
+        "respuesta_correcta": "Tratarla como una intersección con señal de alto en todas las direcciones"
+    },
+    {
+        "pregunta": "Cuando usas luces direccionales, debes activarlas:",
+        "opciones": [
+            "Al mismo tiempo que giras",
+            "Al menos 100 pies antes de girar",
+            "Solo si hay vehículos cerca",
+            "Solo de noche"
+        ],
+        "respuesta_correcta": "Al menos 100 pies antes de girar"
+    },
+    {
+        "pregunta": "En una autopista, el carril de la izquierda se usa principalmente para:",
+        "opciones": [
+            "Conducir despacio",
+            "Adelantar a otros vehículos",
+            "Estacionar temporalmente",
+            "Camiones pesados"
+        ],
+        "respuesta_correcta": "Adelantar a otros vehículos"
+    },
+    {
+        "pregunta": "¿Qué debes hacer antes de cambiar de carril?",
+        "opciones": [
+            "Encender las luces de emergencia",
+            "Señalizar y revisar espejos y punto ciego",
+            "Acelerar rápidamente",
+            "Tocar la bocina"
+        ],
+        "respuesta_correcta": "Señalizar y revisar espejos y punto ciego"
+    },
+    {
+        "pregunta": "Cuando estacionas cuesta arriba sin bordillo, las ruedas delanteras deben apuntar:",
+        "opciones": [
+            "Hacia el bordillo",
+            "Lejos del borde de la carretera",
+            "Recto",
+            "No importa"
+        ],
+        "respuesta_correcta": "Lejos del borde de la carretera"
+    },
+    {
+        "pregunta": "¿Qué significa una señal amarilla en forma de diamante?",
+        "opciones": [
+            "Reglamento obligatorio",
+            "Advertencia de peligro o precaución",
+            "Área de estacionamiento",
+            "Final de autopista"
+        ],
+        "respuesta_correcta": "Advertencia de peligro o precaución"
+    },
+    {
+        "pregunta": "Cuando un oficial de tránsito da una orden que contradice una señal de tráfico, debes:",
+        "opciones": [
+            "Seguir la señal",
+            "Seguir la orden del oficial",
+            "Ignorar ambas",
+            "Detenerte y esperar"
+        ],
+        "respuesta_correcta": "Seguir la orden del oficial"
+    },
+    {
+        "pregunta": "El uso de cinturón de seguridad en California es:",
+        "opciones": [
+            "Opcional para adultos",
+            "Obligatorio para todos los ocupantes",
+            "Solo obligatorio para el conductor",
+            "Recomendado pero no obligatorio"
+        ],
+        "respuesta_correcta": "Obligatorio para todos los ocupantes"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si un neumático explota mientras conduces?",
+        "opciones": [
+            "Frenar de inmediato",
+            "Sujetar el volante firmemente y soltar el acelerador",
+            "Girar bruscamente hacia el arcén",
+            "Acelerar para estabilizar el vehículo"
+        ],
+        "respuesta_correcta": "Sujetar el volante firmemente y soltar el acelerador"
+    },
+    {
+        "pregunta": "Cuando veas una señal de 'NO TURN ON RED', significa:",
+        "opciones": [
+            "Puedes girar a la derecha después de detenerte",
+            "No puedes girar a la derecha en la luz roja",
+            "Solo aplica de noche",
+            "Es opcional"
+        ],
+        "respuesta_correcta": "No puedes girar a la derecha en la luz roja"
+    },
+    {
+        "pregunta": "En una zona de construcción debes:",
+        "opciones": [
+            "Acelerar para salir rápido",
+            "Ignorar las señales temporales",
+            "Reducir la velocidad y obedecer todas las señales",
+            "Mantener tu velocidad normal"
+        ],
+        "respuesta_correcta": "Reducir la velocidad y obedecer todas las señales"
+    },
+    {
+        "pregunta": "¿Qué debes hacer al entrar a una autopista desde una rampa de aceleración?",
+        "opciones": [
+            "Detenerte antes de entrar",
+            "Ajustar tu velocidad al tráfico de la autopista",
+            "Entrar lo más rápido posible sin mirar",
+            "Esperar a que el tráfico se detenga"
+        ],
+        "respuesta_correcta": "Ajustar tu velocidad al tráfico de la autopista"
+    },
+    {
+        "pregunta": "El alcohol afecta principalmente:",
+        "opciones": [
+            "La vista y el tiempo de reacción",
+            "La fuerza física",
+            "La capacidad de escuchar",
+            "La postura del conductor"
+        ],
+        "respuesta_correcta": "La vista y el tiempo de reacción"
+    },
+    {
+        "pregunta": "Cuando un vehículo de emergencia se aproxima con sirenas y luces encendidas, debes:",
+        "opciones": [
+            "Continuar conduciendo",
+            "Detenerte en medio de la carretera",
+            "Orillarte a la derecha y detenerte",
+            "Acelerar para salir del camino"
+        ],
+        "respuesta_correcta": "Orillarte a la derecha y detenerte"
+    },
+    {
+        "pregunta": "¿Qué significa una señal con un círculo rojo y una línea diagonal sobre un símbolo?",
+        "opciones": [
+            "Advertencia",
+            "Permitido",
+            "No permitido",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "No permitido"
+    },
+    {
+        "pregunta": "Cuando un vehículo está en tu punto ciego, deberías:",
+        "opciones": [
+            "Reducir la velocidad o acelerar para salir de su punto ciego",
+            "Ignorarlo",
+            "Mantenerte sin cambiar de carril",
+            "Tocar la bocina constantemente"
+        ],
+        "respuesta_correcta": "Reducir la velocidad o acelerar para salir de su punto ciego"
+    },
+    {
+        "pregunta": "Si un peatón ciego con bastón blanco está cruzando la calle, debes:",
+        "opciones": [
+            "Tocar la bocina para avisarle",
+            "Cederle siempre el paso",
+            "Pasar rápido antes que él",
+            "Esperar una señal de otro conductor"
+        ],
+        "respuesta_correcta": "Cederle siempre el paso"
+    },
+    {
+        "pregunta": "Cuando manejas de noche, debes usar las luces altas:",
+        "opciones": [
+            "En todo momento",
+            "Cuando no hay tráfico en sentido contrario",
+            "En zonas bien iluminadas",
+            "Al seguir a otro vehículo de cerca"
+        ],
+        "respuesta_correcta": "Cuando no hay tráfico en sentido contrario"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si el semáforo muestra una luz roja intermitente?",
+        "opciones": [
+            "Reducir velocidad y continuar",
+            "Detenerte y seguir cuando sea seguro",
+            "Ignorar la señal",
+            "Esperar a que se ponga verde"
+        ],
+        "respuesta_correcta": "Detenerte y seguir cuando sea seguro"
+    },
+    {
+        "pregunta": "Si comienzas a patinar sobre hielo o agua, debes:",
+        "opciones": [
+            "Frenar fuerte",
+            "Acelerar",
+            "Mantener el volante recto y levantar el pie del acelerador",
+            "Girar bruscamente el volante"
+        ],
+        "respuesta_correcta": "Mantener el volante recto y levantar el pie del acelerador"
+    },
+    {
+        "pregunta": "Un cruce escolar está marcado por una señal:",
+        "opciones": [
+            "Octagonal roja",
+            "Pentagonal amarilla",
+            "Triangular roja",
+            "Circular blanca"
+        ],
+        "respuesta_correcta": "Pentagonal amarilla"
+    },
+    {
+        "pregunta": "¿Qué debes hacer al estacionar en paralelo?",
+        "opciones": [
+            "Dejar 6 pulgadas de distancia con el bordillo",
+            "Dejar 18 pulgadas o menos del bordillo",
+            "Estacionar a cualquier distancia",
+            "Bloquear parcialmente el carril"
+        ],
+        "respuesta_correcta": "Dejar 18 pulgadas o menos del bordillo"
+    },
+    {
+        "pregunta": "Cuando conduces en una carretera de dos carriles con tráfico en direcciones opuestas y una línea amarilla discontinua en tu lado, puedes:",
+        "opciones": [
+            "Adelantar cuando sea seguro",
+            "Adelantar en curvas",
+            "Nunca adelantar",
+            "Adelantar solo de noche"
+        ],
+        "respuesta_correcta": "Adelantar cuando sea seguro"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si tus frenos fallan mientras conduces?",
+        "opciones": [
+            "Apagar el motor inmediatamente",
+            "Bombea el pedal de freno y usa el freno de mano lentamente",
+            "Sacar el vehículo de la carretera y saltar",
+            "Acelerar para evitar bloquear las ruedas"
+        ],
+        "respuesta_correcta": "Bombea el pedal de freno y usa el freno de mano lentamente"
+    },
+    {
+        "pregunta": "La luz verde intermitente en un semáforo significa:",
+        "opciones": [
+            "Puedes avanzar con precaución",
+            "Debes detenerte",
+            "El semáforo está a punto de cambiar a rojo",
+            "Cruce peatonal activo"
+        ],
+        "respuesta_correcta": "Puedes avanzar con precaución"
+    },
+    {
+        "pregunta": "En una intersección controlada por señal de alto en todas las direcciones, si dos vehículos llegan al mismo tiempo:",
+        "opciones": [
+            "El de la izquierda pasa primero",
+            "El de la derecha pasa primero",
+            "Ambos pasan al mismo tiempo",
+            "El vehículo más rápido tiene preferencia"
+        ],
+        "respuesta_correcta": "El de la derecha pasa primero"
+    },
+    {
+        "pregunta": "¿Qué debes hacer cuando un tren se aproxima a un cruce ferroviario?",
+        "opciones": [
+            "Cruzar rápidamente",
+            "Detenerte a al menos 15 pies de las vías",
+            "Avanzar si no ves la locomotora",
+            "Esperar a que otros vehículos pasen primero"
+        ],
+        "respuesta_correcta": "Detenerte a al menos 15 pies de las vías"
+    },
+    {
+        "pregunta": "Si un oficial sospecha que conduces bajo la influencia y te niegas a una prueba de aliento:",
+        "opciones": [
+            "No pasa nada",
+            "Puedes perder tu licencia automáticamente",
+            "Recibes solo una advertencia",
+            "Debes pagar una multa menor"
+        ],
+        "respuesta_correcta": "Puedes perder tu licencia automáticamente"
+    },
+    {
+        "pregunta": "La señal en forma de X blanca en un cruce ferroviario significa:",
+        "opciones": [
+            "Ceda el paso a los trenes",
+            "Pare siempre",
+            "No estacione",
+            "Cruce peatonal"
+        ],
+        "respuesta_correcta": "Ceda el paso a los trenes"
+    },
+    {
+        "pregunta": "Si el volante se bloquea mientras conduces, lo primero que debes hacer es:",
+        "opciones": [
+            "Apagar el motor",
+            "Activar las luces de emergencia",
+            "Tratar de girar la llave suavemente mientras giras el volante",
+            "Frenar bruscamente"
+        ],
+        "respuesta_correcta": "Tratar de girar la llave suavemente mientras giras el volante"
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en una zona escolar cuando los niños están presentes?",
+        "opciones": ["15 mph", "20 mph", "25 mph", "30 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si ves un cartel naranja de 'Road Work Ahead'?",
+        "opciones": [
+            "Ignorarlo",
+            "Acelerar para salir rápido de la zona",
+            "Reducir la velocidad y estar preparado para trabajadores o equipos",
+            "Detenerte inmediatamente"
+        ],
+        "respuesta_correcta": "Reducir la velocidad y estar preparado para trabajadores o equipos"
+    },
+    {
+        "pregunta": "Cuando usas luces de emergencia mientras conduces, significa:",
+        "opciones": [
+            "Estás indicando un giro",
+            "Tu vehículo presenta un problema o peligro",
+            "Quieres adelantar",
+            "El tráfico está detenido"
+        ],
+        "respuesta_correcta": "Tu vehículo presenta un problema o peligro"
+    },
+    {
+        "pregunta": "Al acercarte a una rotonda, debes:",
+        "opciones": [
+            "Ceder el paso a los vehículos dentro de la rotonda",
+            "Acelerar para entrar primero",
+            "Detenerte siempre antes de entrar",
+            "Ignorar a los peatones"
+        ],
+        "respuesta_correcta": "Ceder el paso a los vehículos dentro de la rotonda"
+    },
+    {
+        "pregunta": "Cuando manejas cuesta abajo por una pendiente larga, lo más seguro es:",
+        "opciones": [
+            "Mantener presionado el freno constantemente",
+            "Cambiar a una marcha más baja",
+            "Poner el vehículo en punto muerto",
+            "Apagar el motor"
+        ],
+        "respuesta_correcta": "Cambiar a una marcha más baja"
+    },
+    {
+        "pregunta": "¿Qué significa una línea blanca continua entre carriles de tráfico?",
+        "opciones": [
+            "Se puede cambiar de carril libremente",
+            "No debes cambiar de carril excepto en caso de necesidad",
+            "Indica un cruce escolar",
+            "Zona de paso de peatones"
+        ],
+        "respuesta_correcta": "No debes cambiar de carril excepto en caso de necesidad"
+    },
+    {
+        "pregunta": "Si ves una luz amarilla intermitente en una intersección, debes:",
+        "opciones": [
+            "Detenerte completamente",
+            "Reducir velocidad y continuar con precaución",
+            "Ignorar la señal",
+            "Esperar la luz verde"
+        ],
+        "respuesta_correcta": "Reducir velocidad y continuar con precaución"
+    },
+    {
+        "pregunta": "¿Cuál es la sanción por abandonar la escena de un accidente con lesiones?",
+        "opciones": [
+            "Multa menor",
+            "Posible prisión y suspensión de la licencia",
+            "Advertencia",
+            "Ninguna si el otro conductor tiene seguro"
+        ],
+        "respuesta_correcta": "Posible prisión y suspensión de la licencia"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'MERGE' (fusión de carriles)?",
+        "opciones": [
+            "Los carriles se amplían",
+            "Un carril se une al tráfico principal, ten cuidado",
+            "Debes detenerte antes de entrar",
+            "Zona de estacionamiento"
+        ],
+        "respuesta_correcta": "Un carril se une al tráfico principal, ten cuidado"
+    },
+    {
+        "pregunta": "Cuando un vehículo entra a la autopista desde una rampa y tú estás en el carril derecho, lo correcto es:",
+        "opciones": [
+            "Mantener tu velocidad y no ceder",
+            "Acelerar para bloquearlo",
+            "Si es seguro, cambiar de carril o ajustar tu velocidad para dejarlo entrar",
+            "Detenerte en seco"
+        ],
+        "respuesta_correcta": "Si es seguro, cambiar de carril o ajustar tu velocidad para dejarlo entrar"
+    },
+    {
+        "pregunta": "¿Qué significa una señal en forma de círculo amarillo con una X negra?",
+        "opciones": [
+            "Zona escolar",
+            "Cruce ferroviario",
+            "Cruce peatonal",
+            "Carretera cerrada"
+        ],
+        "respuesta_correcta": "Cruce ferroviario"
+    },
+    {
+        "pregunta": "Si un semáforo muestra una flecha amarilla intermitente para girar a la izquierda, significa:",
+        "opciones": [
+            "Debes girar sin detenerte",
+            "Puedes girar, pero debes ceder a los vehículos que vienen de frente",
+            "No se permite girar a la izquierda",
+            "El semáforo está dañado"
+        ],
+        "respuesta_correcta": "Puedes girar, pero debes ceder a los vehículos que vienen de frente"
+    },
+    {
+        "pregunta": "Cuando manejas con lluvia intensa y el vehículo comienza a hidroplanear, lo primero que debes hacer es:",
+        "opciones": [
+            "Acelerar para recuperar tracción",
+            "Frenar fuerte",
+            "Soltar el acelerador suavemente y mantener el volante recto",
+            "Girar rápidamente el volante"
+        ],
+        "respuesta_correcta": "Soltar el acelerador suavemente y mantener el volante recto"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si un neumático se sale de la carretera hacia el arcén?",
+        "opciones": [
+            "Frenar bruscamente y girar de inmediato",
+            "Sujetar el volante firmemente, soltar el acelerador y regresar suavemente a la carretera",
+            "Acelerar para reincorporarte rápido",
+            "Girar bruscamente el volante"
+        ],
+        "respuesta_correcta": "Sujetar el volante firmemente, soltar el acelerador y regresar suavemente a la carretera"
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en áreas residenciales en California, salvo que se indique lo contrario?",
+        "opciones": ["20 mph", "25 mph", "30 mph", "35 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "Si estás conduciendo y un animal cruza repentinamente la carretera, lo más seguro es:",
+        "opciones": [
+            "Desviarte bruscamente",
+            "Frenar de forma controlada",
+            "Ignorarlo y seguir",
+            "Acelerar para evitar el impacto"
+        ],
+        "respuesta_correcta": "Frenar de forma controlada"
+    },
+    {
+        "pregunta": "Cuando ves una señal de 'ONE WAY', significa:",
+        "opciones": [
+            "El tráfico va en una sola dirección",
+            "Se permite girar en cualquier dirección",
+            "Es una calle de doble sentido",
+            "Puedes estacionar en cualquier lado"
+        ],
+        "respuesta_correcta": "El tráfico va en una sola dirección"
+    },
+    {
+        "pregunta": "La distancia legal para estacionar cerca de un hidrante es:",
+        "opciones": ["5 pies", "10 pies", "15 pies", "20 pies"],
+        "respuesta_correcta": "15 pies"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si un vehículo detrás de ti está demasiado cerca (tailgating)?",
+        "opciones": [
+            "Acelerar para dejarlo atrás",
+            "Reducir velocidad gradualmente y cambiar de carril si es posible",
+            "Frenar de golpe",
+            "Ignorarlo y mantener la misma velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad gradualmente y cambiar de carril si es posible"
+    },
+    {
+        "pregunta": "Si un ciclista se encuentra en la carretera contigo, debes dejar al menos:",
+        "opciones": [
+            "1 pie de espacio",
+            "2 pies de espacio",
+            "3 pies de espacio",
+            "5 pies de espacio"
+        ],
+        "respuesta_correcta": "3 pies de espacio"
+    },
+    {
+        "pregunta": "¿Qué significa una línea doble amarilla continua en el centro de la carretera?",
+        "opciones": [
+            "Puedes adelantar en cualquier momento",
+            "No puedes adelantar en ninguna dirección",
+            "Solo los vehículos lentos pueden adelantar",
+            "Es un carril exclusivo de buses"
+        ],
+        "respuesta_correcta": "No puedes adelantar en ninguna dirección"
+    },
+    {
+        "pregunta": "Si necesitas usar el parabrisas por lluvia, la ley de California exige que también enciendas:",
+        "opciones": [
+            "Luces altas",
+            "Luces bajas",
+            "Luces intermitentes",
+            "Luces de emergencia"
+        ],
+        "respuesta_correcta": "Luces bajas"
+    },
+    {
+        "pregunta": "Cuando un autobús escolar está detenido con luces rojas intermitentes en una carretera dividida por un muro o isla central, los vehículos del lado opuesto deben:",
+        "opciones": [
+            "Detenerse también",
+            "Reducir la velocidad",
+            "Continuar sin detenerse",
+            "Tocar la bocina"
+        ],
+        "respuesta_correcta": "Continuar sin detenerse"
+    },
+    {
+        "pregunta": "En una autopista con varios carriles, el carril derecho generalmente se usa para:",
+        "opciones": [
+            "Adelantar",
+            "Circular más despacio o salir de la autopista",
+            "Vehículos de emergencia",
+            "Vehículos pesados únicamente"
+        ],
+        "respuesta_correcta": "Circular más despacio o salir de la autopista"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tránsito con fondo naranja?",
+        "opciones": [
+            "Advertencia de construcción o mantenimiento",
+            "Zona escolar",
+            "Señal reglamentaria",
+            "Zona residencial"
+        ],
+        "respuesta_correcta": "Advertencia de construcción o mantenimiento"
+    },
+    {
+        "pregunta": "Si ves un vehículo con luces intermitentes detenido en el arcén, la ley de California requiere que:",
+        "opciones": [
+            "Mantengas tu carril y velocidad",
+            "Cambies de carril o reduzcas la velocidad si no puedes hacerlo",
+            "Te detengas completamente",
+            "Aceleres para pasar rápido"
+        ],
+        "respuesta_correcta": "Cambies de carril o reduzcas la velocidad si no puedes hacerlo"
+    },
+    {
+        "pregunta": "Cuando un vehículo de policía te detiene, debes:",
+        "opciones": [
+            "Encender luces intermitentes y detenerte en el lado derecho seguro",
+            "Seguir hasta tu destino",
+            "Salir del vehículo inmediatamente",
+            "Detenerte en medio del carril"
+        ],
+        "respuesta_correcta": "Encender luces intermitentes y detenerte en el lado derecho seguro"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si tu acelerador se queda atascado?",
+        "opciones": [
+            "Apagar el motor de inmediato",
+            "Poner la transmisión en neutral y frenar suavemente",
+            "Acelerar más para soltarlo",
+            "Tirar del freno de mano bruscamente"
+        ],
+        "respuesta_correcta": "Poner la transmisión en neutral y frenar suavemente"
+    },
+    {
+        "pregunta": "En una intersección sin semáforo, si un peatón cruza por un paso de cebra no marcado:",
+        "opciones": [
+            "Tienes el derecho de paso",
+            "Debes ceder siempre al peatón",
+            "El peatón debe esperar",
+            "Ambos pueden avanzar al mismo tiempo"
+        ],
+        "respuesta_correcta": "Debes ceder siempre al peatón"
+    },
+    {
+        "pregunta": "¿Qué significa una señal en forma de círculo rojo con una flecha negra dentro y una línea diagonal?",
+        "opciones": [
+            "Obligación de girar",
+            "No se permite girar en esa dirección",
+            "Zona de giro exclusivo",
+            "Calle de doble sentido"
+        ],
+        "respuesta_correcta": "No se permite girar en esa dirección"
+    },
+    {
+        "pregunta": "¿Qué debes hacer al entrar en una autopista desde un área de descanso?",
+        "opciones": [
+            "Entrar directamente al tráfico sin detenerte",
+            "Esperar a que el tráfico se detenga",
+            "Acelerar en la rampa y unirte con precaución",
+            "Mantener baja velocidad al incorporarte"
+        ],
+        "respuesta_correcta": "Acelerar en la rampa y unirte con precaución"
+    },
+    {
+        "pregunta": "La señal triangular fluorescente anaranjada/roja en la parte trasera de un vehículo significa:",
+        "opciones": [
+            "Vehículo escolar",
+            "Vehículo de emergencia",
+            "Vehículo lento",
+            "Vehículo de carga pesada"
+        ],
+        "respuesta_correcta": "Vehículo lento"
+    },
+    {
+        "pregunta": "Si tu vista está temporalmente cegada por las luces altas de un vehículo que viene de frente, debes:",
+        "opciones": [
+            "Mirar directamente las luces",
+            "Mirar hacia el borde derecho de la carretera",
+            "Encender tus luces altas también",
+            "Cerrar los ojos momentáneamente"
+        ],
+        "respuesta_correcta": "Mirar hacia el borde derecho de la carretera"
+    },
+    {
+        "pregunta": "Si estacionas en una colina y tu vehículo tiene transmisión automática, debes:",
+        "opciones": [
+            "Colocar la palanca en neutral",
+            "Colocar la palanca en estacionamiento (P) y usar el freno de mano",
+            "Dejar la palanca en reversa",
+            "Solo apagar el motor"
+        ],
+        "respuesta_correcta": "Colocar la palanca en estacionamiento (P) y usar el freno de mano"
+    },
+    {
+        "pregunta": "En una autopista, ¿cuál es la distancia mínima que debes mantener detrás de un camión grande?",
+        "opciones": [
+            "2 segundos",
+            "4 segundos o más",
+            "1 segundo",
+            "No importa mientras veas las luces traseras"
+        ],
+        "respuesta_correcta": "4 segundos o más"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de límite de velocidad con fondo blanco y números negros?",
+        "opciones": [
+            "Recomendación de velocidad",
+            "Límite de velocidad legal y obligatorio",
+            "Velocidad mínima sugerida",
+            "Advertencia de zona escolar"
+        ],
+        "respuesta_correcta": "Límite de velocidad legal y obligatorio"
+    },
+    {
+        "pregunta": "Si un vehículo está a punto de entrar en tu carril desde la derecha, lo más seguro es:",
+        "opciones": [
+            "Mantener tu velocidad",
+            "Reducir la velocidad y dejar espacio",
+            "Acelerar para pasar primero",
+            "Tocar la bocina y mantenerte"
+        ],
+        "respuesta_correcta": "Reducir la velocidad y dejar espacio"
+    },
+    {
+        "pregunta": "Cuando manejes en una carretera de montaña con curvas cerradas, debes:",
+        "opciones": [
+            "Usar las luces altas en todo momento",
+            "Usar una marcha baja y reducir velocidad",
+            "Conducir pegado al centro",
+            "Acelerar en las curvas"
+        ],
+        "respuesta_correcta": "Usar una marcha baja y reducir velocidad"
+    },
+    {
+        "pregunta": "¿Qué debes hacer cuando un semáforo muestra una flecha verde protegida para girar a la izquierda?",
+        "opciones": [
+            "Girar sin ceder a vehículos que vienen de frente",
+            "Esperar a que el semáforo general se ponga en verde",
+            "Ceder a peatones y luego girar",
+            "No girar hasta la luz amarilla"
+        ],
+        "respuesta_correcta": "Ceder a peatones y luego girar"
+    },
+    {
+        "pregunta": "La multa por arrojar basura desde tu vehículo en California puede ser:",
+        "opciones": [
+            "$50",
+            "Hasta $1,000 y posible servicio comunitario",
+            "Solo una advertencia",
+            "Retiro inmediato de la licencia"
+        ],
+        "respuesta_correcta": "Hasta $1,000 y posible servicio comunitario"
+    },
+    {
+        "pregunta": "Si ves una línea doble blanca continua entre carriles, significa:",
+        "opciones": [
+            "Puedes cambiar de carril con precaución",
+            "No debes cambiar de carril en absoluto",
+            "Es un carril exclusivo para bicicletas",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "No debes cambiar de carril en absoluto"
+    },
+    {
+        "pregunta": "¿Cuál es el BAC permitido para conductores menores de 21 años en California?",
+        "opciones": ["0.08%", "0.05%", "0.02%", "0.01% o más no permitido"],
+        "respuesta_correcta": "0.01% o más no permitido"
+    },
+    {
+        "pregunta": "Cuando ves una señal de 'WRONG WAY', significa:",
+        "opciones": [
+            "Estás entrando en un carril en dirección contraria",
+            "Carril de giro obligatorio",
+            "Estacionamiento prohibido",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Estás entrando en un carril en dirección contraria"
+    },
+    {
+        "pregunta": "Si conduces en una autopista con neblina densa, lo más seguro es:",
+        "opciones": [
+            "Encender luces altas",
+            "Reducir velocidad y usar luces bajas",
+            "Encender luces de emergencia y detenerte en el carril",
+            "Seguir a las luces traseras de otro vehículo muy de cerca"
+        ],
+        "respuesta_correcta": "Reducir velocidad y usar luces bajas"
+    },
+    {
+        "pregunta": "La distancia legal para estacionar cerca de un cruce peatonal es:",
+        "opciones": ["3 pies", "10 pies", "20 pies", "25 pies"],
+        "respuesta_correcta": "20 pies"
+    },
+    {
+        "pregunta": "¿Qué significa una señal pentagonal verde con personas caminando?",
+        "opciones": [
+            "Zona de ciclistas",
+            "Cruce escolar",
+            "Cruce ferroviario",
+            "Área de descanso"
+        ],
+        "respuesta_correcta": "Cruce escolar"
+    },
+    {
+        "pregunta": "Cuando tu vehículo comienza a derrapar, debes:",
+        "opciones": [
+            "Frenar fuerte y girar en la dirección opuesta",
+            "Mantener la calma, soltar el freno y girar suavemente hacia la dirección del derrape",
+            "Acelerar para recuperar control",
+            "Girar el volante completamente hacia el lado contrario"
+        ],
+        "respuesta_correcta": "Mantener la calma, soltar el freno y girar suavemente hacia la dirección del derrape"
+    },
+    {
+        "pregunta": "¿Qué significa una luz verde fija en un semáforo?",
+        "opciones": [
+            "Avanza, pero cede el paso a peatones y vehículos que aún estén en la intersección",
+            "Debes detenerte",
+            "Cruce exclusivo para peatones",
+            "Prepárate para detenerte"
+        ],
+        "respuesta_correcta": "Avanza, pero cede el paso a peatones y vehículos que aún estén en la intersección"
+    },
+    {
+        "pregunta": "Cuando conduzcas en una autopista y tu salida está próxima, lo correcto es:",
+        "opciones": [
+            "Cambiar al carril de salida lo antes posible",
+            "Esperar al último momento y cruzar varios carriles",
+            "Mantenerte en el carril rápido y girar directamente",
+            "Detenerte en el carril hasta encontrar la salida"
+        ],
+        "respuesta_correcta": "Cambiar al carril de salida lo antes posible"
+    },
+    {
+        "pregunta": "En una carretera con carriles exclusivos para bicicletas, los automóviles pueden entrar a ese carril solo para:",
+        "opciones": [
+            "Adelantar a otro vehículo",
+            "Estacionar por cualquier motivo",
+            "Hacer giros o entrar/salir de una entrada",
+            "Conducir a menor velocidad"
+        ],
+        "respuesta_correcta": "Hacer giros o entrar/salir de una entrada"
+    },
+    {
+        "pregunta": "La distancia máxima permitida para estacionar de un cruce ferroviario es:",
+        "opciones": ["15 pies", "25 pies", "50 pies", "75 pies"],
+        "respuesta_correcta": "50 pies"
+    },
+    {
+        "pregunta": "Si te sientes cansado al conducir, lo más seguro es:",
+        "opciones": [
+            "Bajar las ventanas y subir la música",
+            "Tomar una bebida energética",
+            "Detenerte en un lugar seguro y descansar",
+            "Conducir más rápido para llegar antes"
+        ],
+        "respuesta_correcta": "Detenerte en un lugar seguro y descansar"
+    },
+    {
+        "pregunta": "Cuando una señal de tránsito muestra una flecha curva hacia la derecha, significa:",
+        "opciones": [
+            "Debes girar obligatoriamente a la derecha más adelante",
+            "Prohibido girar a la derecha",
+            "Carretera cerrada adelante",
+            "Zona de giro en U"
+        ],
+        "respuesta_correcta": "Debes girar obligatoriamente a la derecha más adelante"
+    },
+    {
+        "pregunta": "Cuando un vehículo tiene luces traseras intermitentes amarillas, generalmente significa:",
+        "opciones": [
+            "El vehículo está girando o cambiando de carril",
+            "El vehículo está en reversa",
+            "El vehículo está detenido",
+            "El vehículo es de emergencia"
+        ],
+        "respuesta_correcta": "El vehículo está girando o cambiando de carril"
+    },
+    {
+        "pregunta": "¿Qué debes hacer antes de retroceder con tu vehículo?",
+        "opciones": [
+            "Revisar espejos únicamente",
+            "Mirar sobre tu hombro y retroceder lentamente",
+            "Usar solo la cámara trasera",
+            "Tocar la bocina antes de retroceder"
+        ],
+        "respuesta_correcta": "Mirar sobre tu hombro y retroceder lentamente"
+    },
+    {
+        "pregunta": "¿Qué significa una señal en forma de octágono con letras blancas?",
+        "opciones": [
+            "Pare",
+            "Ceda el paso",
+            "Cruce escolar",
+            "Velocidad máxima"
+        ],
+        "respuesta_correcta": "Pare"
+    },
+    {
+        "pregunta": "En carreteras rurales sin señales de límite de velocidad, la velocidad máxima es:",
+        "opciones": ["45 mph", "50 mph", "55 mph", "60 mph"],
+        "respuesta_correcta": "55 mph"
+    },
+    {
+        "pregunta": "Si un neumático se revienta en la carretera, lo primero que debes hacer es:",
+        "opciones": [
+            "Frenar fuerte",
+            "Sujetar el volante firmemente y soltar el acelerador",
+            "Encender luces altas",
+            "Acelerar para estabilizar"
+        ],
+        "respuesta_correcta": "Sujetar el volante firmemente y soltar el acelerador"
+    },
+    {
+        "pregunta": "¿Qué significa una luz roja fija en un semáforo?",
+        "opciones": [
+            "Avanza con precaución",
+            "Detente completamente",
+            "Cruce exclusivo para peatones",
+            "Puedes girar sin detenerte"
+        ],
+        "respuesta_correcta": "Detente completamente"
+    },
+    {
+        "pregunta": "En zonas residenciales, si no hay límite de velocidad indicado, ¿cuál es el máximo permitido?",
+        "opciones": ["20 mph", "25 mph", "30 mph", "35 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "Si manejas en un puente estrecho y otro vehículo se acerca desde la dirección opuesta, debes:",
+        "opciones": [
+            "Acelerar para pasar primero",
+            "Ceder el paso si el otro vehículo está más cerca",
+            "Forzar el paso porque tienes derecho",
+            "Detenerte en el centro del puente"
+        ],
+        "respuesta_correcta": "Ceder el paso si el otro vehículo está más cerca"
+    },
+    {
+        "pregunta": "¿Qué significa una línea blanca discontinua entre carriles?",
+        "opciones": [
+            "No puedes cambiar de carril",
+            "Puedes cambiar de carril con precaución",
+            "Carril exclusivo para autobuses",
+            "Zona de cruce escolar"
+        ],
+        "respuesta_correcta": "Puedes cambiar de carril con precaución"
+    },
+    {
+        "pregunta": "Cuando estacionas en una pendiente cuesta arriba con bordillo, las ruedas delanteras deben apuntar:",
+        "opciones": [
+            "Hacia el bordillo",
+            "Lejos del bordillo",
+            "Recto hacia adelante",
+            "No importa la dirección"
+        ],
+        "respuesta_correcta": "Lejos del bordillo"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si ves un letrero amarillo con la palabra 'SLIPPERY' y un automóvil derrapando?",
+        "opciones": [
+            "La carretera puede estar resbaladiza, reduce velocidad",
+            "Zona escolar",
+            "Cruce peatonal",
+            "Curva cerrada obligatoria"
+        ],
+        "respuesta_correcta": "La carretera puede estar resbaladiza, reduce velocidad"
+    },
+    {
+        "pregunta": "Cuando conduzcas de noche, debes atenuar tus luces altas cuando estés a ______ de un vehículo que viene de frente.",
+        "opciones": ["100 pies", "200 pies", "300 pies", "500 pies"],
+        "respuesta_correcta": "500 pies"
+    },
+    {
+        "pregunta": "En caso de accidente menor sin heridos, la ley exige que:",
+        "opciones": [
+            "Llamar a la policía siempre",
+            "Mover tu vehículo fuera del tráfico si es posible",
+            "Esperar en medio de la carretera",
+            "Ignorar si el daño es leve"
+        ],
+        "respuesta_correcta": "Mover tu vehículo fuera del tráfico si es posible"
+    },
+    {
+        "pregunta": "¿Qué significa una señal rectangular blanca con letras negras?",
+        "opciones": [
+            "Advertencia",
+            "Reglamento obligatorio",
+            "Zona de construcción",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Reglamento obligatorio"
+    },
+    {
+        "pregunta": "Si te aproximas a una intersección y el semáforo está apagado, debes:",
+        "opciones": [
+            "Tratarla como una señal de alto en todas direcciones",
+            "Seguir sin detenerte",
+            "Esperar hasta que funcione",
+            "Girar en U para evitarla"
+        ],
+        "respuesta_correcta": "Tratarla como una señal de alto en todas direcciones"
+    },
+    {
+        "pregunta": "Cuando un conductor usa su brazo extendido hacia arriba fuera de la ventana, significa:",
+        "opciones": [
+            "Va a girar a la derecha",
+            "Va a girar a la izquierda",
+            "Va a detenerse",
+            "Va a dar reversa"
+        ],
+        "respuesta_correcta": "Va a girar a la derecha"
+    },
+    {
+        "pregunta": "Si te encuentras con un semáforo en rojo y una flecha verde a la derecha, puedes:",
+        "opciones": [
+            "Girar en la dirección de la flecha después de ceder el paso",
+            "No girar hasta que todo esté en verde",
+            "Avanzar en cualquier dirección",
+            "Detenerte hasta que la luz roja cambie"
+        ],
+        "respuesta_correcta": "Girar en la dirección de la flecha después de ceder el paso"
+    },
+    {
+        "pregunta": "¿Cuál es la sanción por no detenerse para un autobús escolar con luces rojas intermitentes?",
+        "opciones": [
+            "Multa y puntos en la licencia",
+            "Solo una advertencia",
+            "Retiro inmediato de la licencia",
+            "Ninguna si no ves niños"
+        ],
+        "respuesta_correcta": "Multa y puntos en la licencia"
+    },
+    {
+        "pregunta": "Cuando manejes en una carretera con múltiples carriles en la misma dirección, el carril más seguro para conducir largo tiempo suele ser:",
+        "opciones": [
+            "Carril izquierdo",
+            "Carril central",
+            "Carril derecho",
+            "Arcén"
+        ],
+        "respuesta_correcta": "Carril central"
+    },
+    {
+        "pregunta": "En una intersección, una luz verde que parpadea rápidamente significa:",
+        "opciones": [
+            "Cruce ferroviario",
+            "Cruce peatonal con derecho de paso",
+            "Puedes girar libremente",
+            "Semáforo en mal estado"
+        ],
+        "respuesta_correcta": "Cruce peatonal con derecho de paso"
+    },
+    {
+        "pregunta": "Cuando un policía de tránsito da señales que contradicen un semáforo, debes:",
+        "opciones": [
+            "Seguir las señales del semáforo",
+            "Ignorar y continuar",
+            "Seguir las instrucciones del policía",
+            "Detenerte siempre"
+        ],
+        "respuesta_correcta": "Seguir las instrucciones del policía"
+    },
+    {
+        "pregunta": "Si tu vehículo empieza a calentarse demasiado, debes:",
+        "opciones": [
+            "Encender el aire acondicionado",
+            "Apagar el motor lo antes posible",
+            "Seguir manejando a menor velocidad",
+            "Detenerte y revisar niveles de refrigerante cuando sea seguro"
+        ],
+        "respuesta_correcta": "Detenerte y revisar niveles de refrigerante cuando sea seguro"
+    },
+    {
+        "pregunta": "Cuando un carril tiene un rombo pintado en el pavimento, significa:",
+        "opciones": [
+            "Carril para camiones",
+            "Carril para vehículos de alta ocupación (HOV/carpool)",
+            "Carril exclusivo de emergencia",
+            "Carril para bicicletas"
+        ],
+        "respuesta_correcta": "Carril para vehículos de alta ocupación (HOV/carpool)"
+    },
+    {
+        "pregunta": "Si ves un letrero naranja en la carretera, generalmente significa:",
+        "opciones": [
+            "Zona escolar",
+            "Zona de construcción",
+            "Zona de estacionamiento",
+            "Área residencial"
+        ],
+        "respuesta_correcta": "Zona de construcción"
+    },
+    {
+        "pregunta": "Al salir en reversa de un estacionamiento en ángulo, debes:",
+        "opciones": [
+            "Confiar solo en los espejos",
+            "Moverte rápido para no bloquear",
+            "Girar la cabeza y mirar por ambos hombros",
+            "Usar solo la cámara trasera"
+        ],
+        "respuesta_correcta": "Girar la cabeza y mirar por ambos hombros"
+    },
+    {
+        "pregunta": "¿Cuál es la penalidad por conducir sin cinturón de seguridad en California?",
+        "opciones": [
+            "Multa y posible puntos en la licencia",
+            "Solo una advertencia verbal",
+            "Suspensión automática de la licencia",
+            "Ninguna penalidad"
+        ],
+        "respuesta_correcta": "Multa y posible puntos en la licencia"
+    },
+    {
+        "pregunta": "Si un oficial de policía te detiene, lo correcto es:",
+        "opciones": [
+            "Detenerte inmediatamente en el carril",
+            "Encender las luces de emergencia y detenerte en un lugar seguro",
+            "Seguir hasta tu destino y luego detenerte",
+            "Salir del vehículo de inmediato"
+        ],
+        "respuesta_correcta": "Encender las luces de emergencia y detenerte en un lugar seguro"
+    },
+    {
+        "pregunta": "Cuando manejes cuesta abajo por una pendiente larga, lo más seguro es:",
+        "opciones": [
+            "Colocar el vehículo en neutral",
+            "Usar una marcha baja",
+            "Mantener el pie en el embrague",
+            "Acelerar para no perder control"
+        ],
+        "respuesta_correcta": "Usar una marcha baja"
+    },
+    {
+        "pregunta": "¿Qué significa un letrero en forma de diamante amarillo con un venado?",
+        "opciones": [
+            "Zona de cruce de animales",
+            "Parque cercano",
+            "Coto de caza",
+            "Zona rural"
+        ],
+        "respuesta_correcta": "Zona de cruce de animales"
+    },
+    {
+        "pregunta": "La distancia máxima para estacionar del bordillo es:",
+        "opciones": ["6 pulgadas", "12 pulgadas", "18 pulgadas", "24 pulgadas"],
+        "respuesta_correcta": "18 pulgadas"
+    },
+    {
+        "pregunta": "En una zona escolar con niños presentes, el límite de velocidad máximo suele ser:",
+        "opciones": ["15 mph", "20 mph", "25 mph", "30 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "Si un ciclista circula en tu mismo carril y no hay espacio para rebasar con seguridad, debes:",
+        "opciones": [
+            "Rebasar muy lentamente",
+            "Tocar el claxon y rebasar",
+            "Esperar pacientemente hasta que sea seguro",
+            "Forzar el paso porque tienes prioridad"
+        ],
+        "respuesta_correcta": "Esperar pacientemente hasta que sea seguro"
+    },
+    {
+        "pregunta": "Cuando un semáforo muestra una flecha amarilla intermitente para girar a la izquierda, significa:",
+        "opciones": [
+            "No puedes girar bajo ninguna circunstancia",
+            "Puedes girar, pero cediendo el paso al tráfico que viene de frente",
+            "Es una flecha de precaución solo para peatones",
+            "Tienes prioridad total en el giro"
+        ],
+        "respuesta_correcta": "Puedes girar, pero cediendo el paso al tráfico que viene de frente"
+    },
+    {
+        "pregunta": "Si manejas en una autopista y tu rueda derecha sale del pavimento, lo más seguro es:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar rápidamente hacia el pavimento",
+            "Soltar el acelerador, mantener control y reincorporarte suavemente",
+            "Acelerar para volver al carril"
+        ],
+        "respuesta_correcta": "Soltar el acelerador, mantener control y reincorporarte suavemente"
+    },
+    {
+        "pregunta": "La señal triangular con borde rojo y centro blanco significa:",
+        "opciones": ["Pare", "Ceda el paso", "Cruce escolar", "No entrar"],
+        "respuesta_correcta": "Ceda el paso"
+    },
+    {
+        "pregunta": "En un día lluvioso, la distancia de frenado puede:",
+        "opciones": [
+            "Reducirse a la mitad",
+            "Duplicarse",
+            "No cambiar",
+            "Ser la misma si usas luces altas"
+        ],
+        "respuesta_correcta": "Duplicarse"
+    },
+    {
+        "pregunta": "Cuando un vehículo tiene luces rojas intermitentes en la parte trasera, significa:",
+        "opciones": [
+            "Está retrocediendo",
+            "Está detenido o estacionado ilegalmente",
+            "Está frenando o detenido",
+            "Es un vehículo de emergencia"
+        ],
+        "respuesta_correcta": "Está frenando o detenido"
+    },
+    {
+        "pregunta": "Si conduces de noche en una carretera mal iluminada, debes usar:",
+        "opciones": [
+            "Luces bajas siempre",
+            "Luces altas cuando no haya vehículos cerca",
+            "Solo luces de estacionamiento",
+            "Luces de emergencia"
+        ],
+        "respuesta_correcta": "Luces altas cuando no haya vehículos cerca"
+    },
+    {
+        "pregunta": "En caso de neblina espesa, además de reducir velocidad, lo más seguro es:",
+        "opciones": [
+            "Encender luces de estacionamiento",
+            "Usar luces bajas y, si es necesario, luces antiniebla",
+            "Encender luces altas",
+            "Conducir siguiendo de cerca al vehículo de adelante"
+        ],
+        "respuesta_correcta": "Usar luces bajas y, si es necesario, luces antiniebla"
+    },
+    {
+        "pregunta": "Cuando un ciclista extiende su brazo izquierdo recto hacia un lado, significa:",
+        "opciones": [
+            "Va a girar a la derecha",
+            "Va a girar a la izquierda",
+            "Va a detenerse",
+            "Va a cambiar de carril a la derecha"
+        ],
+        "respuesta_correcta": "Va a girar a la izquierda"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia legal mínima para detenerte frente a un cruce de ferrocarril cuando se aproximan trenes?",
+        "opciones": ["5 pies", "15 pies", "25 pies", "50 pies"],
+        "respuesta_correcta": "15 pies"
+    },
+    {
+        "pregunta": "Un límite de velocidad indicado en una señal significa:",
+        "opciones": [
+            "La velocidad mínima permitida",
+            "La velocidad máxima permitida en condiciones ideales",
+            "La velocidad obligatoria en cualquier condición",
+            "La velocidad promedio esperada"
+        ],
+        "respuesta_correcta": "La velocidad máxima permitida en condiciones ideales"
+    },
+    {
+        "pregunta": "En una intersección con una señal de PARE en todas las direcciones, el vehículo que debe avanzar primero es:",
+        "opciones": [
+            "El vehículo más grande",
+            "El vehículo que llegó primero",
+            "El vehículo a la izquierda",
+            "El vehículo a mayor velocidad"
+        ],
+        "respuesta_correcta": "El vehículo que llegó primero"
+    },
+    {
+        "pregunta": "Cuando un vehículo de emergencia con sirenas y luces encendidas se aproxima por detrás, debes:",
+        "opciones": [
+            "Acelerar para no obstruir",
+            "Detenerte inmediatamente en el carril",
+            "Orillarte a la derecha y detenerte",
+            "Seguir normal si no interfiere contigo"
+        ],
+        "respuesta_correcta": "Orillarte a la derecha y detenerte"
+    },
+    {
+        "pregunta": "Si estacionas tu vehículo en una pendiente cuesta abajo con bordillo, las ruedas delanteras deben apuntar:",
+        "opciones": [
+            "Hacia el bordillo",
+            "Lejos del bordillo",
+            "Recto hacia adelante",
+            "En cualquier dirección"
+        ],
+        "respuesta_correcta": "Hacia el bordillo"
+    },
+    {
+        "pregunta": "La luz roja intermitente en un semáforo significa:",
+        "opciones": [
+            "Ceda el paso",
+            "Avance con precaución",
+            "Deténgase por completo y siga cuando sea seguro",
+            "El semáforo está apagado"
+        ],
+        "respuesta_correcta": "Deténgase por completo y siga cuando sea seguro"
+    },
+    {
+        "pregunta": "Cuando manejes en una carretera de dos carriles y otro vehículo quiere rebasarte, debes:",
+        "opciones": [
+            "Acelerar para impedir el rebase",
+            "Mantener tu velocidad o reducirla ligeramente",
+            "Moverte al arcén inmediatamente",
+            "Tocar el claxon"
+        ],
+        "respuesta_correcta": "Mantener tu velocidad o reducirla ligeramente"
+    },
+    {
+        "pregunta": "El uso de un teléfono celular mientras conduces está permitido solo si:",
+        "opciones": [
+            "Lo usas en modo altavoz o manos libres",
+            "Lo sostienes brevemente",
+            "El tráfico es ligero",
+            "Eres mayor de 21 años"
+        ],
+        "respuesta_correcta": "Lo usas en modo altavoz o manos libres"
+    },
+    {
+        "pregunta": "¿Qué significa un letrero amarillo con un símbolo de niños caminando?",
+        "opciones": [
+            "Cruce de peatones general",
+            "Cruce escolar",
+            "Zona de juegos",
+            "Área residencial"
+        ],
+        "respuesta_correcta": "Cruce escolar"
+    },
+    {
+        "pregunta": "En un día ventoso, al conducir cerca de vehículos grandes, debes:",
+        "opciones": [
+            "Mantener firme el volante y darles espacio adicional",
+            "Aumentar tu velocidad",
+            "Conducir muy cerca para cortar el viento",
+            "Encender las luces altas"
+        ],
+        "respuesta_correcta": "Mantener firme el volante y darles espacio adicional"
+    },
+    {
+        "pregunta": "Si manejas bajo la lluvia intensa y comienzas a hidroplanear, lo correcto es:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Soltar el acelerador suavemente y mantener dirección recta",
+            "Girar el volante rápidamente",
+            "Acelerar para recuperar tracción"
+        ],
+        "respuesta_correcta": "Soltar el acelerador suavemente y mantener dirección recta"
+    },
+    {
+        "pregunta": "La línea doble amarilla continua en el centro de la carretera significa:",
+        "opciones": [
+            "Puedes rebasar si no hay tráfico",
+            "Nadie puede rebasar en ninguna dirección",
+            "Solo se permite rebasar en zonas residenciales",
+            "Es un carril para giros en U"
+        ],
+        "respuesta_correcta": "Nadie puede rebasar en ninguna dirección"
+    },
+    {
+        "pregunta": "Al estacionar en un espacio para discapacitados sin permiso, puedes recibir:",
+        "opciones": [
+            "Una advertencia",
+            "Una multa considerable",
+            "Una suspensión de licencia inmediata",
+            "Solo un reporte"
+        ],
+        "respuesta_correcta": "Una multa considerable"
+    },
+    {
+        "pregunta": "Cuando veas un letrero de 'MERGE' (fusión de carriles), debes:",
+        "opciones": [
+            "Detenerte siempre antes de incorporarte",
+            "Acelerar rápidamente para entrar",
+            "Ajustar tu velocidad y ceder el paso al tráfico",
+            "Ignorarlo si hay poco tráfico"
+        ],
+        "respuesta_correcta": "Ajustar tu velocidad y ceder el paso al tráfico"
+    },
+    {
+        "pregunta": "En carreteras de montaña, si dos vehículos no pueden pasar al mismo tiempo, el vehículo que debe ceder es:",
+        "opciones": [
+            "El que va cuesta abajo",
+            "El que va cuesta arriba",
+            "El más pequeño",
+            "El más lento"
+        ],
+        "respuesta_correcta": "El que va cuesta abajo"
+    },
+    {
+        "pregunta": "¿Cuál es el límite legal de concentración de alcohol en la sangre (BAC) para conductores adultos en California?",
+        "opciones": ["0.01%", "0.05%", "0.08%", "0.10%"],
+        "respuesta_correcta": "0.08%"
+    },
+    {
+        "pregunta": "Si manejas detrás de un vehículo grande, debes aumentar tu distancia porque:",
+        "opciones": [
+            "Ocupa menos espacio visual",
+            "Tiene puntos ciegos más grandes y frena más lento",
+            "Va más rápido que los autos pequeños",
+            "Está obligado a ceder siempre"
+        ],
+        "respuesta_correcta": "Tiene puntos ciegos más grandes y frena más lento"
+    },
+    {
+        "pregunta": "La mejor forma de prevenir un choque por alcance es:",
+        "opciones": [
+            "Conducir rápido para evitar tráfico",
+            "Mantener una distancia segura de seguimiento",
+            "Permanecer siempre en el carril izquierdo",
+            "Usar luces altas de noche"
+        ],
+        "respuesta_correcta": "Mantener una distancia segura de seguimiento"
+    },
+    {
+        "pregunta": "¿Qué significa un letrero rojo y blanco de 'DO NOT ENTER'?",
+        "opciones": [
+            "No estacionar",
+            "No entrar; dirección prohibida",
+            "Prohibido girar a la izquierda",
+            "Solo para vehículos de emergencia"
+        ],
+        "respuesta_correcta": "No entrar; dirección prohibida"
+    },
+    {
+        "pregunta": "Cuando un autobús escolar tiene luces rojas intermitentes, debes:",
+        "opciones": [
+            "Reducir velocidad y pasar con precaución",
+            "Detenerte completamente hasta que se apaguen",
+            "Rebasar si no hay niños presentes",
+            "Ignorar si estás en dirección opuesta"
+        ],
+        "respuesta_correcta": "Detenerte completamente hasta que se apaguen"
+    },
+    {
+        "pregunta": "Si ves una señal con forma de octágono, significa:",
+        "opciones": [
+            "Alto",
+            "Ceda el paso",
+            "Advertencia",
+            "Cruce de ferrocarril"
+        ],
+        "respuesta_correcta": "Alto"
+    },
+    {
+        "pregunta": "Cuando cambias de carril en una autopista, lo más importante es:",
+        "opciones": [
+            "Usar el claxon",
+            "Señalar y verificar puntos ciegos",
+            "Acelerar inmediatamente",
+            "Esperar a que otros te cedan el paso"
+        ],
+        "respuesta_correcta": "Señalar y verificar puntos ciegos"
+    },
+    {
+        "pregunta": "Un conductor con licencia de aprendizaje debe manejar acompañado por:",
+        "opciones": [
+            "Cualquier adulto mayor de 18",
+            "Un conductor con licencia válida y mayor de 25 años",
+            "Un familiar directo",
+            "Un policía"
+        ],
+        "respuesta_correcta": "Un conductor con licencia válida y mayor de 25 años"
+    },
+    {
+        "pregunta": "En una autopista dividida por una mediana, cuando un autobús escolar se detiene con luces rojas en dirección contraria:",
+        "opciones": [
+            "Debes detenerte siempre",
+            "Puedes continuar si estás en el lado opuesto",
+            "Solo detenerte si ves niños cruzando",
+            "Reducir velocidad a 15 mph"
+        ],
+        "respuesta_correcta": "Puedes continuar si estás en el lado opuesto"
+    },
+    {
+        "pregunta": "Cuando tus neumáticos se salen del pavimento hacia el arcén, lo más seguro es:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Volver rápidamente al carril",
+            "Reducir velocidad y reincorporarte suavemente",
+            "Acelerar para estabilizar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y reincorporarte suavemente"
+    },
+    {
+        "pregunta": "La señal de un triángulo naranja reflectante en la parte trasera de un vehículo significa:",
+        "opciones": [
+            "Vehículo de emergencia",
+            "Vehículo de mantenimiento",
+            "Vehículo de movimiento lento",
+            "Vehículo pesado"
+        ],
+        "respuesta_correcta": "Vehículo de movimiento lento"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si ves un peatón con bastón blanco?",
+        "opciones": [
+            "Continuar con precaución",
+            "Tocar el claxon",
+            "Ceder completamente el paso; es una persona ciega",
+            "Pasar rápidamente antes de que cruce"
+        ],
+        "respuesta_correcta": "Ceder completamente el paso; es una persona ciega"
+    },
+    {
+        "pregunta": "¿Cuál es la multa mínima por arrojar basura desde un vehículo en California?",
+        "opciones": ["$100", "$250", "$500", "$1000"],
+        "respuesta_correcta": "$1000"
+    },
+    {
+        "pregunta": "Si un neumático revienta mientras conduces, debes:",
+        "opciones": [
+            "Frenar de inmediato",
+            "Acelerar para mantener control",
+            "Sujetar firmemente el volante y desacelerar gradualmente",
+            "Girar bruscamente hacia el arcén"
+        ],
+        "respuesta_correcta": "Sujetar firmemente el volante y desacelerar gradualmente"
+    },
+    {
+        "pregunta": "Cuando veas una señal de 'ROAD WORK AHEAD', debes:",
+        "opciones": [
+            "Acelerar para pasar rápido",
+            "Estar preparado para reducir velocidad o detenerte",
+            "Ignorar si no ves trabajadores",
+            "Cambiar al carril izquierdo inmediatamente"
+        ],
+        "respuesta_correcta": "Estar preparado para reducir velocidad o detenerte"
+    },
+    {
+        "pregunta": "El límite máximo de velocidad en la mayoría de autopistas de California es:",
+        "opciones": ["55 mph", "65 mph", "70 mph", "75 mph"],
+        "respuesta_correcta": "65 mph"
+    },
+    {
+        "pregunta": "¿Qué debes hacer si fallan las luces de tu vehículo de noche?",
+        "opciones": [
+            "Encender luces de emergencia, reducir velocidad y detenerte en un lugar seguro",
+            "Seguir conduciendo lentamente",
+            "Usar luces altas únicamente",
+            "Encender el claxon cada minuto"
+        ],
+        "respuesta_correcta": "Encender luces de emergencia, reducir velocidad y detenerte en un lugar seguro"
+    },
+    {
+        "pregunta": "Un cruce peatonal sin señales se considera:",
+        "opciones": [
+            "Zona de paso prohibida",
+            "Cruce no controlado pero legal",
+            "Zona exclusiva de bicicletas",
+            "Carril de emergencia"
+        ],
+        "respuesta_correcta": "Cruce no controlado pero legal"
+    },
+    {
+        "pregunta": "Cuando manejes de noche, debes reducir velocidad si:",
+        "opciones": [
+            "Conduces en ciudad",
+            "La visibilidad es limitada",
+            "Usas luces bajas",
+            "El tráfico es ligero"
+        ],
+        "respuesta_correcta": "La visibilidad es limitada"
+    },
+    {
+        "pregunta": "En intersecciones sin señales, la regla de prioridad indica que:",
+        "opciones": [
+            "El vehículo más rápido pasa primero",
+            "El vehículo a la derecha tiene prioridad",
+            "El vehículo a la izquierda tiene prioridad",
+            "Nadie tiene prioridad"
+        ],
+        "respuesta_correcta": "El vehículo a la derecha tiene prioridad"
+    },
+    {
+        "pregunta": "Si un semáforo está apagado debido a un corte eléctrico, debes tratar la intersección como:",
+        "opciones": [
+            "Una vía libre",
+            "Un cruce con señal de PARE en todas las direcciones",
+            "Una luz amarilla intermitente",
+            "Un cruce escolar"
+        ],
+        "respuesta_correcta": "Un cruce con señal de PARE en todas las direcciones"
+    },
+    {
+        "pregunta": "Si manejas en una autopista con tráfico denso y alguien quiere incorporarse desde una rampa, lo correcto es:",
+        "opciones": [
+            "Acelerar para evitarlo",
+            "Cambiar de carril o ajustar la velocidad para dejarlo entrar",
+            "Ignorarlo y mantener tu velocidad",
+            "Usar el claxon para advertirle"
+        ],
+        "respuesta_correcta": "Cambiar de carril o ajustar la velocidad para dejarlo entrar"
+    },
+    {
+        "pregunta": "Cuando un semáforo tiene una flecha verde, significa:",
+        "opciones": [
+            "Puedes avanzar en la dirección de la flecha si la intersección está despejada",
+            "Avanza en cualquier dirección",
+            "El carril está cerrado",
+            "Debes detenerte antes de girar"
+        ],
+        "respuesta_correcta": "Puedes avanzar en la dirección de la flecha si la intersección está despejada"
+    },
+    {
+        "pregunta": "¿Qué significa una señal en forma de rombo amarillo?",
+        "opciones": [
+            "Advertencia de peligro o condición especial en la carretera",
+            "Señal reglamentaria",
+            "Área de descanso",
+            "Cruce de ferrocarril obligatorio"
+        ],
+        "respuesta_correcta": "Advertencia de peligro o condición especial en la carretera"
+    },
+    {
+        "pregunta": "Si manejas de noche y otro conductor no apaga sus luces altas, debes:",
+        "opciones": [
+            "Encender tus luces altas también",
+            "Mirar hacia el borde derecho del camino",
+            "Mirar directamente a sus luces",
+            "Frenar bruscamente"
+        ],
+        "respuesta_correcta": "Mirar hacia el borde derecho del camino"
+    },
+    {
+        "pregunta": "Cuando un oficial de tránsito da instrucciones que contradicen las señales de tráfico, debes:",
+        "opciones": [
+            "Seguir las señales",
+            "Seguir las marcas en el pavimento",
+            "Seguir las instrucciones del oficial",
+            "Detenerte siempre"
+        ],
+        "respuesta_correcta": "Seguir las instrucciones del oficial"
+    },
+    {
+        "pregunta": "En zonas de construcción, las multas por infracciones suelen ser:",
+        "opciones": [
+            "La mitad del costo normal",
+            "El doble del costo normal",
+            "Solo advertencias",
+            "El triple del costo normal"
+        ],
+        "respuesta_correcta": "El doble del costo normal"
+    },
+    {
+        "pregunta": "Si tu vehículo comienza a patinar en una curva, lo más seguro es:",
+        "opciones": [
+            "Frenar fuerte",
+            "Girar en la dirección del patinaje",
+            "Soltar el acelerador y girar suavemente hacia la dirección deseada",
+            "Acelerar para recuperar control"
+        ],
+        "respuesta_correcta": "Soltar el acelerador y girar suavemente hacia la dirección deseada"
+    },
+    {
+        "pregunta": "Cuando manejes en carreteras mojadas, la distancia de frenado:",
+        "opciones": [
+            "Se reduce a la mitad",
+            "Se mantiene igual",
+            "Puede duplicarse",
+            "No cambia"
+        ],
+        "respuesta_correcta": "Puede duplicarse"
+    },
+    {
+        "pregunta": "La línea blanca continua en el borde derecho de la carretera se conoce como:",
+        "opciones": [
+            "Línea de advertencia",
+            "Línea de límite de carril",
+            "Línea de niebla",
+            "Línea de cruce"
+        ],
+        "respuesta_correcta": "Línea de niebla"
+    },
+    {
+        "pregunta": "El carril central de tres carriles con líneas amarillas discontinuas y continuas en cada lado se usa para:",
+        "opciones": [
+            "Conducir a mayor velocidad",
+            "Adelantar en cualquier momento",
+            "Giros a la izquierda en ambas direcciones",
+            "Estacionar temporalmente"
+        ],
+        "respuesta_correcta": "Giros a la izquierda en ambas direcciones"
+    },
+    {
+        "pregunta": "Si tu vehículo se queda atascado en un cruce de ferrocarril y se aproxima un tren, debes:",
+        "opciones": [
+            "Intentar moverlo rápidamente",
+            "Abandonar el vehículo y correr en un ángulo lejos de las vías",
+            "Esperar ayuda dentro del vehículo",
+            "Tocar el claxon para alertar al tren"
+        ],
+        "respuesta_correcta": "Abandonar el vehículo y correr en un ángulo lejos de las vías"
+    },
+    {
+        "pregunta": "La mejor manera de reducir el riesgo de choque relacionado con el alcohol es:",
+        "opciones": [
+            "Beber café antes de conducir",
+            "Tomar agua entre tragos",
+            "No conducir después de beber",
+            "Esperar 30 minutos después de beber"
+        ],
+        "respuesta_correcta": "No conducir después de beber"
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad máxima en zonas escolares cuando los niños están presentes?",
+        "opciones": ["15 mph", "20 mph", "25 mph", "30 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "Un vehículo circula en sentido contrario por tu carril en carretera de dos sentidos. Debes:",
+        "opciones": [
+            "Tocar el claxon y quedarte en tu carril",
+            "Frenar y desviarte a la derecha",
+            "Acelerar para esquivarlo",
+            "Girar hacia la izquierda"
+        ],
+        "respuesta_correcta": "Frenar y desviarte a la derecha"
+    },
+    {
+        "pregunta": "¿Qué significa un semáforo con luz amarilla fija?",
+        "opciones": [
+            "Avanza rápidamente",
+            "La luz roja está por aparecer, detente si es seguro hacerlo",
+            "Cruce libre",
+            "Precaución pero sigue sin detenerte"
+        ],
+        "respuesta_correcta": "La luz roja está por aparecer, detente si es seguro hacerlo"
+    },
+    {
+        "pregunta": "Cuando manejes detrás de una motocicleta debes:",
+        "opciones": [
+            "Seguirla muy de cerca",
+            "Dejar más espacio de lo normal",
+            "Pasarla rápidamente",
+            "Tocar el claxon antes de rebasarla"
+        ],
+        "respuesta_correcta": "Dejar más espacio de lo normal"
+    },
+    {
+        "pregunta": "Si tu vehículo comienza a sobrecalentarse, lo correcto es:",
+        "opciones": [
+            "Apagar el aire acondicionado y encender la calefacción",
+            "Acelerar para enfriar el motor",
+            "Apagar el motor inmediatamente en medio del tráfico",
+            "Continuar conduciendo sin detenerte"
+        ],
+        "respuesta_correcta": "Apagar el aire acondicionado y encender la calefacción"
+    },
+    {
+        "pregunta": "Una línea amarilla discontinua al lado de tu carril significa:",
+        "opciones": [
+            "No puedes rebasar",
+            "Puedes rebasar si es seguro hacerlo",
+            "Carril exclusivo para bicicletas",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Puedes rebasar si es seguro hacerlo"
+    },
+    {
+        "pregunta": "¿Cuál es la edad mínima para obtener una licencia de conducir clase C en California?",
+        "opciones": ["15 años", "16 años", "17 años", "18 años"],
+        "respuesta_correcta": "16 años"
+    }
+]

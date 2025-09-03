@@ -5,14 +5,14 @@
         "slug": "ca"
     },
     {
-        "name": "Georgia",
-        "file": "GA.json",
-        "slug": "ga"
+        "name": "Texas",
+        "file": "TX.json",
+        "slug": "tx"
     },
     {
-        "name": "Minnesota",
-        "file": "MN.json",
-        "slug": "mn"
+        "name": "Florida",
+        "file": "FL.json",
+        "slug": "fl"
     },
     {
         "name": "New York",
@@ -20,18 +20,33 @@
         "slug": "ny"
     },
     {
-        "name": "North Carolina",
-        "file": "NC.json",
+        "name": "Arizona",
+        "file": "AZ.json",
         "slug": "nc"
     },
     {
-        "name": "Ohio",
-        "file": "OH.json",
-        "slug": "oh"
+        "name": "Illinois",
+        "file": "IL.json",
+        "slug": "il"
     },
     {
-        "name": "Texas",
-        "file": "TX.json",
-        "slug": "tx"
+        "name": "New Jersey",
+        "file": "NJ.json",
+        "slug": "nj"
+    },
+    {
+        "name": "Colorado",
+        "file": "CO.json",
+        "slug": "co"
+    },
+    {
+        "name": "New Mexico",
+        "file": "NM.json",
+        "slug": "nm"
+    },
+    {
+        "name": "Georgia",
+        "file": "GA.json",
+        "slug": "ga"
     }
 ]
