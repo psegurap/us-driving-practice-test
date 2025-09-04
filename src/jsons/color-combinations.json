@@ -8,16 +8,16 @@
         "iconBackground": "bg-blue-100"
     },
     {
-        "iconForeground": "text-blue-700",
-        "iconBackground": "bg-blue-50"
-    },
-    {
         "iconForeground": "text-fuchsia-700",
         "iconBackground": "bg-fuchsia-50"
     },
     {
         "iconForeground": "text-zinc-800",
         "iconBackground": "bg-zinc-100"
+    },
+    {
+        "iconForeground": "text-blue-700",
+        "iconBackground": "bg-blue-50"
     },
     {
         "iconForeground": "text-green-700",
