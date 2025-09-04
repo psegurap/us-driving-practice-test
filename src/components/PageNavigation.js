@@ -21,11 +21,13 @@ export default function PageNavigation({ params }) {
                 <div className="flex h-16 items-center justify-between">
                     <div className="flex items-center">
                         <div className="shrink-0">
-                            <img
-                                alt="Logo - Conduce en EE. UU."
-                                className="size-7"
-                                src={logo.src}
-                            />
+                            <Link href="/"> 
+                                <img
+                                    alt="Logo - Conduce en EE. UU."
+                                    className="size-7"
+                                    src={logo.src}
+                                />
+                            </Link>
                         </div>
                         <div className="hidden sm:ml-6 sm:block">
                             <div className="flex space-x-4">

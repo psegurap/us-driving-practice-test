@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { CogIcon, XCircleIcon } from "@heroicons/react/24/outline";
 import { ArrowRightCircleIcon } from "@heroicons/react/24/solid";
-import { redirect } from "next/navigation";
+import { redirect, permanentRedirect } from "next/navigation";
 import Form from 'next/form'
 
 export default function QuestionsSetup({ estado }) {
@@ -10,7 +10,7 @@ export default function QuestionsSetup({ estado }) {
         <div className="bg-white dark:bg-gray-900">
             <div className="px-6 py-12 sm:py-20 lg:px-8">
                 <div className="mx-auto max-w-2xl text-center">
-                    <h1 className="text-2xl font-semibold tracking-tight text-balance text-gray-900 sm:text-3xl dark:text-white">
+                    <h1 className="text-3xl font-semibold tracking-tight text-balance text-gray-900  dark:text-white">
                         Practica para tu examen de manejo en {estado.name}
                     </h1>
                     <h2 className="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600 dark:text-gray-300">
@@ -22,10 +22,10 @@ export default function QuestionsSetup({ estado }) {
                             <div>
                                 <div className="text-center">
                                     <CogIcon className="mx-auto size-9 text-gray-400 dark:text-gray-500" />
-                                    <p className="mt-2 text-base font-semibold text-gray-900 dark:text-white">
+                                    <p className="mt-2 text-base font-semibold text-lg text-gray-900 dark:text-white">
                                         Elige la cantidad de preguntas
                                     </p>
-                                    <p className="mt-1 text-sm text-gray-700 dark:text-gray-400">
+                                    <p className="mt-1 text-gray-700 dark:text-gray-400">
                                         Decide cuántas preguntas quieres
                                         responder, entre 1 y 100, y practica con
                                         un simulacro realista del examen de
@@ -72,13 +72,14 @@ function FormSection({estado}) {
             setErrors(errors);
         } else {
             setErrors([]);
-            redirect(`/estado/${estado.slug}/prueba?preguntas=${questionsValue}`)
+            permanentRedirect(`/estado/${estado.slug}/prueba?preguntas=${questionsValue}`, "push")
         }
     }
 
     return (
         <>
-            <Form action={handleSubmit} className="mt-6 flex">
+            <Form action={handleSubmit} className="mt-6 flex flex-col gap-3 md:flex-row
+            ">
                 <input
                     name="cantidad-preguntas"
                     value={questionsValue}
@@ -86,7 +87,7 @@ function FormSection({estado}) {
                     type="number"
                     placeholder="Introduce la cantidad..."
                     aria-label="Colocar cantidad de preguntas"
-                    className={`block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline-1 -outline-offset-1 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-cyan-600 sm:text-sm/6 dark:bg-white/5 dark:text-white dark:outline-white/10 dark:placeholder:text-gray-500 dark:focus:outline-cyan-500 ${
+                    className={`block w-full rounded-md bg-white text-lg px-3 py-2 text-base text-gray-900 outline-1 -outline-offset-1 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-cyan-600 sm:text-sm/6 dark:bg-white/5 dark:text-white dark:outline-white/10 dark:placeholder:text-gray-500 dark:focus:outline-cyan-500 ${
                         errors.length > 0
                             ? "outline-red-300"
                             : "outline-gray-300"
@@ -94,12 +95,12 @@ function FormSection({estado}) {
                 />
                 <button
                     type="submit"
-                    className="inline-flex items-center gap-x-1.5 ml-4 cursor-pointer shrink-0 rounded-md bg-cyan-700 px-3 py-2 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-700 dark:shadow-none dark:hover:bg-cyan-500 dark:focus-visible:outline-cyan-600"
+                    className="inline-flex items-center justify-center gap-x-1.5 cursor-pointer shrink-0 rounded-md bg-cyan-700 px-3 py-2 text-lg sm:text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-700 dark:shadow-none dark:hover:bg-cyan-500 dark:focus-visible:outline-cyan-600"
                 >
                     Comenzar Examen
                     <ArrowRightCircleIcon
                         aria-hidden="true"
-                        className="size-5 font-bold text-white"
+                        className="size-6 font-bold text-white ml-auto"
                     />
                 </button>
             </Form>
