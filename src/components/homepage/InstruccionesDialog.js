@@ -39,7 +39,7 @@ export default function InstruccionesDialog() {
                 <button
                     type="button"
                     onClick={() => setOpen(true)}
-                    className="rounded-md bg-cyan-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-600 dark:shadow-none dark:hover:bg-cyan-500 dark:focus-visible:outline-cyan-600"
+                    className="rounded-md bg-cyan-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-700 dark:shadow-none dark:hover:bg-cyan-500 dark:focus-visible:outline-cyan-600"
                 >
                     Instrucciones
                 </button>
@@ -138,7 +138,7 @@ function Steps({ steps }) {
                                     <span className="font-medium dark:text-white">
                                         {step.name}
                                     </span>
-                                    <span className="text-sm text-gray-500 dark:text-gray-300">
+                                    <span className="text-sm text-gray-600 dark:text-gray-300">
                                         {step.description}
                                     </span>
                                 </span>
