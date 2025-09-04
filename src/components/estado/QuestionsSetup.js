@@ -17,7 +17,7 @@ export default function QuestionsSetup({ estado }) {
                         Simulacros y preguntas en español para que apruebes tu
                         examen teórico en {estado.name} a la primera.
                     </h2>
-                    <div className="overflow-hidden mt-10 rounded-lg bg-gray-100 shadow-sm dark:bg-gray-800/50 dark:shadow-none dark:outline dark:-outline-offset-1 dark:outline-white/10">
+                    <div className="overflow-hidden mt-10 rounded-lg bg-gray-200 shadow-sm dark:bg-gray-800/50 dark:shadow-none dark:outline dark:-outline-offset-1 dark:outline-white/10">
                         <div className="px-4 py-5 sm:p-6">
                             <div>
                                 <div className="text-center">
@@ -25,7 +25,7 @@ export default function QuestionsSetup({ estado }) {
                                     <p className="mt-2 text-base font-semibold text-gray-900 dark:text-white">
                                         Elige la cantidad de preguntas
                                     </p>
-                                    <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
+                                    <p className="mt-1 text-sm text-gray-700 dark:text-gray-400">
                                         Decide cuántas preguntas quieres
                                         responder, entre 1 y 100, y practica con
                                         un simulacro realista del examen de
@@ -94,7 +94,7 @@ function FormSection({estado}) {
                 />
                 <button
                     type="submit"
-                    className="inline-flex items-center gap-x-1.5 ml-4 cursor-pointer shrink-0 rounded-md bg-cyan-700 px-3 py-2 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-600 dark:shadow-none dark:hover:bg-cyan-500 dark:focus-visible:outline-cyan-600"
+                    className="inline-flex items-center gap-x-1.5 ml-4 cursor-pointer shrink-0 rounded-md bg-cyan-700 px-3 py-2 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-700 dark:shadow-none dark:hover:bg-cyan-500 dark:focus-visible:outline-cyan-600"
                 >
                     Comenzar Examen
                     <ArrowRightCircleIcon
