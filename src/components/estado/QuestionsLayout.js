@@ -47,12 +47,12 @@ export default function QuestionsLayout({ estado, questionsAmount }) {
 
     return (
         <div className="flex flex-col h-full">
-            <div className="grow bg-gray-100">
+            <div className="grow bg-gray-100 dark:bg-gray-900">
                 <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
                     <div className="mb-8">
                         <div className="mx-auto py-12 hidden sm:block">
                             <div className="mx-auto max-w-2xl text-center">
-                                <h2 className="text-base/7 font-semibold text-cyan-800 dark:text-cyan-400">
+                                <h2 className="text-base/7 font-semibold text-cyan-800 dark:text-cyan-500">
                                     Examen Teórico
                                 </h2>
                                 <p className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl sm:text-balance dark:text-white">

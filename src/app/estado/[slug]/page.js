@@ -12,6 +12,7 @@ export async function generateMetadata({ params }) {
     if (current_state.length > 0) {
         return {
             title: `Conduce en EE. UU. | Practica tu examen de manejo en ${current_state[0].name}`,
+            description: `Estudia sin complicaciones: practica con preguntas del examen de manejo en ${current_state[0].name} y llega listo a tu prueba.`
         }
     }
 }

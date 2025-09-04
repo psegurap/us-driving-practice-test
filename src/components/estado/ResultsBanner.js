@@ -23,26 +23,26 @@ export default function ResultsBanner({ questions }) {
             >
                 <DialogBackdrop
                     transition
-                    className="fixed inset-0 bg-gray-500/50 transition-opacity data-closed:opacity-0 data-enter:duration-300 data-enter:ease-out data-leave:duration-200 data-leave:ease-in dark:bg-gray-900/50"
+                    className="fixed inset-0 bg-gray-500/50 transition-opacity data-closed:opacity-0 data-enter:duration-300 data-enter:ease-out data-leave:duration-200 data-leave:ease-in dark:bg-gray-500/80"
                 />
 
                 <div className="fixed inset-0 z-10 w-screen overflow-y-auto p-4 md:px-8">
                     <div className="flex min-h-full items-end justify-center text-center">
                         <DialogPanel
                             transition
-                            className="relative w-full max-w-5xl transform overflow-hidden text-left shadow-xl transition-all data-closed:translate-y-4 data-closed:opacity-0 data-enter:duration-300 data-enter:ease-out data-leave:duration-200 data-leave:ease-in sm:my-8 data-closed:sm:translate-y-0 data-closed:sm:scale-95 dark:bg-gray-800 dark:outline dark:-outline-offset-1 dark:outline-white/10"
+                            className="relative w-full max-w-5xl transform overflow-hidden text-left shadow-xl dark:shadow-none transition-all data-closed:translate-y-4 data-closed:opacity-0 data-enter:duration-300 data-enter:ease-out data-leave:duration-200 data-leave:ease-in sm:my-8 data-closed:sm:translate-y-0 data-closed:sm:scale-95 "
                         >
                             <div className="flex justify-end mb-2">
                                 <button
                                     onClick={() => setShowBanner(false)}
                                     type="button"
-                                    className="rounded-sm cursor-pointer bg-cyan-700 px-3 py-1 font-semibold text-white shadow-xs hover:bg-cyan-800/95 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-600 dark:bg-cyan-500 dark:shadow-none dark:hover:bg-cyan-400 dark:focus-visible:outline-cyan-500"
+                                    className="rounded-sm cursor-pointer bg-cyan-700 px-3 py-1 font-semibold text-white shadow-xs hover:bg-cyan-800/95 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-600 dark:bg-cyan-800 dark:shadow-none dark:hover:bg-cyan-900 dark:focus-visible:outline-cyan-500"
                                 >
                                     Revisa tus respuestas
                                 </button>
                             </div>
-                            <div className="bg-white rounded-sm">
-                                <dl className="rounded-md grid grid-cols-1 divide-gray-200 overflow-hidden bg-white shadow-lg md:grid-cols-3 divide-y md:divide-x md:divide-y-0 dark:divide-white/10 dark:bg-gray-800/75 dark:shadow-none dark:inset-ring dark:inset-ring-white/10">
+                            <div className="bg-white dark:bg-gray-800 rounded-sm">
+                                <dl className="rounded-md grid grid-cols-1 divide-gray-200 overflow-hidden bg-white shadow-lg md:grid-cols-3 divide-y md:divide-x md:divide-y-0 dark:divide-white/10 dark:bg-gray-800 dark:shadow-none">
                                     <div className="px-4 py-5 sm:py-4 sm:px-6">
                                         <dt className="text-base font-medium text-gray-900 dark:text-gray-100">
                                             Número de preguntas

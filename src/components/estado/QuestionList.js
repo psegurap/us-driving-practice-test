@@ -5,10 +5,10 @@ export default function QuestionsList({
     questions,
     handleFinalizarPrueba,
     donePlaying,
-    setAreResultsPending
+    setAreResultsPending,
 }) {
     function handleFormSubmit(event) {
-        setAreResultsPending(true)
+        setAreResultsPending(true);
         event.preventDefault();
         handleFinalizarPrueba(event.target.querySelectorAll("input:checked"));
     }
@@ -32,7 +32,7 @@ export default function QuestionsList({
                 <button
                     type="submit"
                     disabled={donePlaying}
-                    className="w-full mt-5 disabled:cursor-default disabled:bg-cyan-800 disabled:opacity-75 cursor-pointer rounded-sm bg-cyan-700 px-3.5 py-2.5 font-semibold text-white shadow-sm hover:bg-cyan-800 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-600 dark:shadow-none dark:hover:bg-cyan-500 dark:focus-visible:outline-cyan-600"
+                    className="w-full mt-5 disabled:cursor-default disabled:bg-cyan-800 disabled:opacity-75 cursor-pointer rounded-sm bg-cyan-700 px-3.5 py-2.5 font-semibold text-white shadow-sm hover:bg-cyan-800 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-700 dark:bg-cyan-600 dark:shadow-none dark:focus-visible:outline-cyan-600"
                 >
                     Comprobar Respuestas
                 </button>
@@ -78,40 +78,43 @@ function EachQuestion({ question, index, questions_length, donePlaying }) {
 }
 
 function QuestionOption({ option, question, donePlaying }) {
-    let classes;
+    let classes = "";
+    let initial_color =
+        "bg-white text-gray-900 dark:bg-gray-800/50 dark:text-white";
+    let good_answer_style = "bg-green-100 dark:text-gray-800";
+    let bad_answer_style = "bg-red-100 dark:text-gray-800";
 
     // play with green and red in done playing
     if (donePlaying) {
+        classes = initial_color;
+
         // if no answer provided, highlight the correct answer
         if (question.respuesta_usuario == "") {
             if (question.respuesta_correcta == option) {
-                classes = "bg-green-100";
+                classes = good_answer_style;
             }
             // if answer provided, play with the green and red
         } else {
             // play with the selected option to confirm if the answer was correct or not
             if (question.respuesta_usuario == option) {
-                classes =
-                    question.respuesta_correcta == option
-                        ? "bg-green-100"
-                        : "bg-red-100";
+                classes = question.respuesta_correcta == option ? good_answer_style : bad_answer_style;
             } else {
                 classes =
                     question.respuesta_correcta == option
-                        ? "bg-green-100"
-                        : "white";
+                        ? good_answer_style
+                        : initial_color;
             }
         }
         // add white bg white if not done
     } else {
-        classes = "bg-white";
+        classes = initial_color;
     }
 
     return (
         <li className="h-full">
             <label
                 aria-label={option}
-                className={`${classes} group relative h-full flex hover:brightness-98 rounded-lg border border-gray-300 p-4 has-checked:outline-2 has-checked:-outline-offset-2 has-checked:outline-cyan-600 has-focus-visible:outline-3 has-focus-visible:-outline-offset-1 dark:border-white/10 dark:bg-gray-800/50 dark:has-checked:bg-cyan-500/10 dark:has-checked:outline-cyan-500 dark:has-disabled:border-white/10 dark:has-disabled:bg-gray-800`}
+                className={`${classes} group relative h-full flex hover:brightness-98 rounded-lg border border-gray-300 p-4 has-checked:outline-2 has-checked:-outline-offset-2 has-checked:outline-cyan-600 has-focus-visible:outline-3 has-focus-visible:-outline-offset-1 dark:border-white/10 `}
             >
                 <input
                     name={question.pregunta}
@@ -122,7 +125,7 @@ function QuestionOption({ option, question, donePlaying }) {
                     className="absolute inset-0 appearance-none focus:outline-none"
                 />
                 <div className="flex-1">
-                    <span className="block text-sm font-medium text-gray-900 dark:text-white">
+                    <span className="block text-sm text-base font-medium">
                         {option}
                     </span>
                 </div>
