@@ -1,6 +1,7 @@
 import "@/styles/global.css";
 import PageNavigation from "@/components/PageNavigation";
 import logo from "./favicon.ico";
+import { Analytics } from "@vercel/analytics/next";
 
 import Footer from "@/components/Footer";
 
@@ -12,7 +13,7 @@ export const metadata = {
     description:
         "Simulacros y preguntas reales en español para aprobar tu examen de manejo en EE. UU.",
     twitter: {
-        card: "summary_large_image"
+        card: "summary_large_image",
     },
     // facebook: {
     //     card: "summary_large_image"
@@ -36,6 +37,7 @@ export default function RootLayout({ children }) {
                     <main className="grow dark:bg-gray-900">{children}</main>
                     <Footer />
                 </div>
+                <Analytics />
             </body>
         </html>
     );
