@@ -1,8 +1,8 @@
-'use client'
+"use client";
 
 export default function PrivacyPage() {
     return (
-        <div className="bg-white px-6 sm:py-20 lg:px-8 dark:bg-gray-900">
+        <div className="bg-white px-6 py-8 sm:py-20 lg:px-8 dark:bg-gray-900">
             <div className="mx-auto max-w-5xl text-base/7 text-gray-700 dark:text-gray-300">
                 <h1 className="text-4xl text-gray-900 font-semibold text-pretty tracking-tight sm:text-5xl dark:text-white">
                     Política de Privacidad
