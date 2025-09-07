@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 
 export const metadata = {
     title: {
-        default: "Practica tu examen de manejo | Conduce en EE. UU.",
+        default: "Practica tu examen de manejo | Conduce en Estados Unidos",
         template: "%s | Conduce en Estados Unidos",
     },
     description:
