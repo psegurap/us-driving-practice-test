@@ -1,8 +1,23 @@
 import "@/styles/global.css";
 import PageNavigation from "@/components/PageNavigation";
-import logo from "@/styles/driving-school-svgrepo-com.svg"
+import logo from "./favicon.ico";
 
 import Footer from "@/components/Footer";
+
+export const metadata = {
+    title: {
+        default: "Practica tu examen de manejo | Conduce en EE. UU.",
+        template: "%s | Conduce en Estados Unidos",
+    },
+    description:
+        "Simulacros y preguntas reales en español para aprobar tu examen de manejo en EE. UU.",
+    twitter: {
+        card: "summary_large_image"
+    },
+    // facebook: {
+    //     card: "summary_large_image"
+    // }
+};
 
 export default function RootLayout({ children }) {
     return (
@@ -11,7 +26,7 @@ export default function RootLayout({ children }) {
                 <link
                     rel="icon"
                     type="favicon"
-                    sizes="32x32"
+                    sizes="any"
                     href={logo.src}
                 ></link>
             </head>
