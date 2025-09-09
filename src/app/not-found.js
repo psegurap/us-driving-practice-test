@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
-    title: "Conduce en EE. UU. | Página no encontrada",
+    title: "Página no encontrada",
     description: "",
 };
 

@@ -22,7 +22,7 @@
     {
         "name": "Arizona",
         "file": "AZ.json",
-        "slug": "nc"
+        "slug": "az"
     },
     {
         "name": "Illinois",
@@ -48,5 +48,11 @@
         "name": "Georgia",
         "file": "GA.json",
         "slug": "ga"
+    }
+    ,
+    {
+        "name": "North Carolina",
+        "file": "NC.json",
+        "slug": "nc"
     }
 ]
