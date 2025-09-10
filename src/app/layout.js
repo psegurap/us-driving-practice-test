@@ -10,10 +10,6 @@ export const metadata = {
         default: "Practica tu examen de manejo | Conduce en Estados Unidos",
         template: "%s | Conduce en Estados Unidos",
     },
-    other: {
-        "google-site-verification":
-            "rrrV2TgRO7Q1CCdfdFl32R34Ro8DQYrNd7Y98JEv3u0",
-    },
     description:
         "Simulacros y preguntas reales en español para aprobar tu examen de manejo en EE. UU.",
     twitter: {
