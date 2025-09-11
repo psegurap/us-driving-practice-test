@@ -48,11 +48,15 @@
         "name": "Georgia",
         "file": "GA.json",
         "slug": "ga"
-    }
-    ,
+    },
     {
         "name": "North Carolina",
         "file": "NC.json",
         "slug": "nc"
+    },
+    {
+        "name": "Pennsylvania",
+        "file": "PA.json",
+        "slug": "pa"
     }
 ]
