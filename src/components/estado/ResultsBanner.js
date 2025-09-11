@@ -11,8 +11,8 @@ export default function ResultsBanner({ questions }) {
         (question) => question.respuesta_correcta != question.respuesta_usuario
     ).length;
 
-    let good_percentage = (good_answers / questions.length) * 100;
-    let wrong_percentage = (wrong_answers / questions.length) * 100;
+    let good_percentage = Math.round((good_answers / questions.length) * 100);
+    let wrong_percentage = Math.round((wrong_answers / questions.length) * 100);
 
     return (
         <div>
@@ -63,7 +63,7 @@ export default function ResultsBanner({ questions }) {
                                             </div>
 
                                             <div className="bg-green-100 text-green-800 dark:bg-green-400/10 dark:text-green-400 inline-flex items-baseline rounded-full px-2.5 py-0.5 text-sm font-medium md:mt-2 lg:mt-0">
-                                                {(good_percentage.toString().indexOf(".") > -1) ? good_percentage.toFixed(2) : good_percentage}%
+                                                {good_percentage}%
                                             </div>
                                         </dd>
                                     </div>
@@ -77,7 +77,7 @@ export default function ResultsBanner({ questions }) {
                                             </div>
 
                                             <div className="bg-red-100 text-red-800 dark:bg-red-400/10 dark:text-red-400 inline-flex items-baseline rounded-full px-2.5 py-0.5 text-sm font-medium md:mt-2 lg:mt-0">
-                                                {(wrong_percentage.toString().indexOf(".") > -1) ? wrong_percentage.toFixed(2) : wrong_percentage}%
+                                                {wrong_percentage}%
                                             </div>
                                         </dd>
                                     </div>
