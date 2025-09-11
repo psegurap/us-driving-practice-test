@@ -58,5 +58,10 @@
         "name": "Pennsylvania",
         "file": "PA.json",
         "slug": "pa"
+    },
+    {
+        "name": "Washington",
+        "file": "WA.json",
+        "slug": "wa"
     }
 ]
