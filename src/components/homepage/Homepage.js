@@ -101,11 +101,12 @@ function classNames(...classes) {
 }
 
 function StatesAvailableList() {
+    let states_sorted = available_states.sort((a, b) => a.name.localeCompare(b.name))
     return (
         <div id="seleccionar-estado" className="bg-gray-100 ">
             <div className="mx-auto max-w-7xl px-6 lg:px-8 py-12 sm:py-24">
                 <div className="gap-5 grid md:grid-cols-3 ">
-                    {available_states.map((state, index) => (
+                    {states_sorted.map((state, index) => (
                         <div
                             key={state.name}
                             className="rounded group shadow-sm relative border-gray-200 bg-white p-6 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-cyan-600"
