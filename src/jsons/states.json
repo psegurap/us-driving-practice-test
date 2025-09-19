@@ -68,5 +68,10 @@
         "name": "Virginia",
         "file": "VA.json",
         "slug": "va"
+    },
+    {
+        "name": "Massachusetts",
+        "file": "MA.json",
+        "slug": "ma"
     }
 ]

@@ -10,7 +10,7 @@ export default function QuestionsSetup({ estado }) {
         <div className="bg-white dark:bg-gray-900">
             <div className="px-6 py-12 sm:py-20 lg:px-8">
                 <div className="mx-auto max-w-2xl text-center">
-                    <h1 className="text-3xl font-semibold tracking-tight text-balance text-gray-900  dark:text-white">
+                    <h1 className="text-4xl font-semibold tracking-tight text-balance text-gray-900  dark:text-white">
                         Practica para tu examen de manejo en {estado.name}
                     </h1>
                     <h2 className="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600 dark:text-gray-300">
