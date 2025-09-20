@@ -1,0 +1,1802 @@
+[
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en áreas residenciales en Nevada, salvo que se indique lo contrario?",
+        "opciones": ["15 mph", "25 mph", "35 mph", "45 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "Cuando un semáforo muestra luz amarilla, significa:",
+        "opciones": [
+            "Detenerse inmediatamente",
+            "Acelerar para pasar",
+            "Precaución y prepararse para detenerse",
+            "Ignorar si no hay tráfico"
+        ],
+        "respuesta_correcta": "Precaución y prepararse para detenerse"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si ve un autobús escolar detenido con luces rojas intermitentes?",
+        "opciones": [
+            "Reducir la velocidad y pasar con cuidado",
+            "Detenerse completamente, sin importar la dirección",
+            "Continuar si no hay niños en la calle",
+            "Solo detenerse si está detrás del autobús"
+        ],
+        "respuesta_correcta": "Detenerse completamente, sin importar la dirección"
+    },
+    {
+        "pregunta": "Al conducir en condiciones de lluvia, es recomendable:",
+        "opciones": [
+            "Encender luces altas",
+            "Mantener la distancia de seguimiento",
+            "Acelerar para evitar derrapes",
+            "No usar los limpiaparabrisas"
+        ],
+        "respuesta_correcta": "Mantener la distancia de seguimiento"
+    },
+    {
+        "pregunta": "En Nevada, el uso de cinturón de seguridad es obligatorio para:",
+        "opciones": [
+            "Solo el conductor",
+            "Todos los ocupantes del vehículo",
+            "Solo los pasajeros del asiento delantero",
+            "Solo menores de 18 años"
+        ],
+        "respuesta_correcta": "Todos los ocupantes del vehículo"
+    },
+    {
+        "pregunta": "Si se aproxima a una intersección sin señales de tráfico, ¿quién tiene el derecho de paso?",
+        "opciones": [
+            "El vehículo a su izquierda",
+            "El vehículo que llega primero",
+            "El vehículo más rápido",
+            "El vehículo más grande"
+        ],
+        "respuesta_correcta": "El vehículo que llega primero"
+    },
+    {
+        "pregunta": "¿Cuál es la tasa máxima de alcohol en sangre (BAC) permitida para conductores mayores de 21 años en Nevada?",
+        "opciones": ["0.08%", "0.05%", "0.10%", "0.02%"],
+        "respuesta_correcta": "0.08%"
+    },
+    {
+        "pregunta": "Antes de cambiar de carril, ¿qué debe hacer?",
+        "opciones": [
+            "Encender la luz direccional y mirar el espejo",
+            "Solo encender la luz direccional",
+            "Acelerar y cambiar rápidamente",
+            "Tocar la bocina antes de moverse"
+        ],
+        "respuesta_correcta": "Encender la luz direccional y mirar el espejo"
+    },
+    {
+        "pregunta": "Si un semáforo está en rojo y quiere girar a la derecha, usted debe:",
+        "opciones": [
+            "Girar inmediatamente",
+            "Detenerse y ceder el paso a peatones y tráfico",
+            "Esperar hasta que esté en verde",
+            "Girar solo si no hay policía presente"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso a peatones y tráfico"
+    },
+    {
+        "pregunta": "¿Qué indica una línea amarilla continua en su carril?",
+        "opciones": [
+            "Se permite pasar",
+            "Separación de tráfico en direcciones opuestas y no se permite pasar",
+            "Solo para bicicletas",
+            "Zona de estacionamiento"
+        ],
+        "respuesta_correcta": "Separación de tráfico en direcciones opuestas y no se permite pasar"
+    },
+    {
+        "pregunta": "Si se encuentra con un vehículo de emergencia con luces y sirena encendidas, usted debe:",
+        "opciones": [
+            "Acelerar para alejarse",
+            "Detenerse y permanecer hasta que pase",
+            "Continuar normalmente",
+            "Girar en U para evitarlo"
+        ],
+        "respuesta_correcta": "Detenerse y permanecer hasta que pase"
+    },
+    {
+        "pregunta": "La distancia mínima para estacionarse de un hidrante en Nevada es:",
+        "opciones": ["5 pies", "10 pies", "15 pies", "20 pies"],
+        "respuesta_correcta": "15 pies"
+    },
+    {
+        "pregunta": "Si sus frenos fallan mientras conduce, ¿qué es lo primero que debe intentar?",
+        "opciones": [
+            "Encender luces de emergencia",
+            "Usar freno de emergencia y reducir velocidad",
+            "Apagar el motor",
+            "Girar bruscamente"
+        ],
+        "respuesta_correcta": "Usar freno de emergencia y reducir velocidad"
+    },
+    {
+        "pregunta": "Una señal con forma de octágono rojo significa:",
+        "opciones": ["Ceda el paso", "Alto", "Prohibido girar", "Zona escolar"],
+        "respuesta_correcta": "Alto"
+    },
+    {
+        "pregunta": "En Nevada, ¿qué distancia mínima debe mantener detrás de un vehículo grande (camión) para estar seguro?",
+        "opciones": ["1 segundo", "2 segundos", "3 segundos", "5 segundos"],
+        "respuesta_correcta": "3 segundos"
+    },
+    {
+        "pregunta": "Si quiere estacionar cuesta arriba con bordillo, ¿cómo debe girar las ruedas?",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia la acera",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la acera"
+    },
+    {
+        "pregunta": "Con un semáforo intermitente amarillo, usted debe:",
+        "opciones": [
+            "Detenerse completamente",
+            "Reducir velocidad y continuar con precaución",
+            "Acelerar",
+            "Ignorar la luz"
+        ],
+        "respuesta_correcta": "Reducir velocidad y continuar con precaución"
+    },
+    {
+        "pregunta": "Si un vehículo se aproxima con luces altas, usted debe:",
+        "opciones": [
+            "Encender luces altas también",
+            "Mirar hacia la derecha y reducir velocidad",
+            "Mirar directamente a las luces",
+            "Encender luces intermitentes"
+        ],
+        "respuesta_correcta": "Mirar hacia la derecha y reducir velocidad"
+    },
+    {
+        "pregunta": "¿Está permitido usar un teléfono celular mientras conduce en Nevada sin manos libres?",
+        "opciones": [
+            "Sí, en cualquier momento",
+            "No, salvo en emergencias",
+            "Solo si hay tráfico ligero",
+            "Solo en autopistas"
+        ],
+        "respuesta_correcta": "No, salvo en emergencias"
+    },
+    {
+        "pregunta": "Antes de entrar a una rotonda, usted debe:",
+        "opciones": [
+            "Ceder el paso a los vehículos dentro de la rotonda",
+            "Entrar rápidamente",
+            "Tocar la bocina",
+            "Acelerar para no detenerse"
+        ],
+        "respuesta_correcta": "Ceder el paso a los vehículos dentro de la rotonda"
+    },
+    {
+        "pregunta": "Si su vehículo empieza a derrapar en agua (hydroplane), usted debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar rápidamente hacia la acera",
+            "Quitar el pie del acelerador y mantener dirección recta",
+            "Acelerar para recuperar control"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y mantener dirección recta"
+    },
+    {
+        "pregunta": "Cuando vea señales de construcción en la carretera, debe:",
+        "opciones": [
+            "Reducir velocidad y obedecer las instrucciones",
+            "Ignorarlas si no hay trabajadores visibles",
+            "Acelerar para pasar rápido",
+            "Solo detenerse si hay un policía presente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y obedecer las instrucciones"
+    },
+    {
+        "pregunta": "Al conducir de noche en una carretera sin iluminación, debe:",
+        "opciones": [
+            "Usar luces bajas",
+            "Usar luces altas",
+            "Usar luces intermitentes",
+            "No usar luces"
+        ],
+        "respuesta_correcta": "Usar luces altas"
+    },
+    {
+        "pregunta": "Si un ciclista está en su carril, usted debe:",
+        "opciones": [
+            "Pasar muy cerca para advertirlo",
+            "Reducir velocidad y cambiar de carril si es seguro",
+            "Tocar la bocina para que se aparte",
+            "Acelerar para pasar rápido"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es seguro"
+    },
+    {
+        "pregunta": "Si un animal cruza repentinamente la carretera, usted debe:",
+        "opciones": [
+            "Frenar bruscamente y girar",
+            "Intentar esquivarlo suavemente y frenar",
+            "Ignorarlo",
+            "Acelerar para pasarlo antes"
+        ],
+        "respuesta_correcta": "Intentar esquivarlo suavemente y frenar"
+    },
+    {
+        "pregunta": "En una carretera de varios carriles, ¿cuál es el carril más seguro para conducir normalmente?",
+        "opciones": [
+            "Carril izquierdo",
+            "Carril central",
+            "Carril derecho",
+            "No importa"
+        ],
+        "respuesta_correcta": "Carril central"
+    },
+    {
+        "pregunta": "Si su visión se ve afectada por sol brillante, usted debe:",
+        "opciones": [
+            "Usar gafas de sol y reducir velocidad",
+            "Cerrar los ojos momentáneamente",
+            "Encender luces altas",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Usar gafas de sol y reducir velocidad"
+    },
+    {
+        "pregunta": "Si se acerca a un paso peatonal sin semáforo, usted debe:",
+        "opciones": [
+            "Detenerse si hay peatones presentes",
+            "Tocar la bocina para que crucen rápido",
+            "Pasar primero",
+            "Solo reducir velocidad"
+        ],
+        "respuesta_correcta": "Detenerse si hay peatones presentes"
+    },
+    {
+        "pregunta": "En Nevada, los conductores deben ceder el paso a los vehículos que ya están en:",
+        "opciones": [
+            "Una rotonda",
+            "Un cruce escolar",
+            "Una autopista de entrada",
+            "Todas las anteriores"
+        ],
+        "respuesta_correcta": "Todas las anteriores"
+    },
+    {
+        "pregunta": "Si su neumático se pincha mientras conduce, usted debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Sostener el volante firmemente y reducir velocidad gradualmente",
+            "Girar hacia la acera rápidamente",
+            "Apagar el motor inmediatamente"
+        ],
+        "respuesta_correcta": "Sostener el volante firmemente y reducir velocidad gradualmente"
+    },
+    {
+        "pregunta": "Cuando se encuentra con un tren en un cruce ferroviario, debe:",
+        "opciones": [
+            "Detenerse y esperar a que pase completamente",
+            "Acelerar para cruzar rápido",
+            "Tocar la bocina y cruzar",
+            "Continuar si no hay luces intermitentes"
+        ],
+        "respuesta_correcta": "Detenerse y esperar a que pase completamente"
+    },
+    {
+        "pregunta": "Si conduce detrás de un camión grande, debe mantener distancia porque:",
+        "opciones": [
+            "Tienen puntos ciegos grandes y necesitan espacio para maniobrar",
+            "Son más lentos",
+            "Hacen ruido",
+            "Pueden empujar su vehículo"
+        ],
+        "respuesta_correcta": "Tienen puntos ciegos grandes y necesitan espacio para maniobrar"
+    },
+    {
+        "pregunta": "Cuando estaciona en una pendiente cuesta abajo sin bordillo, las ruedas deben estar:",
+        "opciones": [
+            "Giradas hacia la acera",
+            "Giradas hacia la calle",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Giradas hacia la calle"
+    },
+    {
+        "pregunta": "Si un conductor está bloqueando una intersección, usted debe:",
+        "opciones": [
+            "Tocar la bocina para que se mueva",
+            "Esperar hasta que se despeje",
+            "Avanzar lentamente",
+            "Girar en U para evitarlo"
+        ],
+        "respuesta_correcta": "Esperar hasta que se despeje"
+    },
+    {
+        "pregunta": "Al adelantar a otro vehículo, debe:",
+        "opciones": [
+            "Señalizar, verificar espejos y puntos ciegos, y luego adelantar",
+            "Adelantar rápidamente sin señal",
+            "Usar la bocina mientras adelanta",
+            "Encender luces altas y pasar"
+        ],
+        "respuesta_correcta": "Señalizar, verificar espejos y puntos ciegos, y luego adelantar"
+    },
+    {
+        "pregunta": "Si encuentra hielo negro en la carretera, usted debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Reducir velocidad y conducir con cuidado",
+            "Girar rápidamente",
+            "Acelerar para pasar rápido"
+        ],
+        "respuesta_correcta": "Reducir velocidad y conducir con cuidado"
+    },
+    {
+        "pregunta": "En Nevada, los conductores menores de 18 años con licencia provisional no pueden:",
+        "opciones": [
+            "Conducir entre las 1 a.m. y 5 a.m. sin un adulto",
+            "Usar cinturón de seguridad",
+            "Conducir a menos de 25 mph",
+            "Parar en un alto"
+        ],
+        "respuesta_correcta": "Conducir entre las 1 a.m. y 5 a.m. sin un adulto"
+    },
+    {
+        "pregunta": "Cuando se aproxima a un semáforo en rojo y desea girar a la izquierda desde una calle de un solo sentido hacia otra de un solo sentido, debe:",
+        "opciones": [
+            "Girar si la vía está libre y ceder paso",
+            "Siempre esperar a que esté verde",
+            "Solo girar si hay policía",
+            "Girar rápidamente"
+        ],
+        "respuesta_correcta": "Girar si la vía está libre y ceder paso"
+    },
+    {
+        "pregunta": "Si sufre un accidente menor sin heridos, debe:",
+        "opciones": [
+            "Intercambiar información y reportarlo si hay daños significativos",
+            "Huir inmediatamente",
+            "Solo mover el vehículo y continuar",
+            "Esperar policía aunque no sea necesario"
+        ],
+        "respuesta_correcta": "Intercambiar información y reportarlo si hay daños significativos"
+    },
+    {
+        "pregunta": "Una señal triangular con borde rojo y fondo blanco significa:",
+        "opciones": ["Alto", "Ceda el paso", "Prohibido girar", "Zona escolar"],
+        "respuesta_correcta": "Ceda el paso"
+    },
+    {
+        "pregunta": "Una señal circular amarilla con una 'X' y las letras 'RR' indica:",
+        "opciones": [
+            "Cruce escolar",
+            "Cruce ferroviario",
+            "Rotonda",
+            "Zona de obras"
+        ],
+        "respuesta_correcta": "Cruce ferroviario"
+    },
+    {
+        "pregunta": "Una señal en forma de pentágono indica:",
+        "opciones": ["Zona escolar", "Ceda el paso", "Alto", "Prohibido girar"],
+        "respuesta_correcta": "Zona escolar"
+    },
+    {
+        "pregunta": "Las líneas dobles amarillas continuas significan:",
+        "opciones": [
+            "Se permite pasar con precaución",
+            "Separación de tráfico en direcciones opuestas y no se permite pasar",
+            "Solo bicicletas",
+            "Zona de estacionamiento"
+        ],
+        "respuesta_correcta": "Separación de tráfico en direcciones opuestas y no se permite pasar"
+    },
+    {
+        "pregunta": "Una señal rectangular blanca con letras negras generalmente indica:",
+        "opciones": [
+            "Reglamentos o instrucciones",
+            "Advertencia de peligro",
+            "Dirección de salida",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Reglamentos o instrucciones"
+    },
+    {
+        "pregunta": "Una señal amarilla en forma de diamante indica:",
+        "opciones": [
+            "Advertencia de peligro",
+            "Reglamento de tránsito",
+            "Alto obligatorio",
+            "Zona de peaje"
+        ],
+        "respuesta_correcta": "Advertencia de peligro"
+    },
+    {
+        "pregunta": "Si ve una luz roja intermitente en un cruce peatonal, usted debe:",
+        "opciones": [
+            "Detenerse completamente",
+            "Reducir velocidad y continuar",
+            "Encender luces altas",
+            "Tocar la bocina y continuar"
+        ],
+        "respuesta_correcta": "Detenerse completamente"
+    },
+    {
+        "pregunta": "Una línea blanca continua separa carriles que circulan en la misma dirección y significa:",
+        "opciones": [
+            "No cambiar de carril",
+            "Se permite cambiar de carril con precaución",
+            "Carril exclusivo para bicicletas",
+            "Carril de alta velocidad"
+        ],
+        "respuesta_correcta": "No cambiar de carril"
+    },
+    {
+        "pregunta": "Señal de color naranja generalmente indica:",
+        "opciones": [
+            "Zona de construcción o mantenimiento",
+            "Zona escolar",
+            "Prohibición",
+            "Rotonda"
+        ],
+        "respuesta_correcta": "Zona de construcción o mantenimiento"
+    },
+    {
+        "pregunta": "Si ve luces amarillas intermitentes en un cruce escolar, debe:",
+        "opciones": [
+            "Detenerse completamente",
+            "Reducir velocidad y prepararse para detenerse",
+            "Acelerar para cruzar rápido",
+            "Ignorar si no hay niños visibles"
+        ],
+        "respuesta_correcta": "Reducir velocidad y prepararse para detenerse"
+    },
+    {
+        "pregunta": "Una señal de límite de velocidad indica:",
+        "opciones": [
+            "La velocidad máxima permitida",
+            "La velocidad mínima obligatoria",
+            "Sugerencia de velocidad segura",
+            "Velocidad para ciclistas"
+        ],
+        "respuesta_correcta": "La velocidad máxima permitida"
+    },
+    {
+        "pregunta": "Si ve una señal de ‘NO U-TURN’, significa:",
+        "opciones": [
+            "Prohibido girar en U",
+            "Ceda el paso",
+            "Alto obligatorio",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Prohibido girar en U"
+    },
+    {
+        "pregunta": "Señal con un diamante amarillo y una flecha curva indica:",
+        "opciones": [
+            "Curva peligrosa",
+            "Calle sin salida",
+            "Rotonda",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Curva peligrosa"
+    },
+    {
+        "pregunta": "Si ve un vehículo de emergencia detenido con luces intermitentes en la carretera, usted debe:",
+        "opciones": [
+            "Reducir velocidad y cambiar de carril si es posible",
+            "Acelerar para pasar rápido",
+            "Ignorar y continuar",
+            "Tocar la bocina para advertir"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es posible"
+    },
+    {
+        "pregunta": "Una señal de color verde indica:",
+        "opciones": [
+            "Información de dirección o distancia",
+            "Advertencia de peligro",
+            "Reglamento de tránsito",
+            "Prohibición"
+        ],
+        "respuesta_correcta": "Información de dirección o distancia"
+    },
+    {
+        "pregunta": "Una señal azul generalmente indica:",
+        "opciones": [
+            "Servicios o información al conductor",
+            "Advertencia de peligro",
+            "Prohibición",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Servicios o información al conductor"
+    },
+    {
+        "pregunta": "En caso de emergencia mecánica en la autopista, debe:",
+        "opciones": [
+            "Encender luces de emergencia y detenerse fuera del tráfico",
+            "Detenerse en el carril derecho y salir del vehículo",
+            "Continuar hasta la salida más cercana",
+            "Tocar la bocina y esperar ayuda"
+        ],
+        "respuesta_correcta": "Encender luces de emergencia y detenerse fuera del tráfico"
+    },
+    {
+        "pregunta": "Si encuentra una señal de ‘ONE WAY’, usted debe:",
+        "opciones": [
+            "Conducir solo en la dirección indicada",
+            "Puede girar en cualquier dirección",
+            "Detenerse y esperar instrucciones",
+            "Ignorar si no hay tráfico"
+        ],
+        "respuesta_correcta": "Conducir solo en la dirección indicada"
+    },
+    {
+        "pregunta": "Señal amarilla con una flecha curva y un porcentaje indica:",
+        "opciones": [
+            "Pendiente empinada",
+            "Curva peligrosa",
+            "Cruce escolar",
+            "Zona de construcción"
+        ],
+        "respuesta_correcta": "Pendiente empinada"
+    },
+    {
+        "pregunta": "Una señal de ‘STOP AHEAD’ significa:",
+        "opciones": [
+            "Se aproxima un alto y debe reducir velocidad",
+            "Ceda el paso a los peatones",
+            "Prohibido girar a la izquierda",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Se aproxima un alto y debe reducir velocidad"
+    },
+    {
+        "pregunta": "Si un peatón está cruzando fuera del paso peatonal, usted debe:",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso",
+            "Tocar la bocina para que se apure",
+            "Acelerar para pasar antes"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "Cuando se acerca a un cruce con semáforo amarillo intermitente, debe:",
+        "opciones": [
+            "Detenerse completamente",
+            "Reducir velocidad y cruzar con precaución",
+            "Acelerar para pasar rápido",
+            "Ignorar la luz"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cruzar con precaución"
+    },
+    {
+        "pregunta": "Si su vehículo es alcanzado por un camión grande, lo más seguro es:",
+        "opciones": [
+            "Girar bruscamente para evitarlo",
+            "Mantener firme el volante y tratar de salir de su punto ciego",
+            "Acelerar y seguir derecho",
+            "Frenar bruscamente y girar hacia la acera"
+        ],
+        "respuesta_correcta": "Mantener firme el volante y tratar de salir de su punto ciego"
+    },
+    {
+        "pregunta": "Cuando hay un accidente con lesiones, usted debe:",
+        "opciones": [
+            "Llamar a los servicios de emergencia y no mover a los heridos si no es necesario",
+            "Mover a todos los involucrados inmediatamente",
+            "Ignorar y seguir manejando",
+            "Solo intercambiar información de seguro"
+        ],
+        "respuesta_correcta": "Llamar a los servicios de emergencia y no mover a los heridos si no es necesario"
+    },
+    {
+        "pregunta": "Si un semáforo está apagado en una intersección, usted debe:",
+        "opciones": [
+            "Tratar la intersección como un alto de cuatro vías",
+            "Pasar normalmente",
+            "Solo ceder a la derecha",
+            "Tocar la bocina antes de cruzar"
+        ],
+        "respuesta_correcta": "Tratar la intersección como un alto de cuatro vías"
+    },
+    {
+        "pregunta": "Si ve una señal de ‘SLIPPERY WHEN WET’, significa:",
+        "opciones": [
+            "La carretera puede ser resbaladiza cuando está mojada",
+            "Solo para bicicletas",
+            "Zona escolar",
+            "Prohibido girar en U"
+        ],
+        "respuesta_correcta": "La carretera puede ser resbaladiza cuando está mojada"
+    },
+    {
+        "pregunta": "En caso de emergencia en la autopista, la señal de luces intermitentes amarillas indica:",
+        "opciones": [
+            "Precaución y reducir velocidad",
+            "Alto obligatorio",
+            "Ceda el paso",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Precaución y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un conductor está manejando agresivamente, usted debe:",
+        "opciones": [
+            "Responder igual y competir",
+            "Mantener distancia y ceder el paso",
+            "Tocar la bocina continuamente",
+            "Girar en U para enfrentarlo"
+        ],
+        "respuesta_correcta": "Mantener distancia y ceder el paso"
+    },
+    {
+        "pregunta": "Una señal blanca con borde negro que indica 'DO NOT ENTER' significa:",
+        "opciones": [
+            "Prohibido entrar",
+            "Ceda el paso",
+            "Alto obligatorio",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Prohibido entrar"
+    },
+    {
+        "pregunta": "Cuando un vehículo de emergencia se aproxima detrás de usted con sirena encendida, usted debe:",
+        "opciones": [
+            "Moverse hacia el lado derecho y detenerse",
+            "Acelerar para alejarse",
+            "Ignorar y seguir conduciendo",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Moverse hacia el lado derecho y detenerse"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a perder tracción en nieve o hielo, usted debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar suavemente en la dirección del derrape y reducir velocidad",
+            "Acelerar para recuperar control",
+            "Mantener dirección recta sin frenar"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del derrape y reducir velocidad"
+    },
+    {
+        "pregunta": "En Nevada, los ciclistas deben:",
+        "opciones": [
+            "Seguir las mismas reglas de tránsito que los vehículos motorizados",
+            "Ignorar semáforos",
+            "Usar siempre la acera",
+            "Solo circular en calles secundarias"
+        ],
+        "respuesta_correcta": "Seguir las mismas reglas de tránsito que los vehículos motorizados"
+    },
+    {
+        "pregunta": "Si su vehículo se queda varado en las vías del tren, usted debe:",
+        "opciones": [
+            "Salir del vehículo y moverse a un lugar seguro",
+            "Intentar empujarlo rápidamente",
+            "Esperar a que pase el tren",
+            "Encender luces y quedarse dentro"
+        ],
+        "respuesta_correcta": "Salir del vehículo y moverse a un lugar seguro"
+    },
+    {
+        "pregunta": "Cuando se aproxima a una intersección con señal de alto, usted debe:",
+        "opciones": [
+            "Detenerse completamente y ceder el paso",
+            "Reducir velocidad y pasar si no hay tráfico",
+            "Solo mirar a la derecha",
+            "Continuar normalmente"
+        ],
+        "respuesta_correcta": "Detenerse completamente y ceder el paso"
+    },
+    {
+        "pregunta": "Si ve una señal de advertencia con un ciervo, significa:",
+        "opciones": [
+            "Zona de cruce de animales",
+            "Prohibido girar",
+            "Zona escolar",
+            "Rotonda"
+        ],
+        "respuesta_correcta": "Zona de cruce de animales"
+    },
+    {
+        "pregunta": "En una carretera con carriles separados por línea discontinua blanca, usted puede:",
+        "opciones": [
+            "Cambiar de carril con precaución",
+            "No cambiar de carril",
+            "Solo girar a la derecha",
+            "Detenerse"
+        ],
+        "respuesta_correcta": "Cambiar de carril con precaución"
+    },
+    {
+        "pregunta": "Si observa humo o fuego cerca de la carretera, debe:",
+        "opciones": [
+            "Reducir velocidad y alejarse si es posible",
+            "Acelerar y pasar rápido",
+            "Ignorar y continuar",
+            "Tocar la bocina para alertar a otros"
+        ],
+        "respuesta_correcta": "Reducir velocidad y alejarse si es posible"
+    },
+    {
+        "pregunta": "Cuando se aproxima a una rotonda, usted debe:",
+        "opciones": [
+            "Ceder el paso a los vehículos dentro de la rotonda",
+            "Entrar rápidamente",
+            "Tocar la bocina antes de entrar",
+            "Girar en sentido contrario a la rotonda"
+        ],
+        "respuesta_correcta": "Ceder el paso a los vehículos dentro de la rotonda"
+    },
+    {
+        "pregunta": "Si está manejando y nota que el vehículo frente a usted frena repentinamente, usted debe:",
+        "opciones": [
+            "Mantener distancia y frenar gradualmente",
+            "Acelerar para evitar frenar",
+            "Tocar la bocina y girar bruscamente",
+            "Cerrar los ojos momentáneamente"
+        ],
+        "respuesta_correcta": "Mantener distancia y frenar gradualmente"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a incendiarse, usted debe:",
+        "opciones": [
+            "Salir inmediatamente del vehículo y llamar al 911",
+            "Intentar apagar el fuego con agua mientras conduce",
+            "Continuar conduciendo hasta llegar a casa",
+            "Ignorar el fuego si es pequeño"
+        ],
+        "respuesta_correcta": "Salir inmediatamente del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "Si un vehículo delante de usted indica que va a girar a la izquierda, usted debe:",
+        "opciones": [
+            "Adelantar por la derecha",
+            "Mantener distancia y no pasar hasta que complete el giro",
+            "Tocar la bocina para que apure",
+            "Girar a la izquierda también"
+        ],
+        "respuesta_correcta": "Mantener distancia y no pasar hasta que complete el giro"
+    },
+    {
+        "pregunta": "En una intersección sin señales, si dos vehículos llegan al mismo tiempo, quién tiene el derecho de paso?",
+        "opciones": [
+            "El de la izquierda",
+            "El de la derecha",
+            "El vehículo más rápido",
+            "El vehículo más grande"
+        ],
+        "respuesta_correcta": "El de la derecha"
+    },
+    {
+        "pregunta": "Si su automóvil comienza a patinar al tomar una curva, usted debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar suavemente en la dirección del patinazo y reducir velocidad",
+            "Acelerar",
+            "Girar en dirección contraria al patinazo"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del patinazo y reducir velocidad"
+    },
+    {
+        "pregunta": "Cuando hay neblina densa, usted debe:",
+        "opciones": [
+            "Usar luces altas",
+            "Usar luces bajas y reducir velocidad",
+            "Encender luces intermitentes y acelerar",
+            "Detenerse en medio de la carretera"
+        ],
+        "respuesta_correcta": "Usar luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "En autopistas con tres carriles en la misma dirección, el carril izquierdo se usa principalmente para:",
+        "opciones": [
+            "Conducir normalmente",
+            "Adelantar y tráfico rápido",
+            "Estacionar",
+            "Vehículos lentos"
+        ],
+        "respuesta_correcta": "Adelantar y tráfico rápido"
+    },
+    {
+        "pregunta": "Si un semáforo amarillo se muestra después de que el verde ha pasado, usted debe:",
+        "opciones": [
+            "Acelerar para pasar antes de que cambie a rojo",
+            "Prepararse para detenerse de manera segura",
+            "Detenerse inmediatamente sin importar la distancia",
+            "Ignorar la luz amarilla"
+        ],
+        "respuesta_correcta": "Prepararse para detenerse de manera segura"
+    },
+    {
+        "pregunta": "Si estaciona en un área sin bordillo, sus ruedas deben estar:",
+        "opciones": [
+            "Paralelas a la carretera",
+            "Giradas hacia la acera",
+            "Giradas hacia la calle",
+            "No importa"
+        ],
+        "respuesta_correcta": "Paralelas a la carretera"
+    },
+    {
+        "pregunta": "Si observa una señal de advertencia de ‘Falling Rocks’, significa:",
+        "opciones": [
+            "Zona de desprendimiento de rocas y peligro potencial",
+            "Solo para peatones",
+            "Zona escolar",
+            "Prohibido girar"
+        ],
+        "respuesta_correcta": "Zona de desprendimiento de rocas y peligro potencial"
+    },
+    {
+        "pregunta": "Cuando se aproxima a un cruce de ferrocarril sin barreras ni luces, usted debe:",
+        "opciones": [
+            "Reducir velocidad y mirar a ambos lados antes de cruzar",
+            "Acelerar para pasar rápido",
+            "Ignorar y cruzar normalmente",
+            "Tocar la bocina antes de cruzar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar a ambos lados antes de cruzar"
+    },
+    {
+        "pregunta": "Si un vehículo se detiene en su carril en autopista debido a avería, usted debe:",
+        "opciones": [
+            "Reducir velocidad y cambiar de carril si es seguro",
+            "Acelerar para pasar rápido",
+            "Detenerse detrás del vehículo",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es seguro"
+    },
+    {
+        "pregunta": "Si su visión se ve afectada por el sol durante el amanecer o atardecer, usted debe:",
+        "opciones": [
+            "Usar gafas de sol y reducir velocidad",
+            "Cerrar los ojos momentáneamente",
+            "Encender luces altas",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Usar gafas de sol y reducir velocidad"
+    },
+    {
+        "pregunta": "Cuando un semáforo tiene flecha verde, significa:",
+        "opciones": [
+            "Puede girar solo en la dirección indicada y tiene el derecho de paso",
+            "Debe detenerse",
+            "Puede girar en cualquier dirección",
+            "No puede girar"
+        ],
+        "respuesta_correcta": "Puede girar solo en la dirección indicada y tiene el derecho de paso"
+    },
+    {
+        "pregunta": "Si un ciclista circula en la carretera, usted debe:",
+        "opciones": [
+            "Darles suficiente espacio y adelantar solo cuando sea seguro",
+            "Tocar la bocina para que se aparten",
+            "Pasar muy cerca",
+            "Ignorar su presencia"
+        ],
+        "respuesta_correcta": "Darles suficiente espacio y adelantar solo cuando sea seguro"
+    },
+    {
+        "pregunta": "En un cruce peatonal, si el semáforo está verde para usted pero hay peatones cruzando, usted debe:",
+        "opciones": [
+            "Detenerse y ceder el paso a los peatones",
+            "Acelerar para pasar antes",
+            "Tocar la bocina y seguir",
+            "Continuar normalmente"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso a los peatones"
+    },
+    {
+        "pregunta": "Cuando un policía lo detiene, usted debe:",
+        "opciones": [
+            "Detenerse en un lugar seguro, apagar motor y mantener manos a la vista",
+            "Salir del vehículo rápidamente",
+            "Encender luces altas y acelerar",
+            "Ignorar y seguir conduciendo"
+        ],
+        "respuesta_correcta": "Detenerse en un lugar seguro, apagar motor y mantener manos a la vista"
+    },
+    {
+        "pregunta": "Si su vehículo se queda sin frenos, la primera acción que debe intentar es:",
+        "opciones": [
+            "Usar freno de emergencia y reducir velocidad",
+            "Encender luces intermitentes",
+            "Apagar el motor inmediatamente",
+            "Girar bruscamente"
+        ],
+        "respuesta_correcta": "Usar freno de emergencia y reducir velocidad"
+    },
+    {
+        "pregunta": "Si se aproxima a un semáforo intermitente rojo, usted debe:",
+        "opciones": [
+            "Detenerse completamente y continuar cuando sea seguro",
+            "Reducir velocidad y continuar",
+            "Acelerar para pasar",
+            "Ignorar la luz"
+        ],
+        "respuesta_correcta": "Detenerse completamente y continuar cuando sea seguro"
+    },
+    {
+        "pregunta": "Si observa una señal de ‘ROAD WORK AHEAD’, usted debe:",
+        "opciones": [
+            "Reducir velocidad y seguir las instrucciones de la señalización",
+            "Acelerar para pasar rápido",
+            "Ignorar y continuar",
+            "Solo detenerse si hay trabajadores presentes"
+        ],
+        "respuesta_correcta": "Reducir velocidad y seguir las instrucciones de la señalización"
+    },
+    {
+        "pregunta": "Si el vehículo delante de usted hace un giro inesperado, usted debe:",
+        "opciones": [
+            "Mantener distancia y estar preparado para frenar o maniobrar",
+            "Acelerar para pasar antes",
+            "Tocar la bocina y frenar bruscamente",
+            "Ignorar el giro"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar preparado para frenar o maniobrar"
+    },
+    {
+        "pregunta": "Si su automóvil comienza a incendiarse mientras conduce, debe:",
+        "opciones": [
+            "Detenerse inmediatamente, salir del vehículo y llamar al 911",
+            "Intentar apagar el fuego mientras conduce",
+            "Seguir conduciendo hasta llegar a casa",
+            "Ignorar el fuego si parece pequeño"
+        ],
+        "respuesta_correcta": "Detenerse inmediatamente, salir del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "En Nevada, ¿cuál es la distancia mínima que debe mantener al seguir a un autobús escolar detenido?",
+        "opciones": ["10 pies", "15 pies", "20 pies", "25 pies"],
+        "respuesta_correcta": "20 pies"
+    },
+    {
+        "pregunta": "Si un conductor se aproxima a un vehículo lento en la carretera, usted debe:",
+        "opciones": [
+            "Adelantar solo cuando sea seguro",
+            "Tocar la bocina y pasar rápido",
+            "Seguir pegado detrás del vehículo",
+            "Acelerar para que se mueva"
+        ],
+        "respuesta_correcta": "Adelantar solo cuando sea seguro"
+    },
+    {
+        "pregunta": "Cuando se acerca a una intersección con semáforo en verde, pero hay tráfico cruzado bloqueando la salida, usted debe:",
+        "opciones": [
+            "Esperar hasta que el camino esté despejado",
+            "Avanzar y bloquear la intersección",
+            "Acelerar para pasar rápido",
+            "Girarse y buscar otra ruta"
+        ],
+        "respuesta_correcta": "Esperar hasta que el camino esté despejado"
+    },
+    {
+        "pregunta": "En carreteras mojadas, su distancia de seguimiento debe ser:",
+        "opciones": [
+            "Igual que en seco",
+            "El doble que en seco",
+            "La mitad que en seco",
+            "No importa"
+        ],
+        "respuesta_correcta": "El doble que en seco"
+    },
+    {
+        "pregunta": "Si un semáforo muestra flecha verde a la derecha, significa:",
+        "opciones": [
+            "Puede girar a la derecha con precaución y tiene derecho de paso",
+            "Debe esperar a que sea verde para todos",
+            "Solo puede girar si no hay peatones",
+            "Ignorar la flecha y continuar recto"
+        ],
+        "respuesta_correcta": "Puede girar a la derecha con precaución y tiene derecho de paso"
+    },
+    {
+        "pregunta": "Si estaciona en un cruce de peatones marcado, está:",
+        "opciones": [
+            "Cometiendo una infracción de tráfico",
+            "Bien estacionado",
+            "Solo si no hay peatones",
+            "Permitido por menos de 5 minutos"
+        ],
+        "respuesta_correcta": "Cometiendo una infracción de tráfico"
+    },
+    {
+        "pregunta": "Al conducir detrás de un camión grande en una pendiente, usted debe:",
+        "opciones": [
+            "Mantener distancia suficiente para ver la carretera adelante",
+            "Acercarse para verlo mejor",
+            "Pasar inmediatamente",
+            "Ignorar la distancia"
+        ],
+        "respuesta_correcta": "Mantener distancia suficiente para ver la carretera adelante"
+    },
+    {
+        "pregunta": "Si un semáforo está intermitente rojo, usted debe:",
+        "opciones": [
+            "Detenerse completamente y continuar cuando sea seguro",
+            "Reducir velocidad y continuar",
+            "Acelerar para pasar rápido",
+            "Ignorar la luz"
+        ],
+        "respuesta_correcta": "Detenerse completamente y continuar cuando sea seguro"
+    },
+    {
+        "pregunta": "Cuando hay una señal de ‘MERGE’, significa:",
+        "opciones": [
+            "Los carriles se unen y debe ceder el paso a los vehículos que ya están en la carretera",
+            "Debe cambiar de carril inmediatamente",
+            "Solo para bicicletas",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Los carriles se unen y debe ceder el paso a los vehículos que ya están en la carretera"
+    },
+    {
+        "pregunta": "Si un vehículo gira a la izquierda delante de usted y hay un semáforo verde para ambos, usted debe:",
+        "opciones": [
+            "Esperar a que complete el giro antes de continuar",
+            "Adelantar por la derecha",
+            "Tocar la bocina y pasar rápido",
+            "Girar a la izquierda también"
+        ],
+        "respuesta_correcta": "Esperar a que complete el giro antes de continuar"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a derrapar en nieve o hielo, debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar suavemente en la dirección del derrape y reducir velocidad",
+            "Acelerar",
+            "Girar en dirección contraria al derrape"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del derrape y reducir velocidad"
+    },
+    {
+        "pregunta": "En una carretera con tres carriles en la misma dirección, el carril derecho se usa principalmente para:",
+        "opciones": [
+            "Vehículos lentos y salida",
+            "Adelantar",
+            "Conducir rápido",
+            "Solo camiones"
+        ],
+        "respuesta_correcta": "Vehículos lentos y salida"
+    },
+    {
+        "pregunta": "Si observa una señal de ‘STOP AHEAD’, significa:",
+        "opciones": [
+            "Se aproxima un alto y debe reducir velocidad",
+            "Ceda el paso",
+            "Zona escolar",
+            "Curva peligrosa"
+        ],
+        "respuesta_correcta": "Se aproxima un alto y debe reducir velocidad"
+    },
+    {
+        "pregunta": "Si hay un accidente sin heridos, usted debe:",
+        "opciones": [
+            "Intercambiar información y reportar si hay daños significativos",
+            "Huir inmediatamente",
+            "Solo mover el vehículo y continuar",
+            "Ignorar el accidente"
+        ],
+        "respuesta_correcta": "Intercambiar información y reportar si hay daños significativos"
+    },
+    {
+        "pregunta": "Cuando un vehículo de emergencia se aproxima con sirena, usted debe:",
+        "opciones": [
+            "Moverse hacia el lado derecho y detenerse",
+            "Acelerar para alejarse",
+            "Ignorar y seguir",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Moverse hacia el lado derecho y detenerse"
+    },
+    {
+        "pregunta": "Si se aproxima a una rotonda, usted debe:",
+        "opciones": [
+            "Ceder el paso a los vehículos dentro de la rotonda",
+            "Entrar rápidamente",
+            "Tocar la bocina antes de entrar",
+            "Girar en sentido contrario a la rotonda"
+        ],
+        "respuesta_correcta": "Ceder el paso a los vehículos dentro de la rotonda"
+    },
+    {
+        "pregunta": "Si un ciclista circula en su carril, usted debe:",
+        "opciones": [
+            "Darles suficiente espacio y adelantar solo cuando sea seguro",
+            "Tocar la bocina para que se aparten",
+            "Pasar muy cerca",
+            "Ignorar su presencia"
+        ],
+        "respuesta_correcta": "Darles suficiente espacio y adelantar solo cuando sea seguro"
+    },
+    {
+        "pregunta": "Si nota que un vehículo delante frena repentinamente, usted debe:",
+        "opciones": [
+            "Mantener distancia y frenar gradualmente",
+            "Acelerar para pasar antes",
+            "Tocar la bocina y frenar bruscamente",
+            "Ignorar la situación"
+        ],
+        "respuesta_correcta": "Mantener distancia y frenar gradualmente"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a incendiarse mientras conduce, usted debe:",
+        "opciones": [
+            "Detenerse inmediatamente, salir del vehículo y llamar al 911",
+            "Intentar apagar el fuego mientras conduce",
+            "Seguir conduciendo hasta llegar a casa",
+            "Ignorar el fuego si parece pequeño"
+        ],
+        "respuesta_correcta": "Detenerse inmediatamente, salir del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "Si estaciona en una pendiente cuesta arriba con bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la acera",
+            "Hacia la calle",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la acera"
+    },
+    {
+        "pregunta": "Si un vehículo delante de usted hace un giro a la izquierda desde un carril compartido, usted debe:",
+        "opciones": [
+            "Esperar hasta que complete el giro antes de continuar",
+            "Adelantar por la derecha",
+            "Tocar la bocina y pasar rápido",
+            "Girar a la izquierda también"
+        ],
+        "respuesta_correcta": "Esperar hasta que complete el giro antes de continuar"
+    },
+    {
+        "pregunta": "Cuando se acerca a un cruce escolar sin semáforo y hay niños presentes, usted debe:",
+        "opciones": [
+            "Detenerse y ceder el paso a los niños",
+            "Acelerar para pasar rápido",
+            "Solo reducir velocidad",
+            "Ignorar si no hay adultos"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso a los niños"
+    },
+    {
+        "pregunta": "Si un vehículo grande bloquea su vista de la carretera, usted debe:",
+        "opciones": [
+            "Mantener distancia suficiente para ver la carretera adelante",
+            "Adelantar de inmediato",
+            "Seguir muy cerca para no perder tiempo",
+            "Cambiar de carril sin mirar"
+        ],
+        "respuesta_correcta": "Mantener distancia suficiente para ver la carretera adelante"
+    },
+    {
+        "pregunta": "Si su automóvil empieza a derrapar al tomar una curva, usted debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar suavemente en la dirección del derrape y reducir velocidad",
+            "Acelerar",
+            "Girar en dirección contraria al derrape"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del derrape y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un semáforo tiene luz amarilla intermitente en una intersección, usted debe:",
+        "opciones": [
+            "Reducir velocidad y cruzar con precaución",
+            "Detenerse completamente",
+            "Acelerar para pasar rápido",
+            "Ignorar la luz"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cruzar con precaución"
+    },
+    {
+        "pregunta": "Cuando hay una señal de ‘MERGE’ en la autopista, usted debe:",
+        "opciones": [
+            "Ceder el paso a los vehículos que ya están en la carretera",
+            "Cambiar de carril inmediatamente",
+            "Ignorar la señal",
+            "Frenar bruscamente"
+        ],
+        "respuesta_correcta": "Ceder el paso a los vehículos que ya están en la carretera"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se aproxima con sirena y luces encendidas, usted debe:",
+        "opciones": [
+            "Moverse hacia el lado derecho y detenerse",
+            "Acelerar para alejarse",
+            "Ignorar y seguir conduciendo",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Moverse hacia el lado derecho y detenerse"
+    },
+    {
+        "pregunta": "Si estaciona en un cruce de peatones, usted está:",
+        "opciones": [
+            "Cometiendo una infracción de tráfico",
+            "Bien estacionado",
+            "Solo si no hay peatones",
+            "Permitido por menos de 5 minutos"
+        ],
+        "respuesta_correcta": "Cometiendo una infracción de tráfico"
+    },
+    {
+        "pregunta": "En condiciones de neblina densa, usted debe:",
+        "opciones": [
+            "Usar luces bajas y reducir velocidad",
+            "Usar luces altas",
+            "Encender intermitentes y acelerar",
+            "Detenerse en medio de la carretera"
+        ],
+        "respuesta_correcta": "Usar luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Cuando un peatón cruza fuera del paso peatonal, usted debe:",
+        "opciones": [
+            "Detenerse y ceder el paso",
+            "Continuar normalmente",
+            "Tocar la bocina para que se apure",
+            "Acelerar para pasar antes"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a incendiarse mientras conduce, debe:",
+        "opciones": [
+            "Detenerse inmediatamente, salir del vehículo y llamar al 911",
+            "Intentar apagar el fuego mientras conduce",
+            "Seguir conduciendo hasta llegar a casa",
+            "Ignorar el fuego si parece pequeño"
+        ],
+        "respuesta_correcta": "Detenerse inmediatamente, salir del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "Si un vehículo delante de usted frena repentinamente, usted debe:",
+        "opciones": [
+            "Mantener distancia y frenar gradualmente",
+            "Acelerar para pasar antes",
+            "Tocar la bocina y frenar bruscamente",
+            "Ignorar la situación"
+        ],
+        "respuesta_correcta": "Mantener distancia y frenar gradualmente"
+    },
+    {
+        "pregunta": "En autopistas con varios carriles en la misma dirección, el carril izquierdo se usa principalmente para:",
+        "opciones": [
+            "Adelantar y tráfico rápido",
+            "Vehículos lentos",
+            "Estacionar",
+            "Solo camiones"
+        ],
+        "respuesta_correcta": "Adelantar y tráfico rápido"
+    },
+    {
+        "pregunta": "Si se aproxima a un cruce de ferrocarril sin barreras ni luces, usted debe:",
+        "opciones": [
+            "Reducir velocidad y mirar a ambos lados antes de cruzar",
+            "Acelerar para cruzar rápido",
+            "Ignorar y cruzar normalmente",
+            "Tocar la bocina antes de cruzar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar a ambos lados antes de cruzar"
+    },
+    {
+        "pregunta": "Cuando se aproxima a una intersección con semáforo en verde, pero el tráfico bloquea la salida, usted debe:",
+        "opciones": [
+            "Esperar hasta que el camino esté despejado",
+            "Avanzar y bloquear la intersección",
+            "Acelerar para pasar rápido",
+            "Girar y buscar otra ruta"
+        ],
+        "respuesta_correcta": "Esperar hasta que el camino esté despejado"
+    },
+    {
+        "pregunta": "Si su visión se ve afectada por el sol durante el amanecer o atardecer, debe:",
+        "opciones": [
+            "Usar gafas de sol y reducir velocidad",
+            "Cerrar los ojos momentáneamente",
+            "Encender luces altas",
+            "Seguir normalmente"
+        ],
+        "respuesta_correcta": "Usar gafas de sol y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un vehículo grande bloquea su vista en la carretera, usted debe:",
+        "opciones": [
+            "Mantener distancia suficiente para ver la carretera adelante",
+            "Seguir muy cerca para no perder tiempo",
+            "Adelantar de inmediato",
+            "Cambiar de carril sin mirar"
+        ],
+        "respuesta_correcta": "Mantener distancia suficiente para ver la carretera adelante"
+    },
+    {
+        "pregunta": "Si un vehículo bloquea parcialmente la intersección mientras usted tiene luz verde, usted debe:",
+        "opciones": [
+            "Esperar hasta que la intersección esté despejada antes de avanzar",
+            "Avanzar y bloquear la intersección",
+            "Girar bruscamente para evitarlo",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Esperar hasta que la intersección esté despejada antes de avanzar"
+    },
+    {
+        "pregunta": "Si un ciclista está circulando a su lado en un carril estrecho, usted debe:",
+        "opciones": [
+            "Reducir velocidad y esperar a pasar con suficiente espacio",
+            "Tocar la bocina y pasar rápido",
+            "Adelantar muy cerca",
+            "Ignorar su presencia"
+        ],
+        "respuesta_correcta": "Reducir velocidad y esperar a pasar con suficiente espacio"
+    },
+    {
+        "pregunta": "Si un vehículo delante de usted gira a la izquierda desde un carril compartido y hay tráfico cruzando, usted debe:",
+        "opciones": [
+            "Esperar a que complete el giro antes de continuar",
+            "Adelantar por la derecha",
+            "Tocar la bocina y pasar rápido",
+            "Girar a la izquierda también"
+        ],
+        "respuesta_correcta": "Esperar a que complete el giro antes de continuar"
+    },
+    {
+        "pregunta": "Si ve una señal de ‘TRUCKS USE RIGHT LANE’, significa:",
+        "opciones": [
+            "Los camiones deben usar el carril derecho",
+            "Los camiones pueden usar cualquier carril",
+            "Prohibido camiones",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Los camiones deben usar el carril derecho"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a incendiarse en autopista, usted debe:",
+        "opciones": [
+            "Detenerse en un lugar seguro, salir del vehículo y llamar al 911",
+            "Intentar apagar el fuego mientras conduce",
+            "Seguir hasta la próxima salida",
+            "Ignorar el fuego si parece pequeño"
+        ],
+        "respuesta_correcta": "Detenerse en un lugar seguro, salir del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "Cuando un semáforo tiene flecha verde hacia la izquierda, usted puede:",
+        "opciones": [
+            "Girar solo a la izquierda y tiene derecho de paso",
+            "Girar en cualquier dirección",
+            "Seguir recto solo",
+            "Debe esperar a luz verde general"
+        ],
+        "respuesta_correcta": "Girar solo a la izquierda y tiene derecho de paso"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se aproxima detrás con sirena y luces encendidas, usted debe:",
+        "opciones": [
+            "Moverse hacia el lado derecho y detenerse",
+            "Acelerar para alejarse",
+            "Ignorar y seguir conduciendo",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Moverse hacia el lado derecho y detenerse"
+    },
+    {
+        "pregunta": "Si estaciona en una pendiente cuesta abajo sin bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia la acera",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a derrapar sobre hielo, usted debe:",
+        "opciones": [
+            "Frenar bruscamente",
+            "Girar suavemente en la dirección del derrape y reducir velocidad",
+            "Acelerar",
+            "Girar en dirección contraria al derrape"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del derrape y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un vehículo bloquea parcialmente un cruce peatonal mientras espera girar, usted debe:",
+        "opciones": [
+            "Esperar hasta que el cruce esté despejado",
+            "Adelantar por la acera",
+            "Tocar la bocina y pasar rápido",
+            "Girar bruscamente para evitarlo"
+        ],
+        "respuesta_correcta": "Esperar hasta que el cruce esté despejado"
+    },
+    {
+        "pregunta": "Cuando hay niebla densa, debe conducir con:",
+        "opciones": [
+            "Luces bajas y reducir velocidad",
+            "Luces altas",
+            "Encender intermitentes y acelerar",
+            "Detenerse en medio de la carretera"
+        ],
+        "respuesta_correcta": "Luces bajas y reducir velocidad"
+    },
+    {
+        "pregunta": "Si un semáforo amarillo aparece después del verde, usted debe:",
+        "opciones": [
+            "Prepararse para detenerse de manera segura",
+            "Acelerar para pasar antes de rojo",
+            "Detenerse inmediatamente sin importar la distancia",
+            "Ignorar la luz amarilla"
+        ],
+        "respuesta_correcta": "Prepararse para detenerse de manera segura"
+    },
+    {
+        "pregunta": "Si un peatón cruza en rojo, usted debe:",
+        "opciones": [
+            "Seguir normalmente",
+            "Detenerse si hay riesgo de colisión",
+            "Tocar la bocina y pasar",
+            "Acelerar para evitarlo"
+        ],
+        "respuesta_correcta": "Detenerse si hay riesgo de colisión"
+    },
+    {
+        "pregunta": "Si un vehículo delante frena repentinamente, usted debe:",
+        "opciones": [
+            "Mantener distancia y frenar gradualmente",
+            "Acelerar para pasar antes",
+            "Tocar la bocina y frenar bruscamente",
+            "Ignorar la situación"
+        ],
+        "respuesta_correcta": "Mantener distancia y frenar gradualmente"
+    },
+    {
+        "pregunta": "Cuando un vehículo grande bloquea su vista, usted debe:",
+        "opciones": [
+            "Mantener distancia suficiente para ver la carretera adelante",
+            "Seguir muy cerca para no perder tiempo",
+            "Adelantar de inmediato",
+            "Cambiar de carril sin mirar"
+        ],
+        "respuesta_correcta": "Mantener distancia suficiente para ver la carretera adelante"
+    },
+    {
+        "pregunta": "Si estaciona en un cruce de peatones marcado, usted está:",
+        "opciones": [
+            "Cometiendo una infracción de tráfico",
+            "Bien estacionado",
+            "Solo si no hay peatones",
+            "Permitido por menos de 5 minutos"
+        ],
+        "respuesta_correcta": "Cometiendo una infracción de tráfico"
+    },
+    {
+        "pregunta": "Si un semáforo tiene luz roja intermitente, usted debe:",
+        "opciones": [
+            "Detenerse completamente y continuar cuando sea seguro",
+            "Reducir velocidad y continuar",
+            "Acelerar para pasar rápido",
+            "Ignorar la luz"
+        ],
+        "respuesta_correcta": "Detenerse completamente y continuar cuando sea seguro"
+    },
+    {
+        "pregunta": "Cuando se aproxima a una señal de ‘ROAD WORK AHEAD’, usted debe:",
+        "opciones": [
+            "Reducir velocidad y seguir las instrucciones de la señalización",
+            "Acelerar para pasar rápido",
+            "Ignorar la señal",
+            "Solo detenerse si hay trabajadores visibles"
+        ],
+        "respuesta_correcta": "Reducir velocidad y seguir las instrucciones de la señalización"
+    },
+    {
+        "pregunta": "Si un vehículo hace un giro inesperado delante de usted, usted debe:",
+        "opciones": [
+            "Mantener distancia y estar preparado para frenar o maniobrar",
+            "Acelerar para pasar antes",
+            "Tocar la bocina y frenar bruscamente",
+            "Ignorar el giro"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar preparado para frenar o maniobrar"
+    },
+    {
+        "pregunta": "Si un vehículo de emergencia se detiene en la carretera con luces encendidas, usted debe:",
+        "opciones": [
+            "Reducir velocidad y cambiar de carril si es seguro",
+            "Pasar muy cerca para no retrasarse",
+            "Detenerse en medio de la carretera",
+            "Ignorar y seguir conduciendo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y cambiar de carril si es seguro"
+    },
+    {
+        "pregunta": "Cuando vea una señal de ‘NO PASSING ZONE’, significa:",
+        "opciones": [
+            "Prohibido adelantar",
+            "Solo se puede adelantar bicicletas",
+            "Zona escolar",
+            "Se puede adelantar con precaución"
+        ],
+        "respuesta_correcta": "Prohibido adelantar"
+    },
+    {
+        "pregunta": "Si un cruce peatonal está marcado pero no tiene semáforo, usted debe:",
+        "opciones": [
+            "Ceder el paso a los peatones que crucen",
+            "Acelerar para pasar antes",
+            "Ignorar si no hay peatones",
+            "Solo reducir velocidad"
+        ],
+        "respuesta_correcta": "Ceder el paso a los peatones que crucen"
+    },
+    {
+        "pregunta": "Si un semáforo amarillo intermitente está en una intersección, significa:",
+        "opciones": [
+            "Precaución y cruzar con cuidado",
+            "Alto obligatorio",
+            "Prohibido girar",
+            "Semáforo fuera de servicio"
+        ],
+        "respuesta_correcta": "Precaución y cruzar con cuidado"
+    },
+    {
+        "pregunta": "Si un vehículo grande está girando a la derecha y bloquea parcialmente su carril, usted debe:",
+        "opciones": [
+            "Esperar a que complete el giro antes de continuar",
+            "Adelantar por la derecha",
+            "Tocar la bocina y pasar rápido",
+            "Girar bruscamente"
+        ],
+        "respuesta_correcta": "Esperar a que complete el giro antes de continuar"
+    },
+    {
+        "pregunta": "Si su automóvil comienza a derrapar sobre agua (hidroplaneo), usted debe:",
+        "opciones": [
+            "Quitar el pie del acelerador y girar suavemente en la dirección del derrape",
+            "Frenar bruscamente",
+            "Acelerar para recuperar control",
+            "Girar en dirección contraria al derrape"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y girar suavemente en la dirección del derrape"
+    },
+    {
+        "pregunta": "Cuando un semáforo tiene flecha verde hacia la derecha, usted puede:",
+        "opciones": [
+            "Girar a la derecha con precaución y tiene derecho de paso",
+            "Solo seguir recto",
+            "Girar en cualquier dirección",
+            "Debe esperar la luz verde general"
+        ],
+        "respuesta_correcta": "Girar a la derecha con precaución y tiene derecho de paso"
+    },
+    {
+        "pregunta": "Si un vehículo bloquea parcialmente un cruce peatonal, usted debe:",
+        "opciones": [
+            "Esperar hasta que el cruce esté despejado",
+            "Adelantar por la acera",
+            "Tocar la bocina y pasar rápido",
+            "Girar bruscamente para evitarlo"
+        ],
+        "respuesta_correcta": "Esperar hasta que el cruce esté despejado"
+    },
+    {
+        "pregunta": "Si observa una señal de ‘SLIPPERY WHEN WET’, significa:",
+        "opciones": [
+            "La carretera puede ser resbaladiza cuando está mojada",
+            "Solo para bicicletas",
+            "Zona escolar",
+            "Prohibido girar en U"
+        ],
+        "respuesta_correcta": "La carretera puede ser resbaladiza cuando está mojada"
+    },
+    {
+        "pregunta": "Si un peatón cruza fuera del paso peatonal, usted debe:",
+        "opciones": [
+            "Detenerse y ceder el paso",
+            "Continuar normalmente",
+            "Tocar la bocina para que se apure",
+            "Acelerar para pasar antes"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "Si un vehículo delante de usted frena bruscamente, usted debe:",
+        "opciones": [
+            "Mantener distancia y frenar gradualmente",
+            "Acelerar para pasar antes",
+            "Tocar la bocina y frenar bruscamente",
+            "Ignorar la situación"
+        ],
+        "respuesta_correcta": "Mantener distancia y frenar gradualmente"
+    },
+    {
+        "pregunta": "Si se aproxima a una señal de ‘ROAD WORK AHEAD’, usted debe:",
+        "opciones": [
+            "Reducir velocidad y seguir las instrucciones de la señalización",
+            "Acelerar para pasar rápido",
+            "Ignorar la señal",
+            "Solo detenerse si hay trabajadores visibles"
+        ],
+        "respuesta_correcta": "Reducir velocidad y seguir las instrucciones de la señalización"
+    },
+    {
+        "pregunta": "Cuando maneja detrás de un camión grande en pendiente, debe:",
+        "opciones": [
+            "Mantener distancia suficiente para ver la carretera adelante",
+            "Seguir muy cerca",
+            "Adelantar de inmediato",
+            "No importa la distancia"
+        ],
+        "respuesta_correcta": "Mantener distancia suficiente para ver la carretera adelante"
+    },
+    {
+        "pregunta": "Si un cruce de ferrocarril no tiene barreras ni luces, usted debe:",
+        "opciones": [
+            "Reducir velocidad y mirar a ambos lados antes de cruzar",
+            "Acelerar para cruzar rápido",
+            "Ignorar y cruzar normalmente",
+            "Tocar la bocina antes de cruzar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar a ambos lados antes de cruzar"
+    },
+    {
+        "pregunta": "Si estaciona en una pendiente cuesta abajo con bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia la acera",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "Si su automóvil comienza a incendiarse mientras conduce, usted debe:",
+        "opciones": [
+            "Detenerse inmediatamente, salir del vehículo y llamar al 911",
+            "Intentar apagar el fuego mientras conduce",
+            "Seguir conduciendo hasta llegar a casa",
+            "Ignorar el fuego si parece pequeño"
+        ],
+        "respuesta_correcta": "Detenerse inmediatamente, salir del vehículo y llamar al 911"
+    },
+    {
+        "pregunta": "Si un vehículo delante de usted gira a la izquierda y hay tráfico cruzando, usted debe:",
+        "opciones": [
+            "Esperar a que complete el giro antes de continuar",
+            "Adelantar por la derecha",
+            "Tocar la bocina y pasar rápido",
+            "Girar a la izquierda también"
+        ],
+        "respuesta_correcta": "Esperar a que complete el giro antes de continuar"
+    },
+    {
+        "pregunta": "Cuando se aproxima a un cruce escolar sin semáforo y hay niños presentes, usted debe:",
+        "opciones": [
+            "Detenerse y ceder el paso a los niños",
+            "Acelerar para pasar rápido",
+            "Solo reducir velocidad",
+            "Ignorar si no hay adultos"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso a los niños"
+    },
+    {
+        "pregunta": "Si un vehículo grande bloquea parcialmente su carril mientras gira, usted debe:",
+        "opciones": [
+            "Esperar a que complete el giro antes de continuar",
+            "Adelantar por la derecha",
+            "Tocar la bocina y pasar rápido",
+            "Girar bruscamente"
+        ],
+        "respuesta_correcta": "Esperar a que complete el giro antes de continuar"
+    },
+    {
+        "pregunta": "Si su automóvil comienza a derrapar en nieve o hielo, usted debe:",
+        "opciones": [
+            "Girar suavemente en la dirección del derrape y reducir velocidad",
+            "Frenar bruscamente",
+            "Acelerar",
+            "Girar en dirección contraria al derrape"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del derrape y reducir velocidad"
+    },
+    {
+        "pregunta": "Si estaciona en una pendiente cuesta arriba sin bordillo, las ruedas deben girar:",
+        "opciones": [
+            "Hacia la calle",
+            "Hacia la acera",
+            "Rectas",
+            "No importa"
+        ],
+        "respuesta_correcta": "Hacia la calle"
+    },
+    {
+        "pregunta": "Cuando vea una señal de ‘ROAD WORK AHEAD’, usted debe:",
+        "opciones": [
+            "Reducir velocidad y seguir las instrucciones de la señalización",
+            "Acelerar para pasar rápido",
+            "Ignorar la señal",
+            "Solo detenerse si hay trabajadores visibles"
+        ],
+        "respuesta_correcta": "Reducir velocidad y seguir las instrucciones de la señalización"
+    },
+    {
+        "pregunta": "Si maneja detrás de un camión grande en pendiente, debe:",
+        "opciones": [
+            "Mantener distancia suficiente para ver la carretera adelante",
+            "Seguir muy cerca",
+            "Adelantar de inmediato",
+            "No importa la distancia"
+        ],
+        "respuesta_correcta": "Mantener distancia suficiente para ver la carretera adelante"
+    },
+    {
+        "pregunta": "Cuando un vehículo de emergencia se aproxima detrás con sirena, usted debe:",
+        "opciones": [
+            "Moverse hacia el lado derecho y detenerse",
+            "Acelerar para alejarse",
+            "Ignorar y seguir conduciendo",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Moverse hacia el lado derecho y detenerse"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a hidroplanear en lluvia, usted debe:",
+        "opciones": [
+            "Quitar el pie del acelerador y girar suavemente en la dirección del derrape",
+            "Frenar bruscamente",
+            "Acelerar para recuperar control",
+            "Girar en dirección contraria al derrape"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y girar suavemente en la dirección del derrape"
+    },
+    {
+        "pregunta": "Cuando se aproxima a un cruce escolar y las luces están intermitentes, usted debe:",
+        "opciones": [
+            "Detenerse y esperar a que los niños crucen",
+            "Acelerar para pasar rápido",
+            "Solo reducir velocidad",
+            "Ignorar si no hay niños visibles"
+        ],
+        "respuesta_correcta": "Detenerse y esperar a que los niños crucen"
+    },
+    {
+        "pregunta": "Si un cruce de ferrocarril tiene barreras bajadas y luces intermitentes, usted debe:",
+        "opciones": [
+            "Detenerse y esperar a que suban las barreras",
+            "Intentar pasar rápido antes de que bajen más",
+            "Ignorar y cruzar normalmente",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Detenerse y esperar a que suban las barreras"
+    },
+    {
+        "pregunta": "Si su vehículo comienza a derrapar sobre hielo o nieve, usted debe:",
+        "opciones": [
+            "Girar suavemente en la dirección del derrape y reducir velocidad",
+            "Frenar bruscamente",
+            "Acelerar",
+            "Girar en dirección contraria al derrape"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del derrape y reducir velocidad"
+    },
+    {
+        "pregunta": "Cuando un semáforo cambia de verde a amarillo, usted debe:",
+        "opciones": [
+            "Prepararse para detenerse de manera segura",
+            "Acelerar para pasar antes de rojo",
+            "Frenar bruscamente sin importar la distancia",
+            "Ignorar la luz amarilla"
+        ],
+        "respuesta_correcta": "Prepararse para detenerse de manera segura"
+    }
+]
