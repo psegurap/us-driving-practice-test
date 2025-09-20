@@ -73,5 +73,15 @@
         "name": "Massachusetts",
         "file": "MA.json",
         "slug": "ma"
+    },
+    {
+        "name": "Nevada",
+        "file": "NV.json",
+        "slug": "nv"
+    },
+    {
+        "name": "Maryland",
+        "file": "MD.json",
+        "slug": "md"
     }
 ]
