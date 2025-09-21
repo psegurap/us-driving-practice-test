@@ -83,5 +83,16 @@
         "name": "Maryland",
         "file": "MD.json",
         "slug": "md"
+    },
+    {
+        "name": "Connecticut",
+        "file": "CT.json",
+        "slug": "ct"
+    },
+    {
+        "name": "Oregon",
+        "file": "OR.json",
+        "slug": "or"
     }
+    
 ]
