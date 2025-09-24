@@ -93,6 +93,15 @@
         "name": "Oregon",
         "file": "OR.json",
         "slug": "or"
+    },
+    {
+        "name": "Michigan",
+        "file": "MI.json",
+        "slug": "mi"
+    },
+    {
+        "name": "Indiana",
+        "file": "IN.json",
+        "slug": "in"
     }
-    
 ]
