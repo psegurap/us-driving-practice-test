@@ -103,5 +103,15 @@
         "name": "Indiana",
         "file": "IN.json",
         "slug": "in"
+    },
+    {
+        "name": "Ohio",
+        "file": "OH.json",
+        "slug": "oh"
+    },
+    {
+        "name": "Utah",
+        "file": "UT.json",
+        "slug": "ut"
     }
 ]
