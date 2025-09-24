@@ -113,5 +113,15 @@
         "name": "Utah",
         "file": "UT.json",
         "slug": "ut"
+    },
+    {
+        "name": "Tennessee",
+        "file": "TN.json",
+        "slug": "tn"
+    },
+    {
+        "name": "Wisconsin",
+        "file": "WI.json",
+        "slug": "wi"
     }
 ]
