@@ -123,5 +123,15 @@
         "name": "Wisconsin",
         "file": "WI.json",
         "slug": "wi"
+    },
+    {
+        "name": "Oklahoma",
+        "file": "OK.json",
+        "slug": "ok"
+    },
+    {
+        "name": "South Carolina",
+        "file": "SC.json",
+        "slug": "sc"
     }
 ]
