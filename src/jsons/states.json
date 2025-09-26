@@ -133,5 +133,20 @@
         "name": "South Carolina",
         "file": "SC.json",
         "slug": "sc"
+    },
+    {
+        "name": "Minnesota",
+        "file": "MN.json",
+        "slug": "mn"
+    },
+    {
+        "name": "Louisiana",
+        "file": "LA.json",
+        "slug": "la"
+    },
+    {
+        "name": "Missouri",
+        "file": "MO.json",
+        "slug": "mo"
     }
 ]
