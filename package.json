@@ -1,5 +1,5 @@
 {
-    "name": "us-driving-exam-test",
+    "name": "us-driving-practice-test",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -9,8 +9,37 @@
         "start": "next start",
         "lint": "next lint"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/psegurap/us-driving-practice-test"
+    },
+    "keywords": [
+        "driving-test",
+        "dmv",
+        "us-driving-test",
+        "practice-test",
+        "hispanic-community",
+        "spanish-language",
+        "driving-quiz",
+        "traffic-laws",
+        "road-signs",
+        "exam-preparation",
+        "nextjs",
+        "tailwindcss",
+        "interactive-quizzes",
+        "state-specific-tests",
+        "learn-driving",
+        "safe-driving",
+        "education",
+        "learning-app",
+        "web-app"
+    ],
     "author": "Pedro Segura",
-    "license": "ISC",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/psegurap/us-driving-practice-test/issues"
+    },
+    "homepage": "https://github.com/psegurap/us-driving-practice-test#readme",
     "dependencies": {
         "@vercel/analytics": "^1.5.0",
         "next": "^15.4.6",
