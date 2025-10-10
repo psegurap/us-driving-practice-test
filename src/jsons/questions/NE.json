@@ -1,0 +1,1882 @@
+[
+    {
+        "pregunta": "¿Qué significa una señal de tráfico octagonal roja?",
+        "opciones": [
+            "Ceda el paso",
+            "Pare completamente",
+            "No entre",
+            "Advertencia de cruce"
+        ],
+        "respuesta_correcta": "Pare completamente"
+    },
+    {
+        "pregunta": "¿Qué indica una luz amarilla intermitente en un semáforo?",
+        "opciones": [
+            "Detenerse completamente",
+            "Proceder con precaución",
+            "Velocidad máxima",
+            "Cambio de carril obligatorio"
+        ],
+        "respuesta_correcta": "Proceder con precaución"
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en zonas residenciales en Nebraska si no hay señalización?",
+        "opciones": ["25 mph", "35 mph", "45 mph", "30 mph"],
+        "respuesta_correcta": "25 mph"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un autobús escolar detenido con luces rojas intermitentes?",
+        "opciones": [
+            "Adelantar lentamente",
+            "Detenerse a cualquier dirección",
+            "Continuar si no hay niños",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Detenerse a cualquier dirección"
+    },
+    {
+        "pregunta": "¿Qué significa una línea amarilla continua en su carril?",
+        "opciones": [
+            "No pasar",
+            "Se permite adelantar",
+            "Zona de estacionamiento",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "No pasar"
+    },
+    {
+        "pregunta": "¿Cuándo se permite girar a la derecha en un semáforo en rojo?",
+        "opciones": [
+            "Siempre",
+            "Nunca",
+            "Después de detenerse completamente y si no hay señal prohibiendo",
+            "Solo de noche"
+        ],
+        "respuesta_correcta": "Después de detenerse completamente y si no hay señal prohibiendo"
+    },
+    {
+        "pregunta": "¿Qué significa una señal triangular invertida?",
+        "opciones": [
+            "Ceda el paso",
+            "Pare",
+            "Prohibido girar",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Ceda el paso"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para señalar un cambio de carril en carretera?",
+        "opciones": ["50 pies", "100 pies", "200 pies", "150 pies"],
+        "respuesta_correcta": "100 pies"
+    },
+    {
+        "pregunta": "¿Qué significa una luz verde intermitente en un semáforo?",
+        "opciones": [
+            "Proceda con precaución",
+            "Deténgase",
+            "Cambio de dirección permitido",
+            "No se permite girar"
+        ],
+        "respuesta_correcta": "Proceda con precaución"
+    },
+    {
+        "pregunta": "¿Cuál es la sanción por conducir bajo influencia de alcohol en Nebraska?",
+        "opciones": [
+            "Multa y posible cárcel",
+            "Solo multa",
+            "Suspensión de licencia por 1 día",
+            "Advertencia verbal"
+        ],
+        "respuesta_correcta": "Multa y posible cárcel"
+    },
+    {
+        "pregunta": "¿Qué indica una señal con fondo amarillo y borde negro con forma de diamante?",
+        "opciones": ["Advertencia", "Regulación", "Prohibición", "Información"],
+        "respuesta_correcta": "Advertencia"
+    },
+    {
+        "pregunta": "¿Qué distancia debe mantener al estacionar cerca de un hidrante?",
+        "opciones": ["10 pies", "15 pies", "20 pies", "5 pies"],
+        "respuesta_correcta": "10 pies"
+    },
+    {
+        "pregunta": "¿Cuál es la edad mínima para obtener una licencia de conducir en Nebraska?",
+        "opciones": ["15 años", "16 años", "17 años", "18 años"],
+        "respuesta_correcta": "16 años"
+    },
+    {
+        "pregunta": "¿Qué significa una luz roja intermitente?",
+        "opciones": [
+            "Alto completo, luego continuar si es seguro",
+            "Precaución, reducir velocidad",
+            "Cambio de carril obligatorio",
+            "Semáforo apagado"
+        ],
+        "respuesta_correcta": "Alto completo, luego continuar si es seguro"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo de emergencia se aproxima con luces y sirena encendidas?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse inmediatamente y mantenerse a la derecha",
+            "Acelerar para no estorbar",
+            "Girar a la izquierda"
+        ],
+        "respuesta_correcta": "Detenerse inmediatamente y mantenerse a la derecha"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para seguir a otro vehículo en carretera?",
+        "opciones": [
+            "1 segundo de distancia",
+            "2 segundos de distancia",
+            "3 segundos de distancia",
+            "5 segundos de distancia"
+        ],
+        "respuesta_correcta": "3 segundos de distancia"
+    },
+    {
+        "pregunta": "¿Qué significa una señal circular amarilla con una X negra?",
+        "opciones": [
+            "Cruce de ferrocarril",
+            "Prohibido girar",
+            "Advertencia de cruce escolar",
+            "Zona de obras"
+        ],
+        "respuesta_correcta": "Cruce de ferrocarril"
+    },
+    {
+        "pregunta": "¿Qué significa una línea blanca discontinua entre carriles?",
+        "opciones": [
+            "Se permite cambiar de carril",
+            "No cambiar de carril",
+            "Zona de parada obligatoria",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Se permite cambiar de carril"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al acercarse a un paso peatonal sin semáforo?",
+        "opciones": [
+            "Acelerar para pasar antes que el peatón",
+            "Detenerse si hay peatones esperando o cruzando",
+            "Tocar la bocina y seguir",
+            "Solo detenerse si el peatón está cruzando"
+        ],
+        "respuesta_correcta": "Detenerse si hay peatones esperando o cruzando"
+    },
+    {
+        "pregunta": "¿Qué significa una señal rectangular con fondo blanco y letras negras?",
+        "opciones": [
+            "Regulación",
+            "Advertencia",
+            "Información",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Regulación"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo comienza a patinar en hielo?",
+        "opciones": [
+            "Girar bruscamente el volante",
+            "Frenar fuerte",
+            "Girar suavemente en la dirección del deslizamiento",
+            "Acelerar para recuperar control"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del deslizamiento"
+    },
+    {
+        "pregunta": "¿Qué significa una señal con fondo naranja y negro en forma de diamante?",
+        "opciones": [
+            "Zona de construcción",
+            "Advertencia general",
+            "Regulación de tránsito",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Zona de construcción"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al ver un semáforo apagado?",
+        "opciones": [
+            "Continuar sin detenerse",
+            "Tratar la intersección como un ceda el paso",
+            "Tratar la intersección como un alto de 4 vías",
+            "Girar a la derecha únicamente"
+        ],
+        "respuesta_correcta": "Tratar la intersección como un alto de 4 vías"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para estacionar desde una esquina?",
+        "opciones": ["10 pies", "20 pies", "30 pies", "5 pies"],
+        "respuesta_correcta": "20 pies"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico con fondo amarillo y un símbolo de curva?",
+        "opciones": [
+            "Advertencia de curva",
+            "Prohibido girar",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Advertencia de curva"
+    },
+    {
+        "pregunta": "¿Cuál es el límite de alcohol en sangre permitido para conductores menores de 21 años en Nebraska?",
+        "opciones": ["0.08%", "0.04%", "0.02%", "0.00%"],
+        "respuesta_correcta": "0.00%"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si otro vehículo lo sigue muy de cerca?",
+        "opciones": [
+            "Frenar bruscamente",
+            "Acelerar para dejarlo atrás",
+            "Moverse al carril derecho y permitir que pase",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Moverse al carril derecho y permitir que pase"
+    },
+    {
+        "pregunta": "¿Qué significa una señal rectangular verde con letras blancas?",
+        "opciones": [
+            "Dirección o guía",
+            "Prohibición",
+            "Advertencia",
+            "Regulación"
+        ],
+        "respuesta_correcta": "Dirección o guía"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con forma de pentágono?",
+        "opciones": [
+            "Cruce escolar",
+            "Advertencia de cruce de vía férrea",
+            "Regulación",
+            "Zona residencial"
+        ],
+        "respuesta_correcta": "Cruce escolar"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para encender las luces delanteras en condiciones de poca visibilidad?",
+        "opciones": ["500 pies", "1000 pies", "1500 pies", "2000 pies"],
+        "respuesta_correcta": "500 pies"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al acercarse a un cruce de tren sin barreras?",
+        "opciones": [
+            "Acelerar para cruzar rápidamente",
+            "Mirar, escuchar y detenerse si hay tren",
+            "Continuar sin precaución",
+            "Solo detenerse si hay señal de tren"
+        ],
+        "respuesta_correcta": "Mirar, escuchar y detenerse si hay tren"
+    },
+    {
+        "pregunta": "¿Cuál es la regla para usar el carril izquierdo en carreteras de más de un carril?",
+        "opciones": [
+            "Siempre permanecer en el carril izquierdo",
+            "Usar el carril izquierdo solo para adelantar",
+            "Usar el carril izquierdo para girar a la derecha",
+            "No se permite usar el carril izquierdo"
+        ],
+        "respuesta_correcta": "Usar el carril izquierdo solo para adelantar"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo blanco y borde rojo circular?",
+        "opciones": [
+            "Prohibición",
+            "Advertencia",
+            "Información",
+            "Dirección obligatoria"
+        ],
+        "respuesta_correcta": "Prohibición"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se acerca a un semáforo amarillo fijo?",
+        "opciones": [
+            "Acelerar para pasar antes que cambie a rojo",
+            "Detenerse si es seguro hacerlo",
+            "Ignorar la señal",
+            "Girar a la derecha únicamente"
+        ],
+        "respuesta_correcta": "Detenerse si es seguro hacerlo"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para seguir a un vehículo grande, como un camión?",
+        "opciones": ["1 segundo", "2 segundos", "3 segundos", "4 segundos"],
+        "respuesta_correcta": "4 segundos"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico azul con letras blancas?",
+        "opciones": [
+            "Servicios o información",
+            "Prohibición",
+            "Advertencia",
+            "Regulación"
+        ],
+        "respuesta_correcta": "Servicios o información"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al acercarse a un semáforo que cambia de verde a amarillo?",
+        "opciones": [
+            "Acelerar para pasar antes de que cambie a rojo",
+            "Prepararse para detenerse de manera segura",
+            "Detenerse inmediatamente",
+            "Ignorar la señal"
+        ],
+        "respuesta_correcta": "Prepararse para detenerse de manera segura"
+    },
+    {
+        "pregunta": "¿Qué significa una línea doble amarilla continua?",
+        "opciones": [
+            "No pasar en ninguno de los dos sentidos",
+            "Se permite adelantar si no hay tráfico",
+            "Carril reversible",
+            "Zona de estacionamiento"
+        ],
+        "respuesta_correcta": "No pasar en ninguno de los dos sentidos"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo no funciona en un cruce de vías con mucho tráfico?",
+        "opciones": [
+            "Tratarlo como un ceda el paso",
+            "Tratarlo como un alto de 4 vías",
+            "Continuar sin detenerse",
+            "Encender luces intermitentes"
+        ],
+        "respuesta_correcta": "Tratarlo como un alto de 4 vías"
+    },
+    {
+        "pregunta": "¿Qué significa una señal con una flecha curva negra sobre fondo amarillo?",
+        "opciones": [
+            "Advertencia de curva",
+            "Obligación de girar",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Advertencia de curva"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si ve un peatón con un bastón blanco cruzando la calle?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso",
+            "Tocar la bocina para avisar",
+            "Adelantar rápidamente"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad máxima en autopistas interestatales urbanas en Nebraska?",
+        "opciones": ["55 mph", "60 mph", "65 mph", "70 mph"],
+        "respuesta_correcta": "60 mph"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico con fondo amarillo y un símbolo de cruce de bicicletas?",
+        "opciones": [
+            "Prohibido bicicletas",
+            "Advertencia de cruce de bicicletas",
+            "Ceda el paso a peatones",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Advertencia de cruce de bicicletas"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un puente estrecho y otro vehículo viene en dirección opuesta?",
+        "opciones": [
+            "Acelerar para pasar primero",
+            "Detenerse y ceder el paso si es necesario",
+            "Adelantar por el hombro de la carretera",
+            "Ignorar la señal"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo naranja y bordes negros en forma de rectángulo?",
+        "opciones": [
+            "Zona de construcción",
+            "Advertencia general",
+            "Regulación de velocidad",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Zona de construcción"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo comienza a derrapar en agua (hidroplaneo)?",
+        "opciones": [
+            "Frenar fuertemente",
+            "Girar bruscamente",
+            "Quitar el pie del acelerador y mantener dirección",
+            "Acelerar para recuperar control"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y mantener dirección"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico con una flecha verde sobre un semáforo rojo?",
+        "opciones": [
+            "Puede girar en dirección de la flecha si es seguro",
+            "Debe detenerse completamente",
+            "Cambio de carril obligatorio",
+            "No se permite girar"
+        ],
+        "respuesta_correcta": "Puede girar en dirección de la flecha si es seguro"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para encender las luces delanteras al anochecer?",
+        "opciones": [
+            "Al atardecer",
+            "Cuando no se vea claramente a 1000 pies",
+            "Cuando no se vea claramente a 500 pies",
+            "Siempre"
+        ],
+        "respuesta_correcta": "Cuando no se vea claramente a 500 pies"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si otro vehículo intenta incorporarse a la carretera desde una entrada?",
+        "opciones": [
+            "Acelerar para impedir que se incorpore",
+            "Ceder el paso si es necesario",
+            "Tocar la bocina y continuar",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "¿Cuál es la sanción por no usar el cinturón de seguridad en Nebraska?",
+        "opciones": [
+            "Multa",
+            "Suspensión de licencia",
+            "Advertencia verbal",
+            "Puntos en la licencia"
+        ],
+        "respuesta_correcta": "Multa"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se encuentra con un charco profundo que no puede evaluar?",
+        "opciones": [
+            "Atravesarlo lentamente",
+            "Dar la vuelta y buscar ruta alternativa",
+            "Acelerar para atravesarlo rápido",
+            "Pasar por el borde"
+        ],
+        "respuesta_correcta": "Dar la vuelta y buscar ruta alternativa"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico con fondo amarillo y un símbolo de animal?",
+        "opciones": [
+            "Zona de caza",
+            "Cruce de animales",
+            "Prohibido animales",
+            "Advertencia de granja cercana"
+        ],
+        "respuesta_correcta": "Cruce de animales"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al acercarse a un vehículo de mantenimiento de carretera con luces intermitentes?",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y ceder el paso si es necesario",
+            "Ignorar el vehículo",
+            "Detenerse completamente siempre"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "¿Qué significa una luz roja fija en un semáforo?",
+        "opciones": [
+            "Alto completo",
+            "Precaución",
+            "Cambio de carril obligatorio",
+            "Proceder con cuidado"
+        ],
+        "respuesta_correcta": "Alto completo"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima que debe mantener al estacionar junto a la acera?",
+        "opciones": ["6 pulgadas", "12 pulgadas", "18 pulgadas", "24 pulgadas"],
+        "respuesta_correcta": "12 pulgadas"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico en forma de diamante con líneas onduladas?",
+        "opciones": [
+            "Curva pronunciada",
+            "Pavimento resbaladizo",
+            "Zona de construcción",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Pavimento resbaladizo"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al conducir detrás de un camión grande que dobla a la derecha?",
+        "opciones": [
+            "Intentar adelantar por la derecha",
+            "Mantener distancia y estar atento a ángulos muertos",
+            "Tocar la bocina y adelantar",
+            "Reducir velocidad y colocarse al lado del camión"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento a ángulos muertos"
+    },
+    {
+        "pregunta": "¿Qué significa una línea amarilla discontinua junto a una línea amarilla continua?",
+        "opciones": [
+            "El lado con línea discontinua puede pasar si es seguro",
+            "Ningún lado puede pasar",
+            "Ambos lados pueden pasar",
+            "Carril reversible"
+        ],
+        "respuesta_correcta": "El lado con línea discontinua puede pasar si es seguro"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia de verde a amarillo mientras cruza la intersección?",
+        "opciones": [
+            "Detenerse inmediatamente",
+            "Continuar con precaución",
+            "Acelerar para salir rápido",
+            "Girar a la derecha"
+        ],
+        "respuesta_correcta": "Continuar con precaución"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico con fondo blanco y un pictograma de velocidad máxima?",
+        "opciones": [
+            "Límite de velocidad",
+            "Advertencia de velocidad",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Límite de velocidad"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si ve un ciclista en el carril derecho mientras desea girar a la derecha?",
+        "opciones": [
+            "Adelantar al ciclista por la derecha",
+            "Esperar detrás del ciclista hasta girar",
+            "Tocar la bocina y girar",
+            "Ignorar al ciclista"
+        ],
+        "respuesta_correcta": "Esperar detrás del ciclista hasta girar"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para encender las luces delanteras en condiciones de niebla?",
+        "opciones": [
+            "500 pies",
+            "1000 pies",
+            "Cuando no vea claramente a 500 pies",
+            "Siempre que haya neblina"
+        ],
+        "respuesta_correcta": "Cuando no vea claramente a 500 pies"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo amarillo y una cruz negra (X)?",
+        "opciones": [
+            "Cruce de tren",
+            "Zona escolar",
+            "Advertencia de curva",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Cruce de tren"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo comienza a incendiarse mientras conduce?",
+        "opciones": [
+            "Intentar apagarlo con agua mientras conduce",
+            "Detenerse de manera segura, salir del vehículo y llamar a emergencias",
+            "Continuar hasta llegar a casa",
+            "Acelerar para apagar el fuego"
+        ],
+        "respuesta_correcta": "Detenerse de manera segura, salir del vehículo y llamar a emergencias"
+    },
+    {
+        "pregunta": "¿Cuál es la edad mínima para acompañar a un conductor con permiso de aprendizaje en Nebraska?",
+        "opciones": ["18 años", "21 años", "19 años", "20 años"],
+        "respuesta_correcta": "21 años"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico circular con una X y las letras 'RR'?",
+        "opciones": [
+            "Cruce de ferrocarril",
+            "Zona de construcción",
+            "Advertencia de cruce escolar",
+            "Zona de parada obligatoria"
+        ],
+        "respuesta_correcta": "Cruce de ferrocarril"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo está apagado en una intersección concurrida?",
+        "opciones": [
+            "Continuar normalmente",
+            "Tratar la intersección como un alto de 4 vías",
+            "Solo detenerse si hay peatones",
+            "Esperar a que funcione el semáforo"
+        ],
+        "respuesta_correcta": "Tratar la intersección como un alto de 4 vías"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al estacionar en una pendiente descendente junto a la acera?",
+        "opciones": [
+            "Girar las ruedas hacia la acera",
+            "Girar las ruedas hacia la calle",
+            "Dejar las ruedas rectas",
+            "Encender las luces de estacionamiento"
+        ],
+        "respuesta_correcta": "Girar las ruedas hacia la acera"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para usar la bocina en zona urbana?",
+        "opciones": [
+            "Solo en emergencia",
+            "Siempre que quiera advertir",
+            "A menos de 50 pies de otro vehículo",
+            "A menos de 100 pies"
+        ],
+        "respuesta_correcta": "Solo en emergencia"
+    },
+    {
+        "pregunta": "¿Qué indica una línea blanca continua en la carretera?",
+        "opciones": [
+            "No se permite cambiar de carril",
+            "Se permite adelantar",
+            "Carril reversible",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "No se permite cambiar de carril"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo comienza a perder tracción en gravilla suelta?",
+        "opciones": [
+            "Frenar fuertemente",
+            "Mantener velocidad y dirección, frenar suavemente si es necesario",
+            "Girar bruscamente",
+            "Acelerar para estabilizar"
+        ],
+        "respuesta_correcta": "Mantener velocidad y dirección, frenar suavemente si es necesario"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo de emergencia se aproxima detrás con sirena encendida?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso lo más pronto posible",
+            "Acelerar para no estorbar",
+            "Girar a la izquierda"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso lo más pronto posible"
+    },
+    {
+        "pregunta": "¿Qué indica una señal con fondo amarillo y un niño cruzando?",
+        "opciones": [
+            "Zona escolar o cruce de niños",
+            "Ceda el paso a peatones",
+            "Prohibido cruzar",
+            "Zona de juegos"
+        ],
+        "respuesta_correcta": "Zona escolar o cruce de niños"
+    },
+    {
+        "pregunta": "¿Qué distancia mínima se debe mantener al seguir a un autobús escolar que está cargando o descargando niños?",
+        "opciones": ["10 pies", "25 pies", "50 pies", "100 pies"],
+        "respuesta_correcta": "50 pies"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al acercarse a una intersección con un semáforo amarillo intermitente?",
+        "opciones": [
+            "Alto completo",
+            "Proceder con precaución",
+            "Solo girar a la derecha",
+            "Ignorar la señal"
+        ],
+        "respuesta_correcta": "Proceder con precaución"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo blanco y pictograma de velocidad máxima?",
+        "opciones": [
+            "Límite de velocidad",
+            "Advertencia de velocidad",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Límite de velocidad"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un neumático revienta mientras conduce?",
+        "opciones": [
+            "Frenar bruscamente",
+            "Sostener el volante firmemente, reducir velocidad gradualmente y detenerse de manera segura",
+            "Girar el volante rápidamente para controlar",
+            "Acelerar para llegar más rápido a un taller"
+        ],
+        "respuesta_correcta": "Sostener el volante firmemente, reducir velocidad gradualmente y detenerse de manera segura"
+    },
+    {
+        "pregunta": "¿Qué indica una señal con fondo amarillo y flecha curva a la izquierda?",
+        "opciones": [
+            "Advertencia de curva a la izquierda",
+            "Prohibido girar a la izquierda",
+            "Ceda el paso",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Advertencia de curva a la izquierda"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un cruce de ferrocarril y las barreras están bajadas?",
+        "opciones": [
+            "Esperar detrás de las barreras hasta que suban",
+            "Adelantar con cuidado",
+            "Dar la vuelta inmediatamente",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Esperar detrás de las barreras hasta que suban"
+    },
+    {
+        "pregunta": "¿Qué indica una señal rectangular con fondo negro y letras blancas que dice 'ONE WAY'?",
+        "opciones": [
+            "Tráfico en un solo sentido",
+            "Zona escolar",
+            "Ceda el paso",
+            "Prohibido girar"
+        ],
+        "respuesta_correcta": "Tráfico en un solo sentido"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a amarillo mientras se aproxima a la intersección?",
+        "opciones": [
+            "Acelerar para pasar antes de que cambie a rojo",
+            "Detenerse si es seguro hacerlo",
+            "Continuar sin cambiar velocidad",
+            "Girar a la derecha inmediatamente"
+        ],
+        "respuesta_correcta": "Detenerse si es seguro hacerlo"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima que debe mantener de un vehículo estacionado en la carretera?",
+        "opciones": ["1 pie", "2 pies", "3 pies", "5 pies"],
+        "respuesta_correcta": "3 pies"
+    },
+    {
+        "pregunta": "¿Qué indica una señal en forma de pentágono amarillo y negro?",
+        "opciones": [
+            "Zona escolar o cruce de niños",
+            "Advertencia de curva",
+            "Cruce de tren",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Zona escolar o cruce de niños"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si ve luces de emergencia de un camión de bomberos acercándose en sentido contrario?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso a la derecha",
+            "Acelerar para no estorbar",
+            "Girar a la izquierda"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso a la derecha"
+    },
+    {
+        "pregunta": "¿Qué significa una línea doble blanca en la carretera?",
+        "opciones": [
+            "No cambiar de carril",
+            "Carril reversible",
+            "Se permite adelantar",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "No cambiar de carril"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se encuentra con un charco profundo que no puede estimar la profundidad?",
+        "opciones": [
+            "Atravesarlo lentamente",
+            "Dar la vuelta y buscar ruta alternativa",
+            "Acelerar para pasar rápido",
+            "Pasar por el borde"
+        ],
+        "respuesta_correcta": "Dar la vuelta y buscar ruta alternativa"
+    },
+    {
+        "pregunta": "¿Qué distancia mínima debe mantener al estacionar cerca de un hidrante?",
+        "opciones": ["10 pies", "15 pies", "20 pies", "5 pies"],
+        "respuesta_correcta": "10 pies"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo grande está girando a la izquierda delante de usted?",
+        "opciones": [
+            "Adelantar por la derecha",
+            "Mantener distancia y esperar a que complete el giro",
+            "Tocar la bocina y pasar",
+            "Girar a la izquierda también"
+        ],
+        "respuesta_correcta": "Mantener distancia y esperar a que complete el giro"
+    },
+    {
+        "pregunta": "¿Qué indica una señal con fondo azul y letras blancas?",
+        "opciones": [
+            "Servicios o información",
+            "Advertencia de peligro",
+            "Ceda el paso",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Servicios o información"
+    },
+    {
+        "pregunta": "¿Cuál es la sanción por conducir con exceso de velocidad en Nebraska?",
+        "opciones": [
+            "Multa y puntos en la licencia",
+            "Solo multa",
+            "Suspensión inmediata de licencia",
+            "Advertencia verbal"
+        ],
+        "respuesta_correcta": "Multa y puntos en la licencia"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo lo sigue muy de cerca?",
+        "opciones": [
+            "Frenar bruscamente",
+            "Moverse al carril derecho y permitir que pase",
+            "Acelerar para alejarse",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Moverse al carril derecho y permitir que pase"
+    },
+    {
+        "pregunta": "¿Qué indica una señal rectangular blanca con borde negro y texto?",
+        "opciones": [
+            "Regulación",
+            "Advertencia",
+            "Información de servicios",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Regulación"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo comienza a derrapar sobre hielo o nieve?",
+        "opciones": [
+            "Girar bruscamente en dirección opuesta",
+            "Frenar fuerte inmediatamente",
+            "Girar suavemente en la dirección del derrape y mantener control",
+            "Acelerar para estabilizar"
+        ],
+        "respuesta_correcta": "Girar suavemente en la dirección del derrape y mantener control"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo amarillo y un símbolo de curva hacia la derecha?",
+        "opciones": [
+            "Advertencia de curva",
+            "Prohibido girar",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Advertencia de curva"
+    },
+    {
+        "pregunta": "¿Qué significa una luz roja intermitente en un semáforo?",
+        "opciones": [
+            "Alto completo, luego continuar si es seguro",
+            "Precaución, reducir velocidad",
+            "Cambio de carril obligatorio",
+            "Proceder con cuidado"
+        ],
+        "respuesta_correcta": "Alto completo, luego continuar si es seguro"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo no funciona en un cruce rural poco transitado?",
+        "opciones": [
+            "Continuar normalmente",
+            "Tratarlo como un ceda el paso",
+            "Tratarlo como un alto de 4 vías",
+            "Esperar hasta que funcione el semáforo"
+        ],
+        "respuesta_correcta": "Tratarlo como un alto de 4 vías"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo se queda atrapado en la nieve en medio de la carretera?",
+        "opciones": [
+            "Intentar acelerar fuertemente",
+            "Encender las luces de emergencia y quedarse dentro del vehículo",
+            "Abandonar el vehículo inmediatamente",
+            "Intentar empujar el vehículo solo"
+        ],
+        "respuesta_correcta": "Encender las luces de emergencia y quedarse dentro del vehículo"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo amarillo y un dibujo de derrumbe o caída de rocas?",
+        "opciones": [
+            "Advertencia de derrumbe",
+            "Zona escolar",
+            "Ceda el paso",
+            "Prohibido girar"
+        ],
+        "respuesta_correcta": "Advertencia de derrumbe"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un animal cruza la carretera inesperadamente?",
+        "opciones": [
+            "Frenar bruscamente y girar",
+            "Reducir velocidad y esquivar con cuidado si es posible",
+            "Tocar la bocina y acelerar",
+            "Ignorar y continuar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y esquivar con cuidado si es posible"
+    },
+    {
+        "pregunta": "¿Qué indica una señal en forma de triángulo con borde rojo y fondo blanco invertida?",
+        "opciones": [
+            "Ceda el paso",
+            "Pare completamente",
+            "Prohibido girar",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Ceda el paso"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo empieza a patinar en agua sobre la carretera (hidroplaneo)?",
+        "opciones": [
+            "Frenar inmediatamente",
+            "Girar bruscamente",
+            "Quitar el pie del acelerador y mantener dirección",
+            "Acelerar para recuperar tracción"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y mantener dirección"
+    },
+    {
+        "pregunta": "¿Qué significa una señal rectangular blanca con la palabra 'STOP AHEAD'?",
+        "opciones": [
+            "Se aproxima una señal de alto",
+            "Alto obligatorio",
+            "Cruce escolar",
+            "Advertencia de curva"
+        ],
+        "respuesta_correcta": "Se aproxima una señal de alto"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo muestra luz verde pero un policía indica detenerse?",
+        "opciones": [
+            "Seguir la luz del semáforo",
+            "Seguir las instrucciones del policía",
+            "Esperar a que cambie a rojo",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Seguir las instrucciones del policía"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al conducir por carretera rural con curvas pronunciadas y poca visibilidad?",
+        "opciones": [
+            "Acelerar para no perder tiempo",
+            "Reducir velocidad y conducir con precaución",
+            "Tocar la bocina constantemente",
+            "Mantener la velocidad normal"
+        ],
+        "respuesta_correcta": "Reducir velocidad y conducir con precaución"
+    },
+    {
+        "pregunta": "¿Qué indica una señal con un símbolo de flechas en direcciones opuestas dentro de un diamante amarillo?",
+        "opciones": [
+            "Tráfico bidireccional",
+            "Zona escolar",
+            "Curva peligrosa",
+            "Cruce de peatones"
+        ],
+        "respuesta_correcta": "Tráfico bidireccional"
+    },
+    {
+        "pregunta": "¿Cuál es la acción correcta si un conductor delante suyo reduce velocidad bruscamente sin motivo aparente?",
+        "opciones": [
+            "Frenar inmediatamente",
+            "Mantener distancia segura y estar preparado para frenar",
+            "Adelantar por la derecha",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Mantener distancia segura y estar preparado para frenar"
+    },
+    {
+        "pregunta": "¿Qué significa una señal en forma de diamante con fondo amarillo y un símbolo de intersección lateral?",
+        "opciones": [
+            "Advertencia de cruce lateral",
+            "Prohibido girar",
+            "Ceda el paso",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Advertencia de cruce lateral"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un ciclista está ocupando el carril completo en una carretera estrecha?",
+        "opciones": [
+            "Adelantar rápidamente por el mismo carril",
+            "Reducir velocidad y esperar hasta que sea seguro pasar",
+            "Tocar la bocina para que se mueva",
+            "Ignorar y continuar al mismo ritmo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y esperar hasta que sea seguro pasar"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al conducir detrás de un camión que dobla a la derecha?",
+        "opciones": [
+            "Intentar pasar por la derecha",
+            "Mantener distancia y estar atento a los puntos ciegos",
+            "Tocar la bocina para avisar",
+            "Colocarse al lado derecho del camión"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento a los puntos ciegos"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico circular roja con una barra diagonal sobre un símbolo?",
+        "opciones": [
+            "Prohibición",
+            "Advertencia",
+            "Ceda el paso",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Prohibición"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a amarillo mientras ya está dentro de la intersección?",
+        "opciones": [
+            "Frenar inmediatamente",
+            "Continuar con precaución para salir de la intersección",
+            "Dar marcha atrás",
+            "Tocar la bocina y avanzar"
+        ],
+        "respuesta_correcta": "Continuar con precaución para salir de la intersección"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo de emergencia se aproxima desde atrás en una carretera de doble sentido?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso lo más pronto posible",
+            "Acelerar para no estorbar",
+            "Ignorar la sirena"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso lo más pronto posible"
+    },
+    {
+        "pregunta": "¿Qué indica una línea amarilla discontinua junto a una línea amarilla continua?",
+        "opciones": [
+            "El lado con línea discontinua puede adelantar si es seguro",
+            "Ambos lados pueden adelantar",
+            "Ningún lado puede adelantar",
+            "Zona de construcción"
+        ],
+        "respuesta_correcta": "El lado con línea discontinua puede adelantar si es seguro"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo empieza a incendiarse mientras conduce?",
+        "opciones": [
+            "Intentar apagarlo mientras conduce",
+            "Detenerse de manera segura, salir y llamar a emergencias",
+            "Continuar hasta llegar a casa",
+            "Acelerar para apagar el fuego"
+        ],
+        "respuesta_correcta": "Detenerse de manera segura, salir y llamar a emergencias"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo entra desde una entrada privada y no cede el paso?",
+        "opciones": [
+            "Tocar la bocina y continuar",
+            "Reducir velocidad y ceder el paso si es necesario",
+            "Acelerar para pasar primero",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "¿Qué significa una señal rectangular blanca con la palabra 'ONE WAY'?",
+        "opciones": [
+            "Tráfico en un solo sentido",
+            "Zona escolar",
+            "Ceda el paso",
+            "Prohibido girar"
+        ],
+        "respuesta_correcta": "Tráfico en un solo sentido"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo se queda atascado en un cruce de ferrocarril?",
+        "opciones": [
+            "Salir del vehículo y empujar",
+            "Salir inmediatamente y llamar a emergencias",
+            "Encender las luces de emergencia y esperar a que pase el tren",
+            "Intentar cruzar rápido"
+        ],
+        "respuesta_correcta": "Salir inmediatamente y llamar a emergencias"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para estacionar junto a una acera en Nebraska?",
+        "opciones": ["6 pulgadas", "12 pulgadas", "18 pulgadas", "24 pulgadas"],
+        "respuesta_correcta": "12 pulgadas"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo delante de usted frena bruscamente en la carretera?",
+        "opciones": [
+            "Frenar inmediatamente y fuerte",
+            "Mantener distancia segura y frenar suavemente si es necesario",
+            "Adelantar por la derecha",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Mantener distancia segura y frenar suavemente si es necesario"
+    },
+    {
+        "pregunta": "¿Qué indica una señal con fondo amarillo y un símbolo de ciclista?",
+        "opciones": [
+            "Prohibido bicicletas",
+            "Cruce de bicicletas",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Cruce de bicicletas"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo de emergencia se aproxima por detrás con sirena encendida y luces intermitentes?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso lo más pronto posible",
+            "Acelerar para no estorbar",
+            "Ignorar y mantener velocidad"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso lo más pronto posible"
+    },
+    {
+        "pregunta": "¿Qué significa una línea amarilla doble continua?",
+        "opciones": [
+            "No se permite adelantar en ambos sentidos",
+            "Se permite adelantar si no hay tráfico",
+            "Carril reversible",
+            "Zona de estacionamiento"
+        ],
+        "respuesta_correcta": "No se permite adelantar en ambos sentidos"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo empieza a perder tracción en grava o arena?",
+        "opciones": [
+            "Frenar fuerte",
+            "Mantener dirección y velocidad, frenar suavemente si es necesario",
+            "Girar bruscamente",
+            "Acelerar para recuperar control"
+        ],
+        "respuesta_correcta": "Mantener dirección y velocidad, frenar suavemente si es necesario"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un cruce de peatones sin semáforo y hay personas esperando para cruzar?",
+        "opciones": [
+            "Acelerar para pasar primero",
+            "Detenerse y ceder el paso",
+            "Tocar la bocina y continuar",
+            "Solo detenerse si los peatones ya cruzan"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "¿Qué indica una señal rectangular blanca con el límite de velocidad?",
+        "opciones": [
+            "Límite de velocidad máximo permitido",
+            "Advertencia de velocidad",
+            "Zona escolar",
+            "Cruce de tren"
+        ],
+        "respuesta_correcta": "Límite de velocidad máximo permitido"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un camión grande comienza a girar a la izquierda delante de usted?",
+        "opciones": [
+            "Adelantar por la derecha",
+            "Mantener distancia y esperar a que complete el giro",
+            "Tocar la bocina y pasar",
+            "Girar a la izquierda también"
+        ],
+        "respuesta_correcta": "Mantener distancia y esperar a que complete el giro"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo amarillo y un símbolo de curva hacia la izquierda?",
+        "opciones": [
+            "Advertencia de curva",
+            "Prohibido girar a la izquierda",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Advertencia de curva"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a rojo mientras ya está cruzando la intersección?",
+        "opciones": [
+            "Frenar inmediatamente",
+            "Continuar y salir de la intersección de manera segura",
+            "Dar marcha atrás",
+            "Tocar la bocina y avanzar"
+        ],
+        "respuesta_correcta": "Continuar y salir de la intersección de manera segura"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al estacionar en una pendiente ascendente junto a la acera?",
+        "opciones": [
+            "Girar las ruedas hacia la acera",
+            "Girar las ruedas lejos de la acera",
+            "Dejar las ruedas rectas",
+            "Encender luces de estacionamiento"
+        ],
+        "respuesta_correcta": "Girar las ruedas lejos de la acera"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo entra desde una entrada privada sin ceder el paso?",
+        "opciones": [
+            "Tocar la bocina y continuar",
+            "Reducir velocidad y ceder el paso si es necesario",
+            "Acelerar para pasar primero",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico con fondo amarillo y un símbolo de cruce lateral?",
+        "opciones": [
+            "Advertencia de cruce lateral",
+            "Prohibido girar",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Advertencia de cruce lateral"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su neumático revienta mientras conduce?",
+        "opciones": [
+            "Frenar bruscamente",
+            "Sostener el volante firmemente, reducir velocidad gradualmente y detenerse de manera segura",
+            "Girar el volante rápidamente",
+            "Acelerar para llegar a un taller"
+        ],
+        "respuesta_correcta": "Sostener el volante firmemente, reducir velocidad gradualmente y detenerse de manera segura"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al acercarse a un vehículo escolar detenido con luces intermitentes rojas?",
+        "opciones": [
+            "Adelantar con precaución",
+            "Detenerse y esperar a que las luces se apaguen",
+            "Continuar si no hay niños a la vista",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Detenerse y esperar a que las luces se apaguen"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo grande está estacionado en la carretera y reduce la visibilidad?",
+        "opciones": [
+            "Adelantar por el mismo carril rápidamente",
+            "Reducir velocidad y pasar con precaución manteniendo distancia",
+            "Tocar la bocina y pasar",
+            "Ignorar y seguir a la misma velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y pasar con precaución manteniendo distancia"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo lo rebasa mientras usted está en una curva?",
+        "opciones": [
+            "Mantener su carril y velocidad",
+            "Frenar bruscamente",
+            "Acelerar para impedir que pase",
+            "Moverse a la izquierda"
+        ],
+        "respuesta_correcta": "Mantener su carril y velocidad"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo amarillo y un símbolo de intersección en 'T'?",
+        "opciones": [
+            "Advertencia de intersección en T",
+            "Ceda el paso",
+            "Zona escolar",
+            "Cruce de tren"
+        ],
+        "respuesta_correcta": "Advertencia de intersección en T"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un conductor delante suyo realiza un giro inesperado sin señalización?",
+        "opciones": [
+            "Mantener distancia y frenar si es necesario",
+            "Adelantar inmediatamente",
+            "Tocar la bocina y seguir",
+            "Girar también para seguirlo"
+        ],
+        "respuesta_correcta": "Mantener distancia y frenar si es necesario"
+    },
+    {
+        "pregunta": "¿Qué indica una señal en forma de diamante con una flecha curva y una flecha recta combinadas?",
+        "opciones": [
+            "Carril que permite ir recto o girar",
+            "Prohibido girar",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Carril que permite ir recto o girar"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se acerca a un vehículo detenido con luces intermitentes en la carretera?",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y pasar con precaución",
+            "Ignorar y seguir a la misma velocidad",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Reducir velocidad y pasar con precaución"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima para señalizar antes de un giro en carretera?",
+        "opciones": ["50 pies", "100 pies", "150 pies", "200 pies"],
+        "respuesta_correcta": "100 pies"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo derrapa hacia la acera mientras frena en hielo?",
+        "opciones": [
+            "Girar el volante hacia la acera y frenar fuerte",
+            "Soltar el freno y girar suavemente en la dirección del derrape",
+            "Acelerar para recuperar tracción",
+            "Frenar y girar en dirección opuesta al derrape"
+        ],
+        "respuesta_correcta": "Soltar el freno y girar suavemente en la dirección del derrape"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico rectangular verde con flechas y nombres de ciudades?",
+        "opciones": [
+            "Dirección o guía",
+            "Zona escolar",
+            "Ceda el paso",
+            "Advertencia de curva"
+        ],
+        "respuesta_correcta": "Dirección o guía"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un ciclista está cruzando la calle delante suyo?",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Detenerse y ceder el paso",
+            "Tocar la bocina y pasar",
+            "Continuar con precaución sin detenerse"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo muestra luz amarilla intermitente?",
+        "opciones": [
+            "Alto completo",
+            "Proceder con precaución",
+            "Ignorar la señal",
+            "Girar a la derecha solamente"
+        ],
+        "respuesta_correcta": "Proceder con precaución"
+    },
+    {
+        "pregunta": "¿Qué indica una señal triangular invertida con borde rojo y fondo blanco?",
+        "opciones": [
+            "Ceda el paso",
+            "Pare completamente",
+            "Prohibido girar",
+            "Cruce escolar"
+        ],
+        "respuesta_correcta": "Ceda el paso"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo se queda sin frenos mientras desciende una pendiente?",
+        "opciones": [
+            "Frenar con fuerza",
+            "Usar freno de mano gradualmente y reducir velocidad usando engranajes bajos",
+            "Girar bruscamente para detenerse",
+            "Acelerar para controlar el vehículo"
+        ],
+        "respuesta_correcta": "Usar freno de mano gradualmente y reducir velocidad usando engranajes bajos"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un peatón ciego con bastón está cruzando la calle?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso",
+            "Tocar la bocina para avisar",
+            "Adelantar con cuidado"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo grande bloquea la vista en una intersección?",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y avanzar con precaución",
+            "Tocar la bocina y pasar",
+            "Ignorar la obstrucción"
+        ],
+        "respuesta_correcta": "Reducir velocidad y avanzar con precaución"
+    },
+    {
+        "pregunta": "¿Qué indica una línea blanca discontinua entre carriles?",
+        "opciones": [
+            "Se permite cambiar de carril",
+            "No se permite cambiar de carril",
+            "Carril reversible",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Se permite cambiar de carril"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a verde pero hay vehículos en la intersección bloqueando su paso?",
+        "opciones": [
+            "Avanzar de todos modos",
+            "Esperar hasta que la intersección esté despejada",
+            "Tocar la bocina y pasar",
+            "Girar a la derecha para evitar bloqueos"
+        ],
+        "respuesta_correcta": "Esperar hasta que la intersección esté despejada"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo escolar está cargando niños y tiene las luces rojas intermitentes encendidas?",
+        "opciones": [
+            "Adelantar con precaución",
+            "Detenerse y esperar a que se apaguen las luces",
+            "Continuar si no hay niños visibles",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Detenerse y esperar a que se apaguen las luces"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo entra desde un camino privado sin ceder el paso?",
+        "opciones": [
+            "Tocar la bocina y continuar",
+            "Reducir velocidad y ceder el paso si es necesario",
+            "Acelerar para pasar primero",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si ve una señal amarilla con un dibujo de semáforo?",
+        "opciones": [
+            "Se aproxima un semáforo, proceda con precaución",
+            "Detenerse inmediatamente",
+            "Ignorar la señal",
+            "Solo reducir velocidad si hay tráfico"
+        ],
+        "respuesta_correcta": "Se aproxima un semáforo, proceda con precaución"
+    },
+    {
+        "pregunta": "¿Cuál es la acción correcta al acercarse a un cruce con visibilidad limitada?",
+        "opciones": [
+            "Acelerar para pasar primero",
+            "Reducir velocidad y mirar cuidadosamente antes de cruzar",
+            "Tocar la bocina y pasar",
+            "Continuar normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y mirar cuidadosamente antes de cruzar"
+    },
+    {
+        "pregunta": "¿Qué significa una señal triangular amarilla con un símbolo de vehículo derrapando?",
+        "opciones": [
+            "Pavimento resbaladizo",
+            "Curva peligrosa",
+            "Ceda el paso",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Pavimento resbaladizo"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo delante suyo enciende luces intermitentes y se detiene inesperadamente?",
+        "opciones": [
+            "Adelantar inmediatamente",
+            "Mantener distancia y frenar suavemente",
+            "Tocar la bocina y seguir",
+            "Girar a la derecha para pasar"
+        ],
+        "respuesta_correcta": "Mantener distancia y frenar suavemente"
+    },
+    {
+        "pregunta": "¿Qué indica una señal rectangular blanca con fondo negro y la palabra 'DO NOT ENTER'?",
+        "opciones": [
+            "Prohibido entrar",
+            "Zona escolar",
+            "Ceda el paso",
+            "Advertencia de curva"
+        ],
+        "respuesta_correcta": "Prohibido entrar"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un semáforo amarillo intermitente en una intersección?",
+        "opciones": [
+            "Alto completo",
+            "Proceder con precaución",
+            "Ignorar la señal",
+            "Solo girar a la derecha"
+        ],
+        "respuesta_correcta": "Proceder con precaución"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si otro vehículo intenta cambiar de carril delante suyo sin señalizar?",
+        "opciones": [
+            "Frenar bruscamente",
+            "Mantener distancia y prepararse para frenar si es necesario",
+            "Adelantar rápidamente",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Mantener distancia y prepararse para frenar si es necesario"
+    },
+    {
+        "pregunta": "¿Qué indica una señal en forma de diamante amarillo con un símbolo de cruce de peatones?",
+        "opciones": [
+            "Advertencia de cruce peatonal",
+            "Zona escolar",
+            "Ceda el paso",
+            "Prohibido cruzar"
+        ],
+        "respuesta_correcta": "Advertencia de cruce peatonal"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al conducir detrás de un camión que está girando a la derecha?",
+        "opciones": [
+            "Adelantar por la derecha",
+            "Mantener distancia y estar atento a los puntos ciegos",
+            "Tocar la bocina para avisar",
+            "Colocarse al lado derecho del camión"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento a los puntos ciegos"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo comienza a perder tracción en nieve o hielo?",
+        "opciones": [
+            "Girar bruscamente",
+            "Frenar fuerte",
+            "Quitar el pie del acelerador y girar suavemente en la dirección del deslizamiento",
+            "Acelerar para recuperar control"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y girar suavemente en la dirección del deslizamiento"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo escolar está detenido con luces rojas intermitentes encendidas?",
+        "opciones": [
+            "Adelantar con precaución",
+            "Detenerse hasta que se apaguen las luces",
+            "Continuar si no hay niños visibles",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Detenerse hasta que se apaguen las luces"
+    },
+    {
+        "pregunta": "¿Qué indica una señal circular con fondo rojo y una barra diagonal sobre un símbolo?",
+        "opciones": [
+            "Prohibición",
+            "Advertencia",
+            "Ceda el paso",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "Prohibición"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a verde pero la intersección sigue ocupada?",
+        "opciones": [
+            "Avanzar de todos modos",
+            "Esperar hasta que la intersección esté despejada",
+            "Tocar la bocina y pasar",
+            "Girar a la derecha para evitar bloqueos"
+        ],
+        "respuesta_correcta": "Esperar hasta que la intersección esté despejada"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo de emergencia se aproxima desde una calle lateral en una intersección?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso al vehículo de emergencia",
+            "Acelerar para pasar primero",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso al vehículo de emergencia"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico con fondo amarillo y un símbolo de curva hacia la derecha con porcentaje de pendiente?",
+        "opciones": [
+            "Curva peligrosa con pendiente",
+            "Zona escolar",
+            "Advertencia de cruce peatonal",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Curva peligrosa con pendiente"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo se queda atrapado en el barro en una carretera rural?",
+        "opciones": [
+            "Intentar acelerar fuertemente",
+            "Encender luces de emergencia y solicitar ayuda",
+            "Abandonar el vehículo y empujar",
+            "Girar bruscamente para salir"
+        ],
+        "respuesta_correcta": "Encender luces de emergencia y solicitar ayuda"
+    },
+    {
+        "pregunta": "¿Qué indica una señal de tráfico rectangular blanca con fondo negro y las palabras 'NO PARKING ANYTIME'?",
+        "opciones": [
+            "Prohibido estacionar en cualquier momento",
+            "Zona escolar",
+            "Área de alto temporal",
+            "Advertencia de curva"
+        ],
+        "respuesta_correcta": "Prohibido estacionar en cualquier momento"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un ciclista está utilizando todo el carril en una carretera estrecha?",
+        "opciones": [
+            "Adelantar por el mismo carril rápidamente",
+            "Reducir velocidad y esperar hasta que sea seguro pasar",
+            "Tocar la bocina para que se mueva",
+            "Ignorar y continuar a la misma velocidad"
+        ],
+        "respuesta_correcta": "Reducir velocidad y esperar hasta que sea seguro pasar"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico en forma de diamante amarillo con un símbolo de intersección lateral?",
+        "opciones": [
+            "Advertencia de cruce lateral",
+            "Prohibido girar",
+            "Zona escolar",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Advertencia de cruce lateral"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a amarillo mientras ya está cruzando la intersección?",
+        "opciones": [
+            "Frenar inmediatamente",
+            "Continuar y salir de la intersección de manera segura",
+            "Dar marcha atrás",
+            "Tocar la bocina y avanzar"
+        ],
+        "respuesta_correcta": "Continuar y salir de la intersección de manera segura"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al estacionar en una pendiente ascendente sin acera?",
+        "opciones": [
+            "Girar las ruedas hacia la derecha (borde de la carretera)",
+            "Girar las ruedas hacia la izquierda",
+            "Dejar las ruedas rectas",
+            "Encender luces de estacionamiento"
+        ],
+        "respuesta_correcta": "Girar las ruedas hacia la derecha (borde de la carretera)"
+    },
+    {
+        "pregunta": "¿Qué indica una línea blanca continua entre carriles de tráfico?",
+        "opciones": [
+            "No cambiar de carril",
+            "Se permite cambiar de carril",
+            "Carril reversible",
+            "Zona escolar"
+        ],
+        "respuesta_correcta": "No cambiar de carril"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a verde pero la intersección está ocupada?",
+        "opciones": [
+            "Avanzar de todos modos",
+            "Esperar hasta que la intersección esté despejada",
+            "Tocar la bocina y pasar",
+            "Girar a la derecha para evitar bloqueos"
+        ],
+        "respuesta_correcta": "Esperar hasta que la intersección esté despejada"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico rectangular blanca con la palabra 'ONE WAY'?",
+        "opciones": [
+            "Tráfico en un solo sentido",
+            "Zona escolar",
+            "Ceda el paso",
+            "Prohibido girar"
+        ],
+        "respuesta_correcta": "Tráfico en un solo sentido"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un cruce de ferrocarril con barreras bajadas?",
+        "opciones": [
+            "Adelantar con cuidado",
+            "Esperar detrás de las barreras hasta que suban",
+            "Dar la vuelta inmediatamente",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Esperar detrás de las barreras hasta que suban"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al conducir detrás de un camión que está cargando o descargando materiales?",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Mantener distancia y estar atento a objetos que puedan caer",
+            "Tocar la bocina y pasar",
+            "Ignorar y seguir a la misma velocidad"
+        ],
+        "respuesta_correcta": "Mantener distancia y estar atento a objetos que puedan caer"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un peatón con bastón blanco está cruzando la calle?",
+        "opciones": [
+            "Continuar normalmente",
+            "Detenerse y ceder el paso",
+            "Tocar la bocina para avisar",
+            "Adelantar con cuidado"
+        ],
+        "respuesta_correcta": "Detenerse y ceder el paso"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un vehículo escolar detenido con luces intermitentes rojas?",
+        "opciones": [
+            "Adelantar con precaución",
+            "Detenerse y esperar a que las luces se apaguen",
+            "Continuar si no hay niños a la vista",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Detenerse y esperar a que las luces se apaguen"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si ve una señal de tráfico amarilla con un símbolo de curva cerrada a la izquierda?",
+        "opciones": [
+            "Reducir velocidad y proceder con precaución",
+            "Acelerar para pasar rápido",
+            "Ignorar la señal",
+            "Detenerse completamente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y proceder con precaución"
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima que debe mantener al seguir a otro vehículo en carretera?",
+        "opciones": ["1 segundo", "2 segundos", "3 segundos", "4 segundos"],
+        "respuesta_correcta": "3 segundos"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo está apagado en una intersección sin señales adicionales?",
+        "opciones": [
+            "Continuar normalmente",
+            "Tratarlo como un alto de 4 vías",
+            "Detenerse solo si hay peatones",
+            "Acelerar para pasar primero"
+        ],
+        "respuesta_correcta": "Tratarlo como un alto de 4 vías"
+    },
+    {
+        "pregunta": "¿Qué indica una señal rectangular blanca con la palabra 'SPEED LIMIT'?",
+        "opciones": [
+            "Límite de velocidad máximo permitido",
+            "Zona escolar",
+            "Advertencia de curva",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Límite de velocidad máximo permitido"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo derrapa sobre hielo?",
+        "opciones": [
+            "Girar bruscamente en dirección opuesta al derrape",
+            "Frenar fuertemente",
+            "Quitar el pie del acelerador y girar suavemente en la dirección del derrape",
+            "Acelerar para estabilizar el vehículo"
+        ],
+        "respuesta_correcta": "Quitar el pie del acelerador y girar suavemente en la dirección del derrape"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo entra desde un camino privado y no cede el paso?",
+        "opciones": [
+            "Acelerar para pasar primero",
+            "Reducir velocidad y ceder el paso si es necesario",
+            "Tocar la bocina y seguir",
+            "Ignorar al vehículo"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso si es necesario"
+    },
+    {
+        "pregunta": "¿Qué significa una señal de tráfico circular roja con una barra diagonal sobre un símbolo de giro a la izquierda?",
+        "opciones": [
+            "Prohibido girar a la izquierda",
+            "Zona escolar",
+            "Advertencia de curva",
+            "Ceda el paso"
+        ],
+        "respuesta_correcta": "Prohibido girar a la izquierda"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al aproximarse a un cruce peatonal con luces intermitentes amarillas?",
+        "opciones": [
+            "Detenerse completamente",
+            "Reducir velocidad y ceder el paso a los peatones",
+            "Ignorar si no hay peatones",
+            "Acelerar para pasar antes"
+        ],
+        "respuesta_correcta": "Reducir velocidad y ceder el paso a los peatones"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo de emergencia se aproxima detrás suyo en una carretera de dos carriles?",
+        "opciones": [
+            "Continuar normalmente",
+            "Moverse al lado derecho y detenerse si es seguro",
+            "Acelerar para alejarse",
+            "Ignorar la sirena"
+        ],
+        "respuesta_correcta": "Moverse al lado derecho y detenerse si es seguro"
+    },
+    {
+        "pregunta": "¿Qué indica una línea amarilla doble continua en el centro de la carretera?",
+        "opciones": [
+            "No se permite adelantar en ningún sentido",
+            "Se permite adelantar si no hay tráfico",
+            "Carril reversible",
+            "Zona de construcción"
+        ],
+        "respuesta_correcta": "No se permite adelantar en ningún sentido"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si su vehículo se queda atrapado en un cruce de ferrocarril?",
+        "opciones": [
+            "Intentar cruzar rápido",
+            "Salir del vehículo inmediatamente y llamar a emergencias",
+            "Esperar dentro del vehículo",
+            "Retroceder aunque haya tren acercándose"
+        ],
+        "respuesta_correcta": "Salir del vehículo inmediatamente y llamar a emergencias"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo escolar está detenido con luces rojas intermitentes encendidas y niños cruzando?",
+        "opciones": [
+            "Adelantar con precaución",
+            "Detenerse hasta que se apaguen las luces y los niños crucen",
+            "Continuar si no hay niños visibles",
+            "Tocar la bocina y pasar"
+        ],
+        "respuesta_correcta": "Detenerse hasta que se apaguen las luces y los niños crucen"
+    },
+    {
+        "pregunta": "¿Qué debe hacer al estacionar junto a una acera en pendiente descendente?",
+        "opciones": [
+            "Girar las ruedas hacia la acera",
+            "Girar las ruedas hacia la calle",
+            "Dejar las ruedas rectas",
+            "Encender luces de estacionamiento"
+        ],
+        "respuesta_correcta": "Girar las ruedas hacia la acera"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un vehículo grande bloquea su vista en una intersección?",
+        "opciones": [
+            "Adelantar rápidamente",
+            "Reducir velocidad y avanzar con precaución",
+            "Tocar la bocina y pasar",
+            "Ignorar y seguir"
+        ],
+        "respuesta_correcta": "Reducir velocidad y avanzar con precaución"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si un semáforo cambia a amarillo antes de que llegue a la intersección?",
+        "opciones": [
+            "Frenar si es seguro detenerse",
+            "Acelerar para pasar antes de que cambie a rojo",
+            "Ignorar y seguir normalmente",
+            "Girar a la derecha inmediatamente"
+        ],
+        "respuesta_correcta": "Frenar si es seguro detenerse"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si se aproxima a un cruce con visibilidad limitada y hay tráfico en ambos sentidos?",
+        "opciones": [
+            "Acelerar para cruzar primero",
+            "Reducir velocidad y esperar hasta que sea seguro cruzar",
+            "Tocar la bocina y pasar",
+            "Continuar normalmente"
+        ],
+        "respuesta_correcta": "Reducir velocidad y esperar hasta que sea seguro cruzar"
+    },
+    {
+        "pregunta": "¿Qué debe hacer si otro vehículo intenta entrar en su carril de manera inesperada?",
+        "opciones": [
+            "Frenar bruscamente",
+            "Mantener distancia y prepararse para frenar si es necesario",
+            "Acelerar para mantener la posición",
+            "Tocar la bocina y seguir"
+        ],
+        "respuesta_correcta": "Mantener distancia y prepararse para frenar si es necesario"
+    }
+]

@@ -14,10 +14,7 @@ export const metadata = {
         "Simulacros y preguntas reales en español para aprobar tu examen de manejo en EE. UU.",
     twitter: {
         card: "summary_large_image",
-    },
-    // facebook: {
-    //     card: "summary_large_image"
-    // }
+    }
 };
 
 export default function RootLayout({ children }) {

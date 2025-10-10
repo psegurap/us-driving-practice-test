@@ -1,6 +1,5 @@
 import available_states from "@/jsons/states.json";
-import { redirect } from "next/navigation";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import QuestionsLayout from "@/components/estado/QuestionsLayout";
 
 export async function generateMetadata({ params }) {

@@ -148,5 +148,30 @@
         "name": "Missouri",
         "file": "MO.json",
         "slug": "mo"
+    },
+    {
+        "name": "Alabama",
+        "file": "AL.json",
+        "slug": "al"
+    },
+    {
+        "name": "Idaho",
+        "file": "ID.json",
+        "slug": "id"
+    },
+    {
+        "name": "Kansas",
+        "file": "KS.json",
+        "slug": "ks"
+    },
+    {
+        "name": "Nebraska",
+        "file": "NE.json",
+        "slug": "ne"
+    },
+    {
+        "name": "Iowa",
+        "file": "IA.json",
+        "slug": "ia"
     }
 ]
