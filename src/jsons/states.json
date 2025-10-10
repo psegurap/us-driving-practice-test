@@ -173,5 +173,30 @@
         "name": "Iowa",
         "file": "IA.json",
         "slug": "ia"
+    },
+    {
+        "name": "Kentucky",
+        "file": "KY.json",
+        "slug": "ky"
+    },
+    {
+        "name": "Rhode Island",
+        "file": "RI.json",
+        "slug": "ri"
+    },
+    {
+        "name": "Arkansas",
+        "file": "AR.json",
+        "slug": "ar"
+    },
+    {
+        "name": "Hawaii",
+        "file": "HI.json",
+        "slug": "hi"
+    },
+    {
+        "name": "Mississippi",
+        "file": "MS.json",
+        "slug": "ms"
     }
 ]
