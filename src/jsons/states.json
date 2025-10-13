@@ -198,5 +198,30 @@
         "name": "Mississippi",
         "file": "MS.json",
         "slug": "ms"
+    },
+    {
+        "name": "Delaware",
+        "file": "DE.json",
+        "slug": "de"
+    },
+    {
+        "name": "District of Columbia",
+        "file": "DC.json",
+        "slug": "dc"
+    },
+    {
+        "name": "New Hampshire",
+        "file": "NH.json",
+        "slug": "nh"
+    },
+    {
+        "name": "Wyoming",
+        "file": "WY.json",
+        "slug": "wy"
+    },
+    {
+        "name": "Alaska",
+        "file": "AK.json",
+        "slug": "ak"
     }
 ]
