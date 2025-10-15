@@ -1,23 +1,13 @@
 [
     {
-        "name": "California",
-        "file": "CA.json",
-        "slug": "ca"
+        "name": "Alabama",
+        "file": "AL.json",
+        "slug": "al"
     },
     {
-        "name": "Texas",
-        "file": "TX.json",
-        "slug": "tx"
-    },
-    {
-        "name": "Florida",
-        "file": "FL.json",
-        "slug": "fl"
-    },
-    {
-        "name": "New York",
-        "file": "NY.json",
-        "slug": "ny"
+        "name": "Alaska",
+        "file": "AK.json",
+        "slug": "ak"
     },
     {
         "name": "Arizona",
@@ -25,14 +15,14 @@
         "slug": "az"
     },
     {
-        "name": "Illinois",
-        "file": "IL.json",
-        "slug": "il"
+        "name": "Arkansas",
+        "file": "AR.json",
+        "slug": "ar"
     },
     {
-        "name": "New Jersey",
-        "file": "NJ.json",
-        "slug": "nj"
+        "name": "California",
+        "file": "CA.json",
+        "slug": "ca"
     },
     {
         "name": "Colorado",
@@ -40,164 +30,9 @@
         "slug": "co"
     },
     {
-        "name": "New Mexico",
-        "file": "NM.json",
-        "slug": "nm"
-    },
-    {
-        "name": "Georgia",
-        "file": "GA.json",
-        "slug": "ga"
-    },
-    {
-        "name": "North Carolina",
-        "file": "NC.json",
-        "slug": "nc"
-    },
-    {
-        "name": "Pennsylvania",
-        "file": "PA.json",
-        "slug": "pa"
-    },
-    {
-        "name": "Washington",
-        "file": "WA.json",
-        "slug": "wa"
-    },
-    {
-        "name": "Virginia",
-        "file": "VA.json",
-        "slug": "va"
-    },
-    {
-        "name": "Massachusetts",
-        "file": "MA.json",
-        "slug": "ma"
-    },
-    {
-        "name": "Nevada",
-        "file": "NV.json",
-        "slug": "nv"
-    },
-    {
-        "name": "Maryland",
-        "file": "MD.json",
-        "slug": "md"
-    },
-    {
         "name": "Connecticut",
         "file": "CT.json",
         "slug": "ct"
-    },
-    {
-        "name": "Oregon",
-        "file": "OR.json",
-        "slug": "or"
-    },
-    {
-        "name": "Michigan",
-        "file": "MI.json",
-        "slug": "mi"
-    },
-    {
-        "name": "Indiana",
-        "file": "IN.json",
-        "slug": "in"
-    },
-    {
-        "name": "Ohio",
-        "file": "OH.json",
-        "slug": "oh"
-    },
-    {
-        "name": "Utah",
-        "file": "UT.json",
-        "slug": "ut"
-    },
-    {
-        "name": "Tennessee",
-        "file": "TN.json",
-        "slug": "tn"
-    },
-    {
-        "name": "Wisconsin",
-        "file": "WI.json",
-        "slug": "wi"
-    },
-    {
-        "name": "Oklahoma",
-        "file": "OK.json",
-        "slug": "ok"
-    },
-    {
-        "name": "South Carolina",
-        "file": "SC.json",
-        "slug": "sc"
-    },
-    {
-        "name": "Minnesota",
-        "file": "MN.json",
-        "slug": "mn"
-    },
-    {
-        "name": "Louisiana",
-        "file": "LA.json",
-        "slug": "la"
-    },
-    {
-        "name": "Missouri",
-        "file": "MO.json",
-        "slug": "mo"
-    },
-    {
-        "name": "Alabama",
-        "file": "AL.json",
-        "slug": "al"
-    },
-    {
-        "name": "Idaho",
-        "file": "ID.json",
-        "slug": "id"
-    },
-    {
-        "name": "Kansas",
-        "file": "KS.json",
-        "slug": "ks"
-    },
-    {
-        "name": "Nebraska",
-        "file": "NE.json",
-        "slug": "ne"
-    },
-    {
-        "name": "Iowa",
-        "file": "IA.json",
-        "slug": "ia"
-    },
-    {
-        "name": "Kentucky",
-        "file": "KY.json",
-        "slug": "ky"
-    },
-    {
-        "name": "Rhode Island",
-        "file": "RI.json",
-        "slug": "ri"
-    },
-    {
-        "name": "Arkansas",
-        "file": "AR.json",
-        "slug": "ar"
-    },
-    {
-        "name": "Hawaii",
-        "file": "HI.json",
-        "slug": "hi"
-    },
-    {
-        "name": "Mississippi",
-        "file": "MS.json",
-        "slug": "ms"
     },
     {
         "name": "Delaware",
@@ -210,18 +45,208 @@
         "slug": "dc"
     },
     {
+        "name": "Florida",
+        "file": "FL.json",
+        "slug": "fl"
+    },
+    {
+        "name": "Georgia",
+        "file": "GA.json",
+        "slug": "ga"
+    },
+    {
+        "name": "Hawaii",
+        "file": "HI.json",
+        "slug": "hi"
+    },
+    {
+        "name": "Idaho",
+        "file": "ID.json",
+        "slug": "id"
+    },
+    {
+        "name": "Illinois",
+        "file": "IL.json",
+        "slug": "il"
+    },
+    {
+        "name": "Indiana",
+        "file": "IN.json",
+        "slug": "in"
+    },
+    {
+        "name": "Iowa",
+        "file": "IA.json",
+        "slug": "ia"
+    },
+    {
+        "name": "Kansas",
+        "file": "KS.json",
+        "slug": "ks"
+    },
+    {
+        "name": "Kentucky",
+        "file": "KY.json",
+        "slug": "ky"
+    },
+    {
+        "name": "Louisiana",
+        "file": "LA.json",
+        "slug": "la"
+    },
+    {
+        "name": "Maine",
+        "file": "ME.json",
+        "slug": "me"
+    },
+    {
+        "name": "Maryland",
+        "file": "MD.json",
+        "slug": "md"
+    },
+    {
+        "name": "Massachusetts",
+        "file": "MA.json",
+        "slug": "ma"
+    },
+    {
+        "name": "Michigan",
+        "file": "MI.json",
+        "slug": "mi"
+    },
+    {
+        "name": "Minnesota",
+        "file": "MN.json",
+        "slug": "mn"
+    },
+    {
+        "name": "Mississippi",
+        "file": "MS.json",
+        "slug": "ms"
+    },
+    {
+        "name": "Missouri",
+        "file": "MO.json",
+        "slug": "mo"
+    },
+    {
+        "name": "Montana",
+        "file": "MT.json",
+        "slug": "mt"
+    },
+    {
+        "name": "Nebraska",
+        "file": "NE.json",
+        "slug": "ne"
+    },
+    {
+        "name": "Nevada",
+        "file": "NV.json",
+        "slug": "nv"
+    },
+    {
         "name": "New Hampshire",
         "file": "NH.json",
         "slug": "nh"
     },
     {
+        "name": "New Jersey",
+        "file": "NJ.json",
+        "slug": "nj"
+    },
+    {
+        "name": "New Mexico",
+        "file": "NM.json",
+        "slug": "nm"
+    },
+    {
+        "name": "New York",
+        "file": "NY.json",
+        "slug": "ny"
+    },
+    {
+        "name": "North Carolina",
+        "file": "NC.json",
+        "slug": "nc"
+    },
+    {
+        "name": "North Dakota",
+        "file": "ND.json",
+        "slug": "nd"
+    },
+    {
+        "name": "Ohio",
+        "file": "OH.json",
+        "slug": "oh"
+    },
+    {
+        "name": "Oklahoma",
+        "file": "OK.json",
+        "slug": "ok"
+    },
+    {
+        "name": "Oregon",
+        "file": "OR.json",
+        "slug": "or"
+    },
+    {
+        "name": "Pennsylvania",
+        "file": "PA.json",
+        "slug": "pa"
+    },
+    {
+        "name": "Rhode Island",
+        "file": "RI.json",
+        "slug": "ri"
+    },
+    {
+        "name": "South Carolina",
+        "file": "SC.json",
+        "slug": "sc"
+    },
+    {
+        "name": "South Dakota",
+        "file": "SD.json",
+        "slug": "sd"
+    },
+    {
+        "name": "Tennessee",
+        "file": "TN.json",
+        "slug": "tn"
+    },
+    {
+        "name": "Texas",
+        "file": "TX.json",
+        "slug": "tx"
+    },
+    {
+        "name": "Utah",
+        "file": "UT.json",
+        "slug": "ut"
+    },
+    {
+        "name": "Virginia",
+        "file": "VA.json",
+        "slug": "va"
+    },
+    {
+        "name": "Washington",
+        "file": "WA.json",
+        "slug": "wa"
+    },
+    {
+        "name": "West Virginia",
+        "file": "WV.json",
+        "slug": "wv"
+    },
+    {
+        "name": "Wisconsin",
+        "file": "WI.json",
+        "slug": "wi"
+    },
+    {
         "name": "Wyoming",
         "file": "WY.json",
         "slug": "wy"
-    },
-    {
-        "name": "Alaska",
-        "file": "AK.json",
-        "slug": "ak"
     }
 ]
