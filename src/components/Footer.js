@@ -45,7 +45,7 @@ export default function Footer() {
                     >
                         Pedro Segura
                     </a>
-                    . All rights reserved.
+                    . Todos los derechos reservados.
                 </span>
             </div>
         </footer>
