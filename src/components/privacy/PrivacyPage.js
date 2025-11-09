@@ -2,9 +2,9 @@
 
 export default function PrivacyPage() {
     return (
-        <div className="bg-white px-6 py-8 sm:py-20 lg:px-8 dark:bg-gray-900">
+        <div className="bg-white px-6 py-8 sm:py-20 lg:px-8 dark:bg-gray-700">
             <div className="mx-auto max-w-5xl text-base/7 text-gray-700 dark:text-gray-300">
-                <h1 className="text-4xl text-gray-900 font-semibold text-pretty tracking-tight sm:text-5xl dark:text-white">
+                <h1 className="text-4xl text-gray-900 font-semibold text-pretty tracking-tight sm:text-5xl dark:text-gray-300">
                     Política de Privacidad
                 </h1>
                 <p className="mt-6 text-lg">
@@ -18,9 +18,9 @@ export default function PrivacyPage() {
                     información personal cuando utiliza nuestro sitio web y
                     servicios (en adelante, los “Servicios”).
                 </p>
-                <div className="divide-y flex flex-col divide-gray-200">
-                    <div className="text-gray-700 dark:text-gray-200 mt-10 py-10 border-t border-gray-200">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                <div className="divide-y flex flex-col divide-gray-200 dark:divide-gray-600">
+                    <div className="text-gray-700 dark:text-gray-200 mt-10 py-10 border-t border-gray-600">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             1. Información que recopilamos
                         </h2>
                         <div className="">
@@ -47,7 +47,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             2. Uso de la información
                         </h2>
                         <div className="">
@@ -71,7 +71,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             3. Compartición de información
                         </h2>
                         <div className="">
@@ -102,7 +102,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             4. Cookies y tecnologías similares
                         </h2>
                         <div className="">
@@ -119,7 +119,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             5. Seguridad de los datos
                         </h2>
                         <div className="">
@@ -133,7 +133,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             6. Derechos del usuario
                         </h2>
                         <div className="">
@@ -157,7 +157,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             7. Privacidad de menores
                         </h2>
                         <div className="">
@@ -170,7 +170,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             8. Enlaces a terceros
                         </h2>
                         <div className="">
@@ -183,7 +183,7 @@ export default function PrivacyPage() {
                         </div>
                     </div>
                     <div className="text-gray-700 dark:text-gray-200 py-10">
-                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white">
+                        <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             9. Cambios en esta política
                         </h2>
                         <div className="">

@@ -5,6 +5,7 @@
       "@/styles/*": ["./src/styles/*"],
       "@/components/*": ["./src/components/*"],
       "@/jsons/*": ["./src/jsons/*"],
+      "@/assets/*": ["./src/assets/*"],
     }
   }
 }

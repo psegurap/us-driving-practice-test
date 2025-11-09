@@ -7,14 +7,14 @@ import Footer from "@/components/Footer";
 
 export const metadata = {
     title: {
-        default: "Practica tu examen de manejo | Conduce en Estados Unidos",
+        default: "Practica para el examen de manejo en español en Estados Unidos | Conduce en Estados Unidos",
         template: "%s | Conduce en Estados Unidos",
     },
     description:
-        "Simulacros y preguntas reales en español para aprobar tu examen de manejo en EE. UU.",
+        "Practica gratis para el examen de manejo DMV en español. Elige tu estado, responde preguntas reales y prepárate para obtener tu licencia en Estados Unidos.",
     twitter: {
         card: "summary_large_image",
-    }
+    },
 };
 
 export default function RootLayout({ children }) {
@@ -31,10 +31,12 @@ export default function RootLayout({ children }) {
             <body className="h-full">
                 <div className="flex flex-col h-full">
                     <PageNavigation />
-                    <main className="grow dark:bg-gray-900">{children}</main>
+                    <main className="grow bg-white dark:bg-gray-900">
+                        {children}
+                    </main>
                     <Footer />
                 </div>
-                <Analytics />
+                {/* <Analytics /> */}
             </body>
         </html>
     );

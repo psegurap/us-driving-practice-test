@@ -1,5 +1,5 @@
 "use client";
-import QuestionsListSkeleton from "@/components/estado/QuestionsListSkeleton";
+import QuestionsListSkeleton from "@/components/prueba/QuestionsListSkeleton";
 import { CheckCircleIcon } from "@heroicons/react/24/solid";
 export default function QuestionsList({
     questions,
@@ -80,7 +80,7 @@ function EachQuestion({ question, index, questions_length, donePlaying }) {
 function QuestionOption({ option, question, donePlaying }) {
     let classes = "";
     let initial_color =
-        "bg-white text-gray-900 dark:bg-gray-800/50 dark:text-white";
+        "bg-white text-gray-900 dark:bg-gray-700 dark:text-white";
     let good_answer_style = "bg-green-100 dark:text-gray-800";
     let bad_answer_style = "bg-red-100 dark:text-gray-800";
 
