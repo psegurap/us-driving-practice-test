@@ -19,7 +19,7 @@ export default function PrivacyPage() {
                     servicios (en adelante, los “Servicios”).
                 </p>
                 <div className="divide-y flex flex-col divide-gray-200 dark:divide-gray-600">
-                    <div className="text-gray-700 dark:text-gray-200 mt-10 py-10 border-t border-gray-600">
+                    <div className="text-gray-700 dark:text-gray-200 mt-10 py-10 border-t dark:border-gray-600">
                         <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-gray-300">
                             1. Información que recopilamos
                         </h2>
