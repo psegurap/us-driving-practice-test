@@ -1,5 +1,5 @@
 "use client";
-import QuestionsListSkeleton from "@/components/estado/QuestionsListSkeleton";
+import QuestionsListSkeleton from "@/components/prueba/QuestionsListSkeleton";
 import { CheckCircleIcon } from "@heroicons/react/24/solid";
 export default function QuestionsList({
     questions,

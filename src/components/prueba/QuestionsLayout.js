@@ -1,9 +1,9 @@
 "use client";
 
-import getQuestions from "@/components/estado/getQuestions";
-import QuestionsList from "@/components/estado/QuestionList";
-import ResultsBanner from "@/components/estado/ResultsBanner";
-import LoadingScreen from "@/components/estado/LoadingScreen";
+import getQuestions from "@/components/prueba/getQuestions";
+import QuestionsList from "@/components/prueba/QuestionList";
+import ResultsBanner from "@/components/prueba/ResultsBanner";
+import LoadingScreen from "@/components/prueba/LoadingScreen";
 import { useState, useEffect, useTransition } from "react";
 
 export default function QuestionsLayout({ estado, questionsAmount }) {
@@ -49,37 +49,17 @@ export default function QuestionsLayout({ estado, questionsAmount }) {
         <div className="flex flex-col h-full">
             <div className="grow bg-gray-100 dark:bg-gray-900">
                 <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
-                    <div className="mb-8">
-                        <div className="mx-auto py-12 hidden sm:block">
-                            <div className="mx-auto max-w-2xl text-center">
-                                <h2 className="text-base/7 font-semibold text-cyan-800 dark:text-cyan-500">
-                                    Examen Teórico
-                                </h2>
-                                <p className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl sm:text-balance dark:text-white">
-                                    Practica tu examen de manejo en{" "}
-                                    {estado.name}
-                                </p>
-                                <p className="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">
-                                    Contesta las preguntas a continuación para
-                                    practicar tu examen de conducción teórico en{" "}
-                                    {estado.name} y mejorar tus posibilidades de
-                                    aprobar en el primer intento.
-                                </p>
-                            </div>
-                        </div>
-                        <div className="mx-auto sm:hidden">
-                            <div className="mx-auto px-2">
-                                <h2 className="text-base/7 font-semibold text-cyan-800 dark:text-cyan-400">
-                                    Examen Teórico
-                                </h2>
-                                <p className="mt-2 text-2xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl sm:text-balance dark:text-white">
-                                    Practica para tu examen en {estado.name}
-                                </p>
-                                <p className="mt-4  text-gray-600 dark:text-gray-300">
-                                    Contesta las preguntas y refuerza tus
-                                    conocimientos.
-                                </p>
-                            </div>
+                    <div className="mx-auto max-w-3xl text-center py-10 sm:py-16">
+                        <div className="mb-8">
+                            <h1 className="text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">
+                                Practica tu examen de manejo en {estado.name}
+                            </h1>
+                            <h2 className="mt-8 text-lg text-pretty text-gray-500 sm:text-xl/8 dark:text-gray-400">
+                                Contesta las preguntas a continuación para
+                                practicar tu examen de manejo en {estado.name} y
+                                mejora tus posibilidades de aprobar en el primer
+                                intento.
+                            </h2>
                         </div>
                     </div>
                     <QuestionsList
@@ -122,7 +102,7 @@ function getFilteredQuestions(questions, amount) {
     questions_filtered.map((question) => {
         question["id"] = questions_ids.pop();
         question["respuesta_usuario"] = "";
-        question.opciones = shuffleArray(question.opciones)
+        question.opciones = shuffleArray(question.opciones);
         return question;
     });
 

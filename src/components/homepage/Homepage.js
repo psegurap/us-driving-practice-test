@@ -4,41 +4,11 @@ import {
     LockOpenIcon,
     AdjustmentsHorizontalIcon,
     LanguageIcon,
-    AcademicCapIcon,
 } from "@heroicons/react/24/outline";
 import { ChevronRightIcon } from "@heroicons/react/20/solid";
+import StatesList from "@/components/StatesList";
 
-import Link from "next/link";
-import available_states from "@/jsons/states.json";
-import color_combination from "@/jsons/color-combinations.json";
-import test_screenshot_light from "@/assets/test-screenshot-light.png"
-
-const features = [
-    {
-        name: "Preguntas inteligentes",
-        description:
-            "Las preguntas del simulador del examen de manejo en español se crean con inteligencia artificial, lo que garantiza variedad, realismo y una práctica muy similar al examen teórico oficial del DMV en Estados Unidos.",
-        icon: SparklesIcon,
-    },
-    {
-        name: "Práctica ilimitada",
-        description:
-            "Practica todas las veces que necesites, sin límites de intentos. Refuerza tu conocimiento de las reglas de tráfico y señales de tránsito con cada simulacro, y aumenta tu confianza antes de presentar el examen de manejo real.",
-        icon: LockOpenIcon,
-    },
-    {
-        name: "Preguntas flexibles",
-        description:
-            "Elige la cantidad de preguntas y ajusta la dificultad del examen para practicar según tu nivel. Este sistema flexible te permite avanzar paso a paso y mejorar tu desempeño hasta dominar el examen de conducir en español.",
-        icon: AdjustmentsHorizontalIcon,
-    },
-    {
-        name: "100% en español",
-        description:
-            "Todo el material está disponible completamente en español, con explicaciones claras y vocabulario adaptado para hispanohablantes. Aprende sin barreras de idioma y comprende cada pregunta del examen de manejo en Estados Unidos.",
-        icon: LanguageIcon,
-    },
-];
+import test_screenshot_light from "@/assets/test-screenshot-light.png";
 
 export default function Homepage() {
     return (
@@ -84,14 +54,14 @@ function HeroSection() {
                         Practica para el examen de manejo en español en Estados
                         Unidos
                     </h1>
-                    <p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8 dark:text-gray-400">
+                    <h3 className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8 dark:text-gray-400">
                         Accede a simulacros de examen, preguntas reales y
                         material de estudio 100% en español, diseñados para
                         ayudarte a comprender las reglas de tráfico, señales y
                         situaciones de conducción en Estados Unidos. Practica a
                         tu ritmo, desde cualquier dispositivo, y llega al día
                         del examen listo para aprobar a la primera.
-                    </p>
+                    </h3>
                     <div className="mt-10 flex items-center gap-x-6">
                         <a
                             href="#seleccionar-estado"
@@ -135,6 +105,33 @@ function HeroSection() {
 }
 
 function FeatureSection() {
+    const features = [
+        {
+            name: "Preguntas inteligentes",
+            description:
+                "Las preguntas del simulador del examen de manejo en español se crean con inteligencia artificial, lo que garantiza variedad, realismo y una práctica muy similar al examen teórico oficial del DMV en Estados Unidos.",
+            icon: SparklesIcon,
+        },
+        {
+            name: "Práctica ilimitada",
+            description:
+                "Practica todas las veces que necesites, sin límites de intentos. Refuerza tu conocimiento de las reglas de tráfico y señales de tránsito con cada simulacro, y aumenta tu confianza antes de presentar el examen de manejo real.",
+            icon: LockOpenIcon,
+        },
+        {
+            name: "Preguntas flexibles",
+            description:
+                "Elige la cantidad de preguntas y ajusta la dificultad del examen para practicar según tu nivel. Este sistema flexible te permite avanzar paso a paso y mejorar tu desempeño hasta dominar el examen de conducir en español.",
+            icon: AdjustmentsHorizontalIcon,
+        },
+        {
+            name: "100% en español",
+            description:
+                "Todo el material está disponible completamente en español, con explicaciones claras y vocabulario adaptado para hispanohablantes. Aprende sin barreras de idioma y comprende cada pregunta del examen de manejo en Estados Unidos.",
+            icon: LanguageIcon,
+        },
+    ];
+
     return (
         <div className="bg-gradient-to-tr from-slate-100 to-gray-100">
             <div className="mx-auto max-w-7xl py-16 md:py-24 lg:py-30 px-6 lg:px-8">
@@ -173,10 +170,6 @@ function FeatureSection() {
     );
 }
 
-function classNames(...classes) {
-    return classes.filter(Boolean).join(" ");
-}
-
 function StatesAvailableList() {
     return (
         <div id="seleccionar-estado" className="bg-white">
@@ -194,60 +187,7 @@ function StatesAvailableList() {
                     específicas de cada estado para que practiques con total
                     confianza.
                 </p>
-                <div className="gap-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-16">
-                    {available_states.map((state, index) => (
-                        <div
-                            key={state.name}
-                            className="bg-gradient-to-tr from-slate-50 to-zinc-100 border border-gray-200 rounded-sm group shadow-xs relative p-6 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-cyan-600"
-                        >
-                            <div>
-                                <span
-                                    className={classNames(
-                                        color_combination[index].iconBackground,
-                                        color_combination[index].iconForeground,
-                                        "inline-flex rounded-lg p-3 inset-shadow-sm"
-                                    )}
-                                >
-                                    <AcademicCapIcon
-                                        aria-hidden="true"
-                                        className="size-6"
-                                    />
-                                </span>
-                            </div>
-                            <div className="mt-8">
-                                <p className="text-base font-semibold text-lg text-gray-900">
-                                    <Link
-                                        href={`/estado/${state.slug}`}
-                                        className="focus:outline-hidden"
-                                    >
-                                        <span
-                                            aria-hidden="true"
-                                            className="absolute inset-0"
-                                        />
-                                        {state.name}
-                                    </Link>
-                                </p>
-                                <h3 className="mt-2 text-gray-500">
-                                    {`Estudia sin complicaciones: practica con
-                                    preguntas reales del examen de manejo en ${state.name} en español y llega totalmente
-                                    preparado para tu prueba del DMV.`}
-                                </h3>
-                            </div>
-                            <span
-                                aria-hidden="true"
-                                className="pointer-events-none absolute top-6 right-6 text-gray-300 group-hover:text-gray-400"
-                            >
-                                <svg
-                                    fill="currentColor"
-                                    viewBox="0 0 24 24"
-                                    className="size-6"
-                                >
-                                    <path d="M20 4h1a1 1 0 00-1-1v1zm-1 12a1 1 0 102 0h-2zM8 3a1 1 0 000 2V3zM3.293 19.293a1 1 0 101.414 1.414l-1.414-1.414zM19 4v12h2V4h-2zm1-1H8v2h12V3zm-.707.293l-16 16 1.414 1.414 16-16-1.414-1.414z" />
-                                </svg>
-                            </span>
-                        </div>
-                    ))}
-                </div>
+                <StatesList />
             </div>
         </div>
     );
