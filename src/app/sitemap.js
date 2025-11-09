@@ -10,7 +10,7 @@ available_states.forEach((state) => {
         priority: 0.8,
     });
     estados.push({
-        url: `${process.env.NEXT_PUBLIC_BASE_URL}/estado/${state.slug}/prueba?preguntas=20`,
+        url: `${process.env.NEXT_PUBLIC_BASE_URL}/estado/${state.slug}/prueba/20`,
         lastModified: new Date(),
         changeFrequency: "monthly",
         priority: 0.5,
