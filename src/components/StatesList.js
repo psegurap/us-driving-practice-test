@@ -9,7 +9,7 @@ export default function StatesList() {
             {available_states.map((state, index) => (
                 <div
                     key={state.name}
-                    className="bg-gradient-to-tr from-slate-50 to-zinc-100 border border-gray-200 rounded-sm group shadow-xs relative p-6 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-cyan-600"
+                    className="bg-gradient-to-tr from-slate-50 to-zinc-100 dark:from-gray-700 dark:to-gray-700 border border-gray-200 dark:border-gray-700 rounded-sm group shadow-xs relative p-6 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-cyan-600"
                 >
                     <div>
                         <span
@@ -26,7 +26,7 @@ export default function StatesList() {
                         </span>
                     </div>
                     <div className="mt-8">
-                        <p className="text-base font-semibold text-lg text-gray-900">
+                        <p className="text-base font-semibold text-lg text-gray-900 dark:text-white">
                             <Link
                                 href={`/estado/${state.slug}`}
                                 className="focus:outline-hidden"
@@ -38,7 +38,7 @@ export default function StatesList() {
                                 {state.name}
                             </Link>
                         </p>
-                        <h3 className="mt-2 text-gray-500">
+                        <h3 className="mt-2 text-gray-500 dark:text-gray-400">
                             {`Estudia sin complicaciones: practica con
                                     preguntas reales del examen de manejo en ${state.name} en español y llega totalmente
                                     preparado para tu prueba del DMV.`}

@@ -9,6 +9,7 @@ import { ChevronRightIcon } from "@heroicons/react/20/solid";
 import StatesList from "@/components/StatesList";
 
 import test_screenshot_light from "@/assets/test-screenshot-light.png";
+import test_screenshot_dark from "@/assets/test-screenshot-dark.png";
 
 export default function Homepage() {
     return (
@@ -26,7 +27,7 @@ function HeroSection() {
             <div className="mx-auto max-w-7xl px-6 pt-10 pb-24 sm:pb-32 lg:flex lg:px-8 lg:py-40">
                 <div className="mx-auto max-w-2xl lg:mx-0 lg:shrink-0 lg:pt-8">
                     <div className="flex">
-                        <div className="relative flex items-center gap-x-4 rounded-full bg-white px-4 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 dark:bg-white/5 dark:text-gray-300 dark:ring-white/10 dark:hover:ring-white/20">
+                        <div className="relative flex items-center gap-x-4 rounded-full bg-white px-4 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 dark:bg-gray-700/80 dark:text-gray-300 dark:ring-white/10 dark:hover:ring-white/20">
                             <span className="font-semibold text-cyan-700 dark:text-cyan-400">
                                 ¡Escríbenos!
                             </span>
@@ -66,7 +67,7 @@ function HeroSection() {
                         <a
                             href="#seleccionar-estado"
                             type="button"
-                            className="rounded-md bg-cyan-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-600 dark:bg-cyan-500 dark:hover:bg-cyan-400 dark:focus-visible:outline-cyan-500"
+                            className="rounded-md bg-cyan-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-600 dark:bg-cyan-700 dark:hover:bg-cyan-600 dark:focus-visible:outline-cyan-500"
                         >
                             Comienza tu prueba de manejo ahora
                         </a>
@@ -81,7 +82,7 @@ function HeroSection() {
                 </div>
                 <div className="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:mt-0 lg:mr-0 lg:ml-10 lg:max-w-none lg:flex-none xl:ml-32">
                     <div className="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
-                        <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-gray-900/10 ring-inset lg:-m-4 lg:rounded-2xl lg:p-4 dark:bg-white/2.5 dark:ring-white/10">
+                        <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-gray-900/10 ring-inset lg:-m-4 lg:rounded-2xl lg:p-4 dark:bg-gray-700 dark:ring-white/10">
                             <img
                                 alt="App screenshot"
                                 src={test_screenshot_light.src}
@@ -91,7 +92,7 @@ function HeroSection() {
                             />
                             <img
                                 alt="App screenshot"
-                                src="https://tailwindcss.com/plus-assets/img/component-images/dark-project-app-screenshot.png"
+                                src={test_screenshot_dark.src}
                                 width={2432}
                                 height={1442}
                                 className="w-304 rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10 not-dark:hidden"
@@ -133,7 +134,7 @@ function FeatureSection() {
     ];
 
     return (
-        <div className="bg-gradient-to-tr from-slate-100 to-gray-100">
+        <div className="bg-gradient-to-tr from-slate-100 to-gray-100 dark:from-gray-700 dark:to-gray-700">
             <div className="mx-auto max-w-7xl py-16 md:py-24 lg:py-30 px-6 lg:px-8">
                 <div className="mx-auto max-w-4xl text-center">
                     <h2 className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">
@@ -172,7 +173,7 @@ function FeatureSection() {
 
 function StatesAvailableList() {
     return (
-        <div id="seleccionar-estado" className="bg-white">
+        <div id="seleccionar-estado" className="bg-white dark:bg-gray-900">
             <div className="mx-auto max-w-7xl px-6 lg:px-8 py-12 sm:py-24">
                 <div className="mx-auto max-w-4xl text-center">
                     <h2 className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">

@@ -24,12 +24,11 @@ export default function PageNavigation({ params }) {
     return (
         <Disclosure
             as="nav"
-            className="relative bg-gray-800 shadow-sm dark:bg-gray-800/50 dark:shadow-none dark:after:pointer-events-none dark:after:absolute dark:after:inset-x-0 dark:after:bottom-0 dark:after:h-px dark:after:bg-white/10"
+            className="relative bg-gray-800 shadow-sm dark:shadow-none dark:after:pointer-events-none dark:after:absolute dark:after:inset-x-0 dark:after:bottom-0 dark:after:h-px dark:after:bg-white/10"
         >
             <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
                 <div className="relative flex h-16 justify-between">
                     <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
-                        {/* Mobile menu button */}
                         <DisclosureButton className="group relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:ring-2 focus:ring-cyan-600 focus:outline-hidden focus:ring-inset dark:hover:bg-white/5 dark:hover:text-white dark:focus:ring-white">
                             <span className="absolute -inset-0.5" />
                             <span className="sr-only">Open main menu</span>
@@ -80,7 +79,7 @@ export default function PageNavigation({ params }) {
                             key={link.name}
                             className={`block border-l-4 border-cyan-600 py-2 pr-4 pl-3 font-medium ${
                                 link.current
-                                    ? "dark:bg-cyan-600/10 border-cyan-600 text-white dark:border-cyan-500 dark:bg-cyan-600/10 dark:text-cyan-400"
+                                    ? "border-cyan-600 text-white dark:border-cyan-500"
                                     : "border-transparent text-gray-400 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-700 dark:text-gray-300 dark:hover:border-white/20 dark:hover:bg-white/5 dark:hover:text-white"
                             }`}
                         >

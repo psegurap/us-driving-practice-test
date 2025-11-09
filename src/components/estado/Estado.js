@@ -22,7 +22,7 @@ export default function Estado({ estado }) {
 
 function HeroSection({ estado }) {
     return (
-        <div className="bg-gradient-to-tr from-slate-100 to-gray-100 py-24 sm:py-32">
+        <div className="bg-gradient-to-tr from-slate-100 to-gray-100 dark:from-gray-700 dark:to-gray-700 py-24 sm:py-32">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-4xl text-center">
                     <h1 className="text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">
@@ -38,7 +38,7 @@ function HeroSection({ estado }) {
                     <div className="mt-10 flex items-center justify-center gap-x-6">
                         <a
                             href="#preparar-examen"
-                            className="rounded-md bg-cyan-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-600 dark:bg-cyan-500 dark:hover:bg-cyan-400 dark:focus-visible:outline-cyan-500"
+                            className="rounded-md bg-cyan-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-cyan-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cyan-600 dark:bg-cyan-700 dark:hover:bg-cyan-600 dark:focus-visible:outline-cyan-500"
                         >
                             Empieza a practicar hoy mismo
                         </a>
@@ -70,7 +70,7 @@ function QuestionSetup({ estado }) {
             className="bg-white py-24 sm:py-32 dark:bg-gray-900"
         >
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
-                <div className="mx-auto grid max-w-2xl grid-cols-1 divide-y lg:divide-y-0 lg:divide-x divide-gray-200 gap-y-10 lg:gap-16 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+                <div className="mx-auto grid max-w-2xl grid-cols-1 divide-y lg:divide-y-0 lg:divide-x divide-gray-200 dark:divide-gray-600 gap-y-10 lg:gap-16 lg:mx-0 lg:max-w-none lg:grid-cols-5">
                     <div className="col-span-3 lg:pr-16 pb-10 lg:pb-0">
                         <h2 className="text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl dark:text-white">
                             Elige cuántas preguntas quieres practicar
@@ -94,7 +94,7 @@ function QuestionSetup({ estado }) {
                             <label
                                 key={option.id}
                                 aria-label={option.quantity}
-                                className="group relative flex items-center justify-center rounded-md inset-shadow-xs border border-gray-300 bg-white p-3 has-checked:border-cyan-600 has-checked:bg-cyan-600 has-focus-visible:outline-2 has-focus-visible:outline-offset-2 has-focus-visible:outline-cyan-600 has-disabled:border-gray-400 has-disabled:bg-gray-200 has-disabled:opacity-25 dark:border-white/10 dark:bg-gray-800/50 dark:has-checked:border-cyan-500 dark:has-checked:bg-cyan-500 dark:has-focus-visible:outline-cyan-500 dark:has-disabled:border-white/10 dark:has-disabled:bg-gray-800"
+                                className="group relative flex items-center justify-center rounded-md inset-shadow-xs border border-gray-300 bg-white p-3 has-checked:border-cyan-600 has-checked:bg-cyan-600 has-focus-visible:outline-2 has-focus-visible:outline-offset-2 has-focus-visible:outline-cyan-600 has-disabled:border-gray-400 has-disabled:bg-gray-200 has-disabled:opacity-25 dark:border-white/10 dark:bg-gray-700 dark:has-checked:border-cyan-500 dark:has-checked:bg-cyan-500 dark:has-focus-visible:outline-cyan-500 dark:has-disabled:border-white/10 dark:has-disabled:bg-gray-800"
                             >
                                 <input
                                     defaultValue={option.quantity}
@@ -144,7 +144,7 @@ function FeatureSection({ estado }) {
     ];
 
     return (
-        <div className="bg-gradient-to-tr from-slate-100 to-gray-100">
+        <div className="bg-gradient-to-tr from-slate-100 to-gray-100 dark:from-gray-700 dark:to-gray-700">
             <div className="mx-auto max-w-7xl py-16 md:py-24 lg:py-30 px-6 lg:px-8">
                 <div className="mx-auto max-w-4xl text-center">
                     <h2 className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">
@@ -184,7 +184,7 @@ function FeatureSection({ estado }) {
 
 function StatesAvailableList() {
     return (
-        <div id="seleccionar-estado" className="bg-white">
+        <div id="seleccionar-estado" className="bg-white dark:bg-gray-900">
             <div className="mx-auto max-w-7xl px-6 lg:px-8 py-12 sm:py-24">
                 <div className="mx-auto max-w-4xl text-center">
                     <h2 className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">
