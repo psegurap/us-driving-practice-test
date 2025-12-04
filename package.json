@@ -42,7 +42,7 @@
     "homepage": "https://github.com/psegurap/us-driving-practice-test#readme",
     "dependencies": {
         "@vercel/analytics": "^1.5.0",
-        "next": "^15.4.6",
+        "next": "^15.4.8",
         "react": "^19.1.1",
         "react-dom": "^19.1.1"
     },
