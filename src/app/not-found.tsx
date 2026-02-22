@@ -1,5 +1,6 @@
 import Link from "next/link";
 import StatesList from "@/components/StatesList";
+import PedroQuote from "@/components/PedroQuote";
 
 export const metadata = {
     title: "Página no encontrada",
@@ -31,6 +32,7 @@ export default function NotFound() {
                     </div>
                 </div>
             </div>
+            <PedroQuote />
 
             <StatesAvailableList />
         </>
@@ -39,7 +41,7 @@ export default function NotFound() {
 
 function StatesAvailableList() {
     return (
-        <div className="bg-white dark:bg-gray-900">
+        <div className="bg-gradient-to-tr from-slate-100 to-gray-100 dark:from-gray-700 dark:to-gray-700">
             <div className="mx-auto max-w-7xl px-6 lg:px-8 py-12 sm:py-24">
                 <div className="mx-auto max-w-4xl text-center">
                     <h2 className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl dark:text-white">

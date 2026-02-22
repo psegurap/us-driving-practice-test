@@ -1,13 +1,12 @@
 {
     "name": "us-driving-practice-test",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "version": "0.1.0",
+    "private": true,
     "scripts": {
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "next lint"
+        "lint": "eslint"
     },
     "repository": {
         "type": "git",
@@ -41,20 +40,21 @@
     },
     "homepage": "https://github.com/psegurap/us-driving-practice-test#readme",
     "dependencies": {
-        "@vercel/analytics": "^1.5.0",
-        "next": "^15.4.8",
-        "react": "^19.1.1",
-        "react-dom": "^19.1.1"
+        "@headlessui/react": "^2.2.9",
+        "@heroicons/react": "^2.2.0",
+        "@vercel/analytics": "^1.6.1",
+        "next": "16.1.6",
+        "react": "19.2.3",
+        "react-dom": "19.2.3"
     },
     "devDependencies": {
-        "@headlessui/react": "^2.2.7",
-        "@heroicons/react": "^2.2.0",
-        "@tailwindcss/postcss": "^4.1.11",
-        "tailwindcss": "^4.1.11"
-    },
-    "browser": {
-        "fs": false,
-        "os": false,
-        "path": false
+        "@tailwindcss/postcss": "^4",
+        "@types/node": "^20",
+        "@types/react": "^19",
+        "@types/react-dom": "^19",
+        "eslint": "^9",
+        "eslint-config-next": "16.1.6",
+        "tailwindcss": "^4",
+        "typescript": "^5"
     }
 }

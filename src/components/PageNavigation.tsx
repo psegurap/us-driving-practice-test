@@ -1,5 +1,4 @@
 "use client";
-
 import {
     Disclosure,
     DisclosureButton,
@@ -9,10 +8,12 @@ import {
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import logo from "@/styles/driving-school-svgrepo-com.svg";
+import logo from "@/media/driving-school-svgrepo-com.svg";
 
-export default function PageNavigation({ params }) {
-    const navigation = [
+type NavigationType = { name: string; href: string; current: boolean };
+
+export default function PageNavigation() {
+    const navigation: NavigationType[] = [
         { name: "Inicio", href: "/", current: usePathname() == "/" },
         {
             name: "Privacidad",
@@ -53,7 +54,7 @@ export default function PageNavigation({ params }) {
                             </Link>
                         </div>
                         <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
-                            {navigation.map((link) => (
+                            {navigation.map((link: NavigationType) => (
                                 <Link
                                     href={link.href}
                                     key={link.name}
@@ -73,7 +74,7 @@ export default function PageNavigation({ params }) {
 
             <DisclosurePanel className="sm:hidden">
                 <div className="space-y-1 pt-2 pb-4">
-                    {navigation.map((link) => (
+                    {navigation.map((link: NavigationType) => (
                         <Link
                             href={link.href}
                             key={link.name}

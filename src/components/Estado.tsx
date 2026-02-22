@@ -5,22 +5,25 @@ import {
     AdjustmentsHorizontalIcon,
     LanguageIcon,
 } from "@heroicons/react/24/outline";
-import { permanentRedirect } from "next/navigation";
+import { permanentRedirect, RedirectType } from "next/navigation";
 
 import StatesList from "@/components/StatesList";
+import PedroQuote from "./PedroQuote";
+import { EstadoType } from "@/types";
 
-export default function Estado({ estado }) {
+export default function Estado({ estado }: { estado: EstadoType }) {
     return (
         <>
             <HeroSection estado={estado} />
             <QuestionSetup estado={estado} />
             <FeatureSection estado={estado} />
+            <PedroQuote />
             <StatesAvailableList />
         </>
     );
 }
 
-function HeroSection({ estado }) {
+function HeroSection({ estado }: { estado: EstadoType }) {
     return (
         <div className="bg-gradient-to-tr from-slate-100 to-gray-100 dark:from-gray-700 dark:to-gray-700 py-24 sm:py-32">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -56,11 +59,11 @@ function HeroSection({ estado }) {
     );
 }
 
-function QuestionSetup({ estado }) {
-    function handleInputChange(event) {
+function QuestionSetup({ estado }: { estado: EstadoType }) {
+    function handleInputChange(event: React.ChangeEvent<HTMLInputElement>) {
         permanentRedirect(
             `/estado/${estado.slug}/prueba/${event.target.value}`,
-            "push"
+            RedirectType.push,
         );
     }
 
@@ -93,7 +96,6 @@ function QuestionSetup({ estado }) {
                         ].map((option) => (
                             <label
                                 key={option.id}
-                                aria-label={option.quantity}
                                 className="group relative flex items-center justify-center rounded-md inset-shadow-xs border border-gray-300 bg-white p-3 has-checked:border-cyan-600 has-checked:bg-cyan-600 has-focus-visible:outline-2 has-focus-visible:outline-offset-2 has-focus-visible:outline-cyan-600 has-disabled:border-gray-400 has-disabled:bg-gray-200 has-disabled:opacity-25 dark:border-white/10 dark:bg-gray-700 dark:has-checked:border-cyan-500 dark:has-checked:bg-cyan-500 dark:has-focus-visible:outline-cyan-500 dark:has-disabled:border-white/10 dark:has-disabled:bg-gray-800"
                             >
                                 <input
@@ -115,7 +117,7 @@ function QuestionSetup({ estado }) {
     );
 }
 
-function FeatureSection({ estado }) {
+function FeatureSection({ estado }: { estado: EstadoType }) {
     const features = [
         {
             name: "Preguntas inteligentes",
@@ -184,7 +186,10 @@ function FeatureSection({ estado }) {
 
 function StatesAvailableList() {
     return (
-        <div id="seleccionar-estado" className="bg-white dark:bg-gray-900">
+        <div
+            id="seleccionar-estado"
+            className="bg-gradient-to-tr from-slate-100 to-gray-100 dark:from-gray-700 dark:to-gray-700"
+        >
             <div className="mx-auto max-w-7xl px-6 lg:px-8 py-12 sm:py-24">
                 <div className="mx-auto max-w-4xl text-center">
                     <h2 className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">
