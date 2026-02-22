@@ -1,6 +1,10 @@
-import logo from "@/styles/driving-school-svgrepo-com.svg";
+"use client";
 
-const navigation = [
+import logo from "@/media/driving-school-svgrepo-com.svg";
+
+type NavigationType = { name: string; href: string; _blank: boolean };
+
+const navigation: NavigationType[] = [
     { name: "Inicio", href: "/", _blank: false },
     { name: "Política de Privacidad", href: "/privacidad", _blank: false },
     { name: "Github", href: "https://psegurap.github.io/", _blank: true },
@@ -22,17 +26,21 @@ export default function Footer() {
                         />
                     </a>
                     <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-400 sm:mb-0 dark:text-gray-400">
-                        {navigation.map((item, index) => (
-                            <li key={index}>
-                                <a
-                                    href={item.href}
-                                    target={item._blank ? "_blank" : "_self"}
-                                    className="hover:underline me-4 md:me-6"
-                                >
-                                    {item.name}
-                                </a>
-                            </li>
-                        ))}
+                        {navigation.map(
+                            (item: NavigationType, index: number) => (
+                                <li key={index}>
+                                    <a
+                                        href={item.href}
+                                        target={
+                                            item._blank ? "_blank" : "_self"
+                                        }
+                                        className="hover:underline me-4 md:me-6"
+                                    >
+                                        {item.name}
+                                    </a>
+                                </li>
+                            ),
+                        )}
                     </ul>
                 </div>
                 <hr className="my-6 border-gray-500 sm:mx-auto dark:border-gray-700 lg:my-8" />

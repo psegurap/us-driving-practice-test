@@ -1,13 +1,15 @@
-import "@/styles/global.css";
+import type { Metadata } from "next";
+
+import "./globals.css";
 import PageNavigation from "@/components/PageNavigation";
 import logo from "./favicon.ico";
 import { Analytics } from "@vercel/analytics/next";
-
 import Footer from "@/components/Footer";
 
-export const metadata = {
+export const metadata: Metadata = {
     title: {
-        default: "Practica para el examen de manejo en español en Estados Unidos | Conduce en Estados Unidos",
+        default:
+            "Practica para el examen de manejo en español en Estados Unidos | Conduce en Estados Unidos",
         template: "%s | Conduce en Estados Unidos",
     },
     description:
@@ -17,7 +19,11 @@ export const metadata = {
     },
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({
+    children,
+}: Readonly<{
+    children: React.ReactNode;
+}>) {
     return (
         <html lang="es" className="scroll-smooth h-full">
             <head>

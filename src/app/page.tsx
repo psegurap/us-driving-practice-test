@@ -7,15 +7,16 @@ import {
 } from "@heroicons/react/24/outline";
 import { ChevronRightIcon } from "@heroicons/react/20/solid";
 import StatesList from "@/components/StatesList";
-
-import test_screenshot_light from "@/assets/test-screenshot-light.png";
-import test_screenshot_dark from "@/assets/test-screenshot-dark.png";
+import PedroQuote from "@/components/PedroQuote";
+import test_screenshot_light from "@/media/test-screenshot-light.png";
+import test_screenshot_dark from "@/media/test-screenshot-dark.png";
 
 export default function Homepage() {
     return (
         <>
             <HeroSection />
             <FeatureSection />
+            <PedroQuote />
             <StatesAvailableList />
         </>
     );
@@ -106,7 +107,11 @@ function HeroSection() {
 }
 
 function FeatureSection() {
-    const features = [
+    const features: {
+        name: string;
+        description: string;
+        icon: React.FC<React.SVGProps<SVGSVGElement>>;
+    }[] = [
         {
             name: "Preguntas inteligentes",
             description:
@@ -173,7 +178,7 @@ function FeatureSection() {
 
 function StatesAvailableList() {
     return (
-        <div id="seleccionar-estado" className="bg-white dark:bg-gray-900">
+        <div id="seleccionar-estado" className="bg-gradient-to-tr from-slate-100 to-gray-100 dark:from-gray-700 dark:to-gray-700">
             <div className="mx-auto max-w-7xl px-6 lg:px-8 py-12 sm:py-24">
                 <div className="mx-auto max-w-4xl text-center">
                     <h2 className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl dark:text-white">

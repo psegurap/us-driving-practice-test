@@ -1,302 +1,302 @@
-[
-    {
+{
+    "alabama": {
         "name": "Alabama",
         "file": "AL.json",
-        "slug": "alabama",
-        "abbreviation": "al"
+        "abbreviation": "al",
+        "slug": "alabama"
     },
-    {
+    "alaska": {
         "name": "Alaska",
         "file": "AK.json",
-        "slug": "alaska",
-        "abbreviation": "ak"
+        "abbreviation": "ak",
+        "slug": "alaska"
     },
-    {
+    "arizona": {
         "name": "Arizona",
         "file": "AZ.json",
-        "slug": "arizona",
-        "abbreviation": "az"
+        "abbreviation": "az",
+        "slug": "arizona"
     },
-    {
+    "arkansas": {
         "name": "Arkansas",
         "file": "AR.json",
-        "slug": "arkansas",
-        "abbreviation": "ar"
+        "abbreviation": "ar",
+        "slug": "arkansas"
     },
-    {
+    "california": {
         "name": "California",
         "file": "CA.json",
-        "slug": "california",
-        "abbreviation": "ca"
+        "abbreviation": "ca",
+        "slug": "california"
     },
-    {
+    "colorado": {
         "name": "Colorado",
         "file": "CO.json",
-        "slug": "colorado",
-        "abbreviation": "co"
+        "abbreviation": "co",
+        "slug": "colorado"
     },
-    {
+    "connecticut": {
         "name": "Connecticut",
         "file": "CT.json",
-        "slug": "connecticut",
-        "abbreviation": "ct"
+        "abbreviation": "ct",
+        "slug": "connecticut"
     },
-    {
+    "delaware": {
         "name": "Delaware",
         "file": "DE.json",
-        "slug": "delaware",
-        "abbreviation": "de"
+        "abbreviation": "de",
+        "slug": "delaware"
     },
-    {
+    "district-of-columbia": {
         "name": "District of Columbia",
         "file": "DC.json",
-        "slug": "district-of-columbia",
-        "abbreviation": "dc"
+        "abbreviation": "dc",
+        "slug": "district-of-columbia"
     },
-    {
+    "florida": {
         "name": "Florida",
         "file": "FL.json",
-        "slug": "florida",
-        "abbreviation": "fl"
+        "abbreviation": "fl",
+        "slug": "florida"
     },
-    {
+    "georgia": {
         "name": "Georgia",
         "file": "GA.json",
-        "slug": "georgia",
-        "abbreviation": "ga"
+        "abbreviation": "ga",
+        "slug": "georgia"
     },
-    {
+    "hawaii": {
         "name": "Hawaii",
         "file": "HI.json",
-        "slug": "hawaii",
-        "abbreviation": "hi"
+        "abbreviation": "hi",
+        "slug": "hawaii"
     },
-    {
+    "idaho": {
         "name": "Idaho",
         "file": "ID.json",
-        "slug": "idaho",
-        "abbreviation": "id"
+        "abbreviation": "id",
+        "slug": "idaho"
     },
-    {
+    "illinois": {
         "name": "Illinois",
         "file": "IL.json",
-        "slug": "illinois",
-        "abbreviation": "il"
+        "abbreviation": "il",
+        "slug": "illinois"
     },
-    {
+    "indiana": {
         "name": "Indiana",
         "file": "IN.json",
-        "slug": "indiana",
-        "abbreviation": "in"
+        "abbreviation": "in",
+        "slug": "indiana"
     },
-    {
+    "iowa": {
         "name": "Iowa",
         "file": "IA.json",
-        "slug": "iowa",
-        "abbreviation": "ia"
+        "abbreviation": "ia",
+        "slug": "iowa"
     },
-    {
+    "kansas": {
         "name": "Kansas",
         "file": "KS.json",
-        "slug": "kansas",
-        "abbreviation": "ks"
+        "abbreviation": "ks",
+        "slug": "kansas"
     },
-    {
+    "kentucky": {
         "name": "Kentucky",
         "file": "KY.json",
-        "slug": "kentucky",
-        "abbreviation": "ky"
+        "abbreviation": "ky",
+        "slug": "kentucky"
     },
-    {
+    "louisiana": {
         "name": "Louisiana",
         "file": "LA.json",
-        "slug": "louisiana",
-        "abbreviation": "la"
+        "abbreviation": "la",
+        "slug": "louisiana"
     },
-    {
+    "maine": {
         "name": "Maine",
         "file": "ME.json",
-        "slug": "maine",
-        "abbreviation": "me"
+        "abbreviation": "me",
+        "slug": "maine"
     },
-    {
+    "maryland": {
         "name": "Maryland",
         "file": "MD.json",
-        "slug": "maryland",
-        "abbreviation": "md"
+        "abbreviation": "md",
+        "slug": "maryland"
     },
-    {
+    "massachusetts": {
         "name": "Massachusetts",
         "file": "MA.json",
-        "slug": "massachusetts",
-        "abbreviation": "ma"
+        "abbreviation": "ma",
+        "slug": "massachusetts"
     },
-    {
+    "michigan": {
         "name": "Michigan",
         "file": "MI.json",
-        "slug": "michigan",
-        "abbreviation": "mi"
+        "abbreviation": "mi",
+        "slug": "michigan"
     },
-    {
+    "minnesota": {
         "name": "Minnesota",
         "file": "MN.json",
-        "slug": "minnesota",
-        "abbreviation": "mn"
+        "abbreviation": "mn",
+        "slug": "minnesota"
     },
-    {
+    "mississippi": {
         "name": "Mississippi",
         "file": "MS.json",
-        "slug": "mississippi",
-        "abbreviation": "ms"
+        "abbreviation": "ms",
+        "slug": "mississippi"
     },
-    {
+    "missouri": {
         "name": "Missouri",
         "file": "MO.json",
-        "slug": "missouri",
-        "abbreviation": "mo"
+        "abbreviation": "mo",
+        "slug": "missouri"
     },
-    {
+    "montana": {
         "name": "Montana",
         "file": "MT.json",
-        "slug": "montana",
-        "abbreviation": "mt"
+        "abbreviation": "mt",
+        "slug": "montana"
     },
-    {
+    "nebraska": {
         "name": "Nebraska",
         "file": "NE.json",
-        "slug": "nebraska",
-        "abbreviation": "ne"
+        "abbreviation": "ne",
+        "slug": "nebraska"
     },
-    {
+    "nevada": {
         "name": "Nevada",
         "file": "NV.json",
-        "slug": "nevada",
-        "abbreviation": "nv"
+        "abbreviation": "nv",
+        "slug": "nevada"
     },
-    {
+    "new-hampshire": {
         "name": "New Hampshire",
         "file": "NH.json",
-        "slug": "new-hampshire",
-        "abbreviation": "nh"
+        "abbreviation": "nh",
+        "slug": "new-hampshire"
     },
-    {
+    "new-jersey": {
         "name": "New Jersey",
         "file": "NJ.json",
-        "slug": "new-jersey",
-        "abbreviation": "nj"
+        "abbreviation": "nj",
+        "slug": "new-jersey"
     },
-    {
+    "new-mexico": {
         "name": "New Mexico",
         "file": "NM.json",
-        "slug": "new-mexico",
-        "abbreviation": "nm"
+        "abbreviation": "nm",
+        "slug": "new-mexico"
     },
-    {
+    "new-york": {
         "name": "New York",
         "file": "NY.json",
-        "slug": "new-york",
-        "abbreviation": "ny"
+        "abbreviation": "ny",
+        "slug": "new-york"
     },
-    {
+    "north-carolina": {
         "name": "North Carolina",
         "file": "NC.json",
-        "slug": "north-carolina",
-        "abbreviation": "nc"
+        "abbreviation": "nc",
+        "slug": "north-carolina"
     },
-    {
+    "north-dakota": {
         "name": "North Dakota",
         "file": "ND.json",
-        "slug": "north-dakota",
-        "abbreviation": "nd"
+        "abbreviation": "nd",
+        "slug": "north-dakota"
     },
-    {
+    "ohio": {
         "name": "Ohio",
         "file": "OH.json",
-        "slug": "ohio",
-        "abbreviation": "oh"
+        "abbreviation": "oh",
+        "slug": "ohio"
     },
-    {
+    "oklahoma": {
         "name": "Oklahoma",
         "file": "OK.json",
-        "slug": "oklahoma",
-        "abbreviation": "ok"
+        "abbreviation": "ok",
+        "slug": "oklahoma"
     },
-    {
+    "oregon": {
         "name": "Oregon",
         "file": "OR.json",
-        "slug": "oregon",
-        "abbreviation": "or"
+        "abbreviation": "or",
+        "slug": "oregon"
     },
-    {
+    "pennsylvania": {
         "name": "Pennsylvania",
         "file": "PA.json",
-        "slug": "pennsylvania",
-        "abbreviation": "pa"
+        "abbreviation": "pa",
+        "slug": "pennsylvania"
     },
-    {
+    "rhode-island": {
         "name": "Rhode Island",
         "file": "RI.json",
-        "slug": "rhode-island",
-        "abbreviation": "ri"
+        "abbreviation": "ri",
+        "slug": "rhode-island"
     },
-    {
+    "south-carolina": {
         "name": "South Carolina",
         "file": "SC.json",
-        "slug": "south-carolina",
-        "abbreviation": "sc"
+        "abbreviation": "sc",
+        "slug": "south-carolina"
     },
-    {
+    "south-dakota": {
         "name": "South Dakota",
         "file": "SD.json",
-        "slug": "south-dakota",
-        "abbreviation": "sd"
+        "abbreviation": "sd",
+        "slug": "south-dakota"
     },
-    {
+    "tennessee": {
         "name": "Tennessee",
         "file": "TN.json",
-        "slug": "tennessee",
-        "abbreviation": "tn"
+        "abbreviation": "tn",
+        "slug": "tennessee"
     },
-    {
+    "texas": {
         "name": "Texas",
         "file": "TX.json",
-        "slug": "texas",
-        "abbreviation": "tx"
+        "abbreviation": "tx",
+        "slug": "texas"
     },
-    {
+    "utah": {
         "name": "Utah",
         "file": "UT.json",
-        "slug": "utah",
-        "abbreviation": "ut"
+        "abbreviation": "ut",
+        "slug": "utah"
     },
-    {
+    "virginia": {
         "name": "Virginia",
         "file": "VA.json",
-        "slug": "virginia",
-        "abbreviation": "va"
+        "abbreviation": "va",
+        "slug": "virginia"
     },
-    {
+    "washington": {
         "name": "Washington",
         "file": "WA.json",
-        "slug": "washington",
-        "abbreviation": "wa"
+        "abbreviation": "wa",
+        "slug": "washington"
     },
-    {
+    "west-virginia": {
         "name": "West Virginia",
         "file": "WV.json",
-        "slug": "west-virginia",
-        "abbreviation": "wv"
+        "abbreviation": "wv",
+        "slug": "west-virginia"
     },
-    {
+    "wisconsin": {
         "name": "Wisconsin",
         "file": "WI.json",
-        "slug": "wisconsin",
-        "abbreviation": "wi"
+        "abbreviation": "wi",
+        "slug": "wisconsin"
     },
-    {
+    "wyoming": {
         "name": "Wyoming",
         "file": "WY.json",
-        "slug": "wyoming",
-        "abbreviation": "wy"
+        "abbreviation": "wy",
+        "slug": "wyoming"
     }
-]
+}
