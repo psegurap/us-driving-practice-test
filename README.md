@@ -21,6 +21,10 @@ Welcome to **U.S. Driving Test Practice**, a web/app-based platform designed to 
 -   **Fully in Spanish:**
     All questions, explanations, and interface elements are in Spanish to make learning accessible for the Hispanic community.
 
+<p align="center">
+    <img src="https://psegurap.github.io/us-driving-practice-test/homepage-screenshot.PNG" width=600>
+</p>
+
 ---
 
 ## Getting Started
