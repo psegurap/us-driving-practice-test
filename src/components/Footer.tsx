@@ -7,6 +7,7 @@ type NavigationType = { name: string; href: string; _blank: boolean };
 const navigation: NavigationType[] = [
     { name: "Inicio", href: "/", _blank: false },
     { name: "Blog", href: "/blog", _blank: false },
+    { name: "Sobre Nosotros", href: "/sobre-nosotros", _blank: false },
     { name: "Política de Privacidad", href: "/privacidad", _blank: false },
     { name: "Github", href: "https://psegurap.github.io/", _blank: true },
 ];

@@ -19,6 +19,11 @@ export default function PageNavigation() {
       name: "Blog",
       href: "/blog",
       current: usePathname() == "/blog",
+    },
+    {
+      name: "Sobre Nosotros",
+      href: "/sobre-nosotros",
+      current: usePathname() == "/sobre-nosotros",
     }
   ];
 

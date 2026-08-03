@@ -113,25 +113,25 @@ function FeatureSection() {
         icon: React.FC<React.SVGProps<SVGSVGElement>>;
     }[] = [
         {
-            name: "Preguntas inteligentes",
+            name: "Preguntas Inteligentes",
             description:
                 "Las preguntas del simulador del examen de manejo en español se crean con inteligencia artificial, lo que garantiza variedad, realismo y una práctica muy similar al examen teórico oficial del DMV en Estados Unidos.",
             icon: SparklesIcon,
         },
         {
-            name: "Práctica ilimitada",
+            name: "Práctica Ilimitada",
             description:
                 "Practica todas las veces que necesites, sin límites de intentos. Refuerza tu conocimiento de las reglas de tráfico y señales de tránsito con cada simulacro, y aumenta tu confianza antes de presentar el examen de manejo real.",
             icon: LockOpenIcon,
         },
         {
-            name: "Preguntas flexibles",
+            name: "Preguntas Flexibles",
             description:
                 "Elige la cantidad de preguntas y ajusta la dificultad del examen para practicar según tu nivel. Este sistema flexible te permite avanzar paso a paso y mejorar tu desempeño hasta dominar el examen de conducir en español.",
             icon: AdjustmentsHorizontalIcon,
         },
         {
-            name: "100% en español",
+            name: "100% en Español",
             description:
                 "Todo el material está disponible completamente en español, con explicaciones claras y vocabulario adaptado para hispanohablantes. Aprende sin barreras de idioma y comprende cada pregunta del examen de manejo en Estados Unidos.",
             icon: LanguageIcon,

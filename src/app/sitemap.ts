@@ -28,7 +28,7 @@ Object.entries(states).map(([slug, state]) => {
   estados.push({
     url: `${BASE_URL}/estado/${slug}`,
     lastModified: new Date(),
-    changeFrequency: "weekly",
+    changeFrequency: "monthly",
     priority: 0.8,
   });
   estados.push({
@@ -56,6 +56,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: BASE_URL + "/blog",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.3,
+    },
+    {
+      url: BASE_URL + "/sobre-nosotros",
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.3,
