@@ -10,6 +10,7 @@ import StatesList from "@/components/StatesList";
 import PedroQuote from "@/components/PedroQuote";
 import test_screenshot_light from "@/media/test-screenshot-light.png";
 import test_screenshot_dark from "@/media/test-screenshot-dark.png";
+import Link from "next/link";
 
 export default function Homepage() {
     return (
@@ -36,8 +37,8 @@ function HeroSection() {
                                 aria-hidden="true"
                                 className="h-4 w-px bg-gray-900/10 dark:bg-white/10"
                             />
-                            <a
-                                href="mailto:psegurap01@gmail.com"
+                            <Link
+                                href="/contacto"
                                 className="flex items-center gap-x-1"
                             >
                                 <span
@@ -49,7 +50,7 @@ function HeroSection() {
                                     aria-hidden="true"
                                     className="-mr-2 size-5 text-gray-400"
                                 />
-                            </a>
+                            </Link>
                         </div>
                     </div>
                     <h1 className="mt-5 sm:mt-10 text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl dark:text-white">

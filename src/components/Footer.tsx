@@ -1,6 +1,7 @@
 "use client";
 
 import logo from "@/media/driving-school-svgrepo-com.svg";
+import Link from "next/link";
 
 type NavigationType = { name: string; href: string; _blank: boolean };
 
@@ -8,6 +9,7 @@ const navigation: NavigationType[] = [
     { name: "Inicio", href: "/", _blank: false },
     { name: "Blog", href: "/blog", _blank: false },
     { name: "Sobre Nosotros", href: "/sobre-nosotros", _blank: false },
+    { name: "Contacto", href: "/contacto", _blank: false },
     { name: "Política de Privacidad", href: "/privacidad", _blank: false },
     { name: "Github", href: "https://psegurap.github.io/", _blank: true },
 ];
@@ -31,7 +33,7 @@ export default function Footer() {
                         {navigation.map(
                             (item: NavigationType, index: number) => (
                                 <li key={index}>
-                                    <a
+                                    <Link
                                         href={item.href}
                                         target={
                                             item._blank ? "_blank" : "_self"
@@ -39,7 +41,7 @@ export default function Footer() {
                                         className="hover:underline me-4 md:me-6"
                                     >
                                         {item.name}
-                                    </a>
+                                    </Link>
                                 </li>
                             ),
                         )}

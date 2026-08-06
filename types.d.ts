@@ -24,3 +24,16 @@ type Article = {
 };
 
 type Articles = Record<string, Article>;
+
+type ContactInfoType = {
+  nombre: string;
+  correo: string;
+  mensaje: string;
+  pagina: string;
+};
+
+type ToastType = {
+  message: string;
+  type: "success" | "warning" | "error";
+  active: boolean;
+};
