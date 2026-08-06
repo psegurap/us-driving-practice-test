@@ -24,6 +24,8 @@
       "@/components/*": ["./src/components/*"],
       "@/jsons/*": ["./src/jsons/*"],
       "@/media/*": ["./src/media/*"],
+      "@/api/*": ["./src/app/api/*"],
+      "@/email/*": ["./src/email/*"],
       "@/blogmarkdown":  ["../src/blog-markdown/*"],
       "@/types": ["./types.d.ts"],
 
