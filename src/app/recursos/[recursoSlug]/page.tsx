@@ -11,37 +11,45 @@ import MdxLayout from "@/app/mdx-layout";
 import all_articles from "@/jsons/articles.json";
 import { notFound } from "next/navigation";
 const articles = all_articles as Articles;
+console.log(articles);
+
 
 export async function generateMetadata(
-  { params }: { params: Promise<{ blogSlug: string }> },
+  { params }: { params: Promise<{ recursoSlug: string }> },
   parent: ResolvingMetadata,
 ): Promise<Metadata> {
-  const { blogSlug } = await params;
-  const specificBlog: Article = articles[blogSlug];
+  const { recursoSlug } = await params;
+  const specificArticle: Article = articles[recursoSlug];
+  console.log(specificArticle);
+  
 
-  if (!specificBlog) {
+  if (!specificArticle) {
     notFound();
   }
 
   return {
-    title: specificBlog.title,
-    description: specificBlog.description,
+    title: specificArticle.title,
+    description: specificArticle.description,
   };
 }
 
 export default async function Page({
   params,
 }: {
-  params: Promise<{ blogSlug: string }>;
+  params: Promise<{ recursoSlug: string }>;
 }) {
-  const { blogSlug } = await params;
-  const specificBlog: Article = articles[blogSlug];
+  const { recursoSlug } = await params;
+  const specificArticle: Article = articles[recursoSlug];
+  console.log(specificArticle);
 
-  if (specificBlog == undefined) {
+
+  if (specificArticle == undefined) {
     return notFound();
   }
 
-  const { default: Post } = await import(`@/blog-markdown/${blogSlug}.mdx`);
+  const { default: Post } = await import(
+    `@/recursos-markdown/${recursoSlug}.mdx`
+  );
 
   return (
     <>
@@ -64,10 +72,10 @@ export default async function Page({
                 className="size-5 shrink-0 text-gray-400 dark:text-gray-500"
               />
               <Link
-                href="/blog"
+                href="/recursos"
                 className="ml-4 text-gray-400 hover:text-gray-500 dark:text-gray-300 dark:hover:text-gray-200"
               >
-                Blog
+                Recursos
               </Link>
             </div>
           </li>
@@ -78,7 +86,7 @@ export default async function Page({
                 className="size-5 shrink-0 text-gray-400 dark:text-gray-500"
               />
               <span className="ml-4 font-medium text-gray-800 dark:text-gray-400">
-                {specificBlog.title}
+                {specificArticle.title}
               </span>
             </div>
           </li>
@@ -87,10 +95,10 @@ export default async function Page({
       <div className="bg-white px-6 py-15 lg:px-8 dark:bg-gray-900">
         <div className="mx-auto max-w-3xl text-base/7 text-gray-700 dark:text-gray-300">
           <p className="text-base/7 text-gray-500 font-light dark:text-cyan-400">
-            {specificBlog.datePublished}
+            {specificArticle.datePublished}
           </p>
           <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl dark:text-white">
-            {specificBlog.title}
+            {specificArticle.title}
           </h1>
           <figure className="my-10">
             <img
@@ -120,7 +128,7 @@ export default async function Page({
 
 export function generateStaticParams() {
   return Object.entries(all_articles).map(([slug, articleInfo]) => ({
-    blogSlug: slug,
+    recursoSlug: slug,
   }));
 }
 

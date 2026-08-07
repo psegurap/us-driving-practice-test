@@ -26,7 +26,7 @@
       "@/media/*": ["./src/media/*"],
       "@/api/*": ["./src/app/api/*"],
       "@/email/*": ["./src/email/*"],
-      "@/blogmarkdown":  ["../src/blog-markdown/*"],
+      "@/recursos":  ["../src/recursos-markdown/*"],
       "@/types": ["./types.d.ts"],
 
     }
