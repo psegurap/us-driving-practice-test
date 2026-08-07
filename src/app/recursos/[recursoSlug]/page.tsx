@@ -11,8 +11,6 @@ import MdxLayout from "@/app/mdx-layout";
 import all_articles from "@/jsons/articles.json";
 import { notFound } from "next/navigation";
 const articles = all_articles as Articles;
-console.log(articles);
-
 
 export async function generateMetadata(
   { params }: { params: Promise<{ recursoSlug: string }> },
@@ -20,8 +18,6 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const { recursoSlug } = await params;
   const specificArticle: Article = articles[recursoSlug];
-  console.log(specificArticle);
-  
 
   if (!specificArticle) {
     notFound();
@@ -40,8 +36,6 @@ export default async function Page({
 }) {
   const { recursoSlug } = await params;
   const specificArticle: Article = articles[recursoSlug];
-  console.log(specificArticle);
-
 
   if (specificArticle == undefined) {
     return notFound();
