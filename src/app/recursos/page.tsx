@@ -83,7 +83,7 @@ function LatestArticles() {
                 </time>
               </div>
               <h3 className="mt-3 text-lg/6 font-semibold text-white">
-                <Link href={"/blog/" + slug}>
+                <Link href={"/recursos/" + slug}>
                   <span className="absolute inset-0" />
                   {article.title}
                 </Link>

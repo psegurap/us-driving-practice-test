@@ -16,9 +16,9 @@ export default function PageNavigation() {
   const navigation: NavigationType[] = [
     { name: "Inicio", href: "/", current: usePathname() == "/" },
     {
-      name: "Blog",
-      href: "/blog",
-      current: usePathname() == "/blog",
+      name: "Recursos",
+      href: "/recursos",
+      current: usePathname() == "/recursos",
     },
     {
       name: "Sobre Nosotros",

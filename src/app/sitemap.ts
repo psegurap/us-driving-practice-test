@@ -40,7 +40,7 @@ Object.entries(states).map(([slug, state]) => {
 });
 
 const articles_urls: URLType[] = Object.entries(articles).map(([slug]) => ({
-  url: `${BASE_URL}/blog/${slug}`,
+  url: `${BASE_URL}/recursos/${slug}`,
   lastModified: new Date(),
   changeFrequency: "monthly",
   priority: 0.5,
@@ -55,7 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: BASE_URL + "/blog",
+      url: BASE_URL + "/recursos",
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.4,
