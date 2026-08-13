@@ -52,7 +52,7 @@ function LatestArticles() {
   return (
     <div
       id="articulos-recientes"
-      className="bg-white py-24 sm:py-32 dark:bg-gray-900"
+      className="bg-white py-24 sm:py-32 dark:bg-gray-800"
     >
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">

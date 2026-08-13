@@ -103,7 +103,7 @@ export default function ContactPage() {
 
   return (
     <>
-      <div className="relative isolate bg-white px-6 py-15 sm:py-32 lg:px-8 dark:bg-gray-900">
+      <div className="relative isolate bg-white px-6 py-15 sm:py-32 lg:px-8 dark:bg-gray-700">
         <svg
           aria-hidden="true"
           className="absolute inset-0 -z-10 size-full mask-[radial-gradient(100%_100%_at_top_right,white,transparent)] stroke-gray-200 dark:stroke-white/10"
