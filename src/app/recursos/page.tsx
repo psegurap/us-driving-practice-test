@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import StatesList from "@/components/StatesList";
 import articles from "@/jsons/articles.json";
-import articleThumnail from "@/media/article-thumbnail.png";
+import ArticlesGrid from "@/components/ArticlesGrid";
 
 export const metadata: Metadata = {
   title: "Recursos para el Examen de Manejo en Español",
@@ -43,7 +43,7 @@ export default function Page() {
         </div>
       </div>
       <LatestArticles />
-      <StatesAvailableList/>
+      <StatesAvailableList />
     </>
   );
 }
@@ -63,34 +63,7 @@ function LatestArticles() {
             Recursos en español para estudiar y aprobar el examen de manejo.
           </p>
         </div>
-        <div className="mx-auto mt-16 grid max-w-2xl auto-rows-fr grid-cols-1 gap-8 sm:mt-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-          {Object.entries(articles).map(([slug, article], index: number) => (
-            <article
-              key={slug}
-              className="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pt-80 pb-8 sm:pt-48 lg:pt-80 dark:bg-gray-800"
-            >
-              <img
-                alt="Ilustración generada con inteligencia artificial que representa la preparación para aprobar el examen de manejo."
-                src={articleThumnail.src}
-                className="absolute inset-0 -z-10 size-full object-cover"
-              />
-              <div className="absolute inset-0 -z-10 bg-linear-to-t from-gray-900 via-gray-900/40 dark:from-black/80 dark:via-black/40" />
-              <div className="absolute inset-0 -z-10 rounded-2xl inset-ring inset-ring-gray-900/10 dark:inset-ring-white/10" />
-
-              <div className="flex flex-wrap items-center gap-y-1 overflow-hidden text-sm/6 text-gray-300">
-                <time dateTime={article.datePublished} className="mr-8">
-                  {article.datePublished}
-                </time>
-              </div>
-              <h3 className="mt-3 text-lg/6 font-semibold text-white">
-                <Link href={"/recursos/" + slug}>
-                  <span className="absolute inset-0" />
-                  {article.title}
-                </Link>
-              </h3>
-            </article>
-          ))}
-        </div>
+        <ArticlesGrid articles={articles} />
       </div>
     </div>
   );

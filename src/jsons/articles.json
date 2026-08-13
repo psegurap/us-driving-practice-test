@@ -1,17 +1,56 @@
 {
+  "cuantas-preguntas-tiene-el-examen-de-manejo": {
+    "title": "¿Cuántas Preguntas Tiene el Examen de Manejo? Todo lo que Debes Saber",
+    "description": "Descubre cuántas preguntas tiene el examen escrito del DMV, cómo funciona la evaluación y qué debes hacer para aumentar tus posibilidades de aprobar.",
+    "datePublished": "08/13/2026",
+    "tags": ["examen"]
+  },
+  "puedo-hacer-el-examen-de-manejo-en-espanol": {
+    "title": "¿Puedo Hacer el Examen de Manejo en Español? Todo lo que Debes Saber",
+    "description": "Descubre si puedes presentar el examen de manejo en español, cómo solicitarlo y qué hacer si tu estado no ofrece esta opción. Prepárate para obtener tu licencia de conducir con confianza.",
+    "datePublished": "08/12/2026",
+    "tags": ["examen"]
+  },
+  "como-estudian-para-el-examen-de-manejo": {
+    "title": "Cómo Estudiar para el Examen de Manejo del DMV: Guía Paso a Paso",
+    "description": "Aprende cómo estudiar para el examen escrito del DMV con un plan efectivo. Descubre qué materiales utilizar, cuánto tiempo dedicar y cómo prepararte para aprobar en el primer intento.",
+    "datePublished": "08/11/2026",
+    "tags": ["examen", "consejos"]
+  },
+  "errores-comunes-en-el-examen-de-manejo": {
+    "title": "Errores Comunes que Hacen Reprobar el Examen de Manejo",
+    "description": "Conoce los errores más frecuentes que cometen los aspirantes al presentar el examen escrito del DMV y aprende cómo evitarlos para aumentar tus posibilidades de aprobar.",
+    "datePublished": "08/11/2026",
+    "tags": ["examen"]
+  },
+  "examen-manejo-california-espanol": {
+    "title": "Examen de Manejo de California en Español: Guía para Aprobarlo",
+    "description": "Prepárate para el examen de manejo de California en español. Aprende qué estudiar, cómo practicar, qué temas debes conocer y consejos para aprobar el examen del DMV.",
+    "datePublished": "08/09/2026",
+    "tags": ["california", "examen"]
+  },
+  "documentos-licencia-conducir-california": {
+    "title": "¿Qué Documentos Necesito para Sacar la Licencia de Conducir en California?",
+    "description": "Conoce qué documentos necesitas para solicitar una licencia de conducir en California, incluyendo identificación, comprobante de residencia y requisitos para REAL ID.",
+    "datePublished": "08/09/2026",
+    "tags": ["california"]
+  },
   "senales-de-transito": {
     "title": "Señales de Tránsito en Español: Guía Completa con Significados",
     "description": "Aprende el significado de las principales señales de tránsito en Estados Unidos. Descubre cómo identificarlas y prepárate para responder correctamente las preguntas del examen escrito del DMV.",
-    "datePublished": "07/31/2026"
+    "datePublished": "07/31/2026",
+    "tags": ["señales"]
   },
   "10-consejos-para-aprobar-el-examen-escrito": {
     "title": "10 Consejos para Aprobar el Examen Escrito del DMV",
     "description": "Descubre los mejores consejos para aprobar el examen escrito del DMV. Aprende cómo estudiar, evitar errores comunes y aumentar tus posibilidades de obtener tu licencia de conducir.",
-    "datePublished": "07/30/2026"
+    "datePublished": "07/30/2026",
+    "tags": ["consejos"]
   },
   "aprobar-examen-de-manejo": {
     "title": "Cómo Aprobar el Examen de Manejo en Español",
     "description": "Descubre los mejores consejos para aprobar el examen escrito del DMV. Aprende cómo estudiar, qué errores evitar y prepárate con confianza.",
-    "datePublished": "07/29/2026"
+    "datePublished": "07/29/2026",
+    "tags": ["examen"]
   }
 }

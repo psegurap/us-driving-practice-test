@@ -3,7 +3,7 @@ import type { Metadata, ResolvingMetadata } from "next";
 import states from "@/jsons/states.json";
 import { notFound, redirect } from "next/navigation";
 import QuestionsLayout from "@/components/QuestionsLayout";
-import { SlugType, Props } from "@/types";
+import { EstadoSlugType, Props } from "@/types";
 
 export async function generateMetadata(
     { params }: Props,

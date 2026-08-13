@@ -2,7 +2,7 @@ import type { Metadata, ResolvingMetadata } from "next";
 import Estado from "@/components/Estado";
 import states from "@/jsons/states.json";
 import { notFound } from "next/navigation";
-import { SlugType, Props } from "@/types";
+import { EstadoSlugType, Props } from "@/types";
 
 export async function generateMetadata(
     { params }: Props,
@@ -16,7 +16,7 @@ export async function generateMetadata(
 }
 
 export default async function Page({ params }: Props) {
-    const slug: SlugType = (await params).estadoSlug;
+    const slug: EstadoSlugType = (await params).estadoSlug;
 
     if (states[slug] == undefined) {
         return notFound();
