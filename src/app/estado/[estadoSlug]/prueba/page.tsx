@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
-import { Props, SlugType } from "@/types";
+import { Props, EstadoSlugType } from "@/types";
 
 export default async function Page({
     params,

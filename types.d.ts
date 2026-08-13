@@ -1,11 +1,11 @@
 import type states from "@/jsons/states.json";
 
 type StatesMap = typeof states;
-type SlugType = keyof StatesMap;
-type EstadoType = StatesMap[SlugType];
+type EstadoSlugType = keyof StatesMap;
+type EstadoType = StatesMap[EstadoSlugType];
 
 type Props = {
-  params: { estadoSlug: SlugType; pruebaSlug?: number };
+  params: { estadoSlug: EstadoSlugType; pruebaSlug?: number };
   searchParams: { [key: string]: string | string[] | undefined };
 };
 
@@ -17,13 +17,14 @@ type QuestionType = {
   respuesta_usuario: string | null;
 };
 
-type Article = {
+type ArticleType = {
   title: string;
   description: string;
   datePublished: string;
+  tags: string[];
 };
 
-type Articles = Record<string, Article>;
+type ArticlesType = Record<string, ArticleType>;
 
 type ContactInfoType = {
   nombre: string;
