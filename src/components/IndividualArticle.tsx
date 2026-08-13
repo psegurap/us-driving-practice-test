@@ -22,7 +22,10 @@ export default async function IndividualArticle({
 
   return (
     <>
-      <nav aria-label="Breadcrumb" className="flex px-6 pt-10 lg:px-8">
+      <nav
+        aria-label="Breadcrumb"
+        className="bg-white flex px-6 pt-10 lg:px-8 dark:bg-gray-800"
+      >
         <ol role="list" className="flex items-center space-x-4">
           <li>
             <div>
@@ -61,7 +64,7 @@ export default async function IndividualArticle({
           </li>
         </ol>
       </nav>
-      <div className="bg-white px-6 py-15 sm:pb-30 lg:px-8 dark:bg-gray-900">
+      <div className="bg-white px-6 py-15 sm:pb-30 lg:px-8 dark:bg-gray-800">
         <div className="mx-auto max-w-3xl text-base/7 text-gray-700 dark:text-gray-300">
           <p className="text-base/7 text-gray-500 font-light dark:text-cyan-400">
             {article.datePublished}
@@ -98,7 +101,7 @@ function LatestArticles() {
   return (
     <div
       id="articulos-recientes"
-      className="bg-gray-100 py-15 sm:py-24 dark:bg-gray-900"
+      className="bg-gray-100 py-15 sm:py-24 dark:bg-gray-700"
     >
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
