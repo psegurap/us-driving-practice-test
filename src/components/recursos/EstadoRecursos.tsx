@@ -58,6 +58,7 @@ function LatestArticles({ estado }: { estado: EstadoType }) {
       article.tags.includes(estado.slug),
     ),
   );
+
   return (
     <div
       id="articulos-recientes"

@@ -7,17 +7,15 @@ import {
 import articleThumnail from "@/media/article-thumbnail.png";
 import MdxLayout from "@/app/mdx-layout";
 import articles from "@/jsons/articles.json";
-import ArticlesGrid from "@/components/ArticlesGrid";
+import ArticlesGrid from "@/components/recursos/ArticlesGrid";
 
 export default async function IndividualArticle({
-  recursoSlug,
-  article,
+  articleDetails,
 }: {
-  recursoSlug: string;
-  article: ArticleType;
+  articleDetails: ArticleType;
 }) {
   const { default: Post } = await import(
-    `@/recursos-markdown/${recursoSlug}.mdx`
+    `@/recursos-markdown/${articleDetails.slug}.mdx`
   );
 
   return (
@@ -58,7 +56,7 @@ export default async function IndividualArticle({
                 className="size-5 shrink-0 text-gray-400 dark:text-gray-500"
               />
               <span className="ml-4 font-medium text-gray-800 dark:text-gray-400">
-                {article.title}
+                {articleDetails.title}
               </span>
             </div>
           </li>
@@ -67,10 +65,10 @@ export default async function IndividualArticle({
       <div className="bg-white px-6 py-15 sm:pb-30 lg:px-8 dark:bg-gray-800">
         <div className="mx-auto max-w-3xl text-base/7 text-gray-700 dark:text-gray-300">
           <p className="text-base/7 text-gray-500 font-light dark:text-cyan-400">
-            {article.datePublished}
+            {articleDetails.datePublished}
           </p>
           <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl dark:text-white">
-            {article.title}
+            {articleDetails.title}
           </h1>
           <figure className="my-10">
             <img

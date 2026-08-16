@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import StatesList from "@/components/StatesList";
 import articles from "@/jsons/articles.json";
-import ArticlesGrid from "@/components/ArticlesGrid";
+import ArticlesGrid from "@/components/recursos/ArticlesGrid";
 
 export const metadata: Metadata = {
   title: "Recursos para el Examen de Manejo en Español",

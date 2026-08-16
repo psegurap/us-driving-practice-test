@@ -5,8 +5,8 @@ import states from "@/jsons/states.json";
 import all_articles from "@/jsons/articles.json";
 const articles = all_articles as ArticlesType;
 import { notFound } from "next/navigation";
-import IndividualArticle from "@/components/IndividualArticle";
-import EstadoRecursos from "@/components/EstadoRecursos";
+import IndividualArticle from "@/components/recursos/IndividualArticle";
+import EstadoRecursos from "@/components/recursos/EstadoRecursos";
 
 function isEstadoSlug(slug: string): slug is EstadoSlugType {
   return Object.hasOwn(states, slug);
@@ -59,7 +59,7 @@ export default async function Page({
     }
 
     return (
-      <IndividualArticle recursoSlug={recursoSlug} article={specificArticle} />
+      <IndividualArticle articleDetails={specificArticle} />
     );
   }
 }
