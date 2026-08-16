@@ -11,7 +11,7 @@ import PedroQuote from "@/components/PedroQuote";
 import test_screenshot_light from "@/media/test-screenshot-light.png";
 import test_screenshot_dark from "@/media/test-screenshot-dark.png";
 import Link from "next/link";
-import ArticlesGrid from "@/components/ArticlesGrid";
+import ArticlesGrid from "@/components/recursos/ArticlesGrid";
 import articles from "@/jsons/articles.json";
 
 export default function Homepage() {

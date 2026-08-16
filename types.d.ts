@@ -18,6 +18,7 @@ type QuestionType = {
 };
 
 type ArticleType = {
+  slug: string;
   title: string;
   description: string;
   datePublished: string;
