@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import StatesList from "@/components/StatesList";
+import EstadosGrid from "@/components/EstadosGrid";
 import articles from "@/jsons/articles.json";
 import ArticlesGrid from "@/components/recursos/ArticlesGrid";
 
@@ -81,13 +81,13 @@ function StatesAvailableList() {
             Elige tu estado y practica el examen de manejo en español
           </h2>
         </div>
-        <p className="mx-auto mt-6 max-w-2xl text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
+        <p className="mx-auto mt-6 max-w-2xl mb-18 text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
           Selecciona el estado donde quieres obtener tu licencia de conducir y
           accede a pruebas del DMV en español. Cada simulacro está adaptado con
           preguntas reales y reglas específicas de cada estado para que
           practiques con total confianza.
         </p>
-        <StatesList />
+        <EstadosGrid />
       </div>
     </div>
   );

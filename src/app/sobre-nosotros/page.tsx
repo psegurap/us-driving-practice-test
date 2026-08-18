@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import StatesList from "@/components/StatesList";
 import {
   MapIcon,
   ClipboardDocumentListIcon,
@@ -9,6 +8,7 @@ import {
   AcademicCapIcon,
 } from "@heroicons/react/24/outline";
 import PedroQuote from "@/components/PedroQuote";
+import EstadosGrid from "@/components/EstadosGrid";
 
 export const metadata: Metadata = {
   title: "Sobre Nosotros",
@@ -136,13 +136,13 @@ function StatesAvailableList() {
             ¿Listo para comenzar a practicar?
           </h2>
         </div>
-        <p className="mx-auto mt-6 max-w-2xl text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
+        <p className="mx-auto mt-6 mb-16 max-w-2xl text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
           Selecciona el estado donde quieres obtener tu licencia de conducir y
           accede a pruebas del DMV en español. Cada simulacro está adaptado con
           preguntas reales y reglas específicas de cada estado para que
           practiques con total confianza.
         </p>
-        <StatesList />
+        <EstadosGrid />
       </div>
     </div>
   );

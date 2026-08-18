@@ -1,6 +1,6 @@
 import Link from "next/link";
-import StatesList from "@/components/StatesList";
 import PedroQuote from "@/components/PedroQuote";
+import EstadosGrid from "@/components/EstadosGrid";
 
 export const metadata = {
     title: "Página no encontrada",
@@ -48,7 +48,7 @@ function StatesAvailableList() {
                         ¿No encontraste la página que buscabas?
                     </h2>
                 </div>
-                <p className="mx-auto mt-6 max-w-2xl text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
+                <p className="mx-auto mt-6 max-w-2xl mb-18 text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
                     ¡No pasa nada! Aún puedes practicar tu examen de manejo en
                     español. Elige el estado donde deseas practicar y accede a
                     simulacros del examen de manejo en español. Cada prueba está
@@ -56,7 +56,7 @@ function StatesAvailableList() {
                     estado, para que estudies con confianza y te prepares mejor
                     para tu licencia de conducir.
                 </p>
-                <StatesList />
+                <EstadosGrid />
             </div>
         </div>
     );
