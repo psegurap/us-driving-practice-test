@@ -6,8 +6,7 @@ import {
     LanguageIcon,
 } from "@heroicons/react/24/outline";
 import { permanentRedirect, RedirectType } from "next/navigation";
-
-import StatesList from "@/components/StatesList";
+import EstadosGrid from "./EstadosGrid";
 import PedroQuote from "./PedroQuote";
 import { EstadoType } from "@/types";
 
@@ -196,14 +195,14 @@ function StatesAvailableList() {
                         ¿Quieres practicar el examen de manejo en otro estado?
                     </h2>
                 </div>
-                <p className="mx-auto mt-6 max-w-2xl text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
+                <p className="mx-auto mt-6 max-w-2xl mb-18 text-center text-lg/8 text-pretty text-gray-600 sm:text-xl dark:text-gray-400">
                     Elige el estado donde deseas practicar y accede a simulacros
                     del examen de manejo en español. Cada prueba está adaptada
                     con preguntas reales y reglas del DMV según el estado, para
                     que estudies con confianza y te prepares mejor para tu
                     licencia de conducir.
                 </p>
-                <StatesList />
+                <EstadosGrid />
             </div>
         </div>
     );
