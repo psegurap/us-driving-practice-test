@@ -58,8 +58,6 @@ export default async function Page({
       notFound();
     }
 
-    return (
-      <IndividualArticle articleDetails={specificArticle} />
-    );
+    return <IndividualArticle articleDetails={specificArticle} />;
   }
 }
