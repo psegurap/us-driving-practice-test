@@ -6,32 +6,33 @@ import QuestionsLayout from "@/components/QuestionsLayout";
 import { Props } from "@/types";
 
 export async function generateMetadata(
-    { params }: Props,
-    parent: ResolvingMetadata,
+  { params }: Props,
+  parent: ResolvingMetadata,
 ): Promise<Metadata> {
-    const { estadoSlug, pruebaSlug } = await params;
+  const { estadoSlug, pruebaSlug } = await params;
 
-    return {
-        title: `Prueba de manejo en ${estadoSlug} – ${pruebaSlug} preguntas en español`,
-        description: `Responde 20 preguntas del examen de manejo de ${pruebaSlug} en español. Ideal para prepararte para el DMV`,
-    };
+  if (states[estadoSlug] == undefined) {
+    return notFound();
+  }
+
+  return {
+    title: `Prueba de manejo en ${states[estadoSlug].name} – ${pruebaSlug} preguntas en español`,
+    description: `Responde ${pruebaSlug} preguntas del examen de manejo de ${states[estadoSlug].name} en español. Ideal para prepararte para el DMV`,
+  };
 }
 
 export default async function Page({ params }: Props) {
-    const { estadoSlug, pruebaSlug } = await params;
+  const { estadoSlug, pruebaSlug } = await params;
 
-    if (states[estadoSlug] == undefined) {
-        return notFound();
-    }
+  if (states[estadoSlug] == undefined) {
+    return notFound();
+  }
 
-    if (!pruebaSlug || !pruebaSlug || pruebaSlug < 1 || pruebaSlug > 100) {
-        redirect("/estado/" + estadoSlug + "#preparar-examen");
-    }
+  if (!pruebaSlug || !pruebaSlug || pruebaSlug < 1 || pruebaSlug > 100) {
+    redirect("/estado/" + estadoSlug + "#preparar-examen");
+  }
 
-    return (
-        <QuestionsLayout
-            estado={states[estadoSlug]}
-            questionsAmount={pruebaSlug}
-        />
-    );
+  return (
+    <QuestionsLayout estado={states[estadoSlug]} questionsAmount={pruebaSlug} />
+  );
 }
