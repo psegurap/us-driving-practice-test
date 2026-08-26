@@ -88,6 +88,13 @@ export default async function IndividualArticle({
           <MdxLayout>
             <Post />
           </MdxLayout>
+          <p className="mt-16 text-xs text-gray-600 text-pretty dark:text-gray-300 italic">
+            * Conduce en Estados Unidos es un proyecto educativo independiente.
+            No estamos afiliados, respaldados ni representamos a ningún
+            Departamento de Vehículos Motorizados (DMV) de los Estados Unidos.
+            Todo el contenido publicado tiene fines exclusivamente educativos y
+            de preparación para el examen escrito de manejo.
+          </p>
         </div>
       </div>
       <LatestArticles />

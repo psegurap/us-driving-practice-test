@@ -1,4 +1,25 @@
 {
+  "manual-manejo-florida-espanol": {
+    "slug": "manual-manejo-florida-espanol",
+    "title": "Manual de Manejo de Florida en Español: Qué Estudiar para el Examen",
+    "description": "Aprende cómo utilizar el Manual Oficial de Licencias de Conducir de Florida en español para prepararte para el examen de conocimientos y descubre los temas que debes estudiar.",
+    "datePublished": "08/25/2026",
+    "tags": ["florida", "examen", "consejos"]
+  },
+  "documentos-licencia-conducir-florida": {
+    "slug": "documentos-licencia-conducir-florida",
+    "title": "¿Qué Documentos Necesito para Sacar la Licencia de Conducir en Florida?",
+    "description": "Conoce qué documentos necesitas para solicitar una licencia de conducir en Florida y qué comprobantes pueden ser necesarios para demostrar tu identidad, número de Seguro Social y residencia.",
+    "datePublished": "08/25/2026",
+    "tags": ["florida", "licencia"]
+  },
+  "examen-manejo-florida-espanol": {
+    "slug": "examen-manejo-florida-espanol",
+    "title": "Examen de Manejo de Florida en Español: Guía para Prepararte",
+    "description": "Prepárate para el examen de manejo de Florida en español. Conoce qué estudiar, cuáles son los temas importantes y cómo practicar antes de presentar el examen del FLHSMV.",
+    "datePublished": "08/25/2026",
+    "tags": ["florida", "examen"]
+  },
   "manual-manejo-texas-espanol": {
     "slug": "manual-manejo-texas-espanol",
     "title": "Manual de Manejo de Texas en Español: Qué Estudiar para el Examen",
