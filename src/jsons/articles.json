@@ -1,4 +1,25 @@
 {
+  "examen-manejo-new-york-espanol": {
+    "slug": "examen-manejo-new-york-espanol",
+    "title": "Examen de Manejo de Nueva York en Español: Guía para Prepararte",
+    "description": "Prepárate para el examen escrito de manejo de Nueva York en español. Conoce qué estudiar, cuáles son los temas más importantes y cómo practicar antes de presentar el examen del DMV.",
+    "datePublished": "08/31/2026",
+    "tags": ["new-york", "examen"]
+  },
+  "documentos-licencia-conducir-new-york": {
+    "slug": "documentos-licencia-conducir-new-york",
+    "title": "¿Qué Documentos Necesito para Sacar la Licencia de Conducir en Nueva York?",
+    "description": "Conoce qué documentos necesitas para solicitar una licencia de conducir en Nueva York, incluyendo los requisitos de identidad, residencia y Seguro Social.",
+    "datePublished": "08/31/2026",
+    "tags": ["new-york", "licencia"]
+  },
+  "manual-manejo-new-york-espanol": {
+    "slug": "manual-manejo-new-york-espanol",
+    "title": "Manual de Manejo de Nueva York en Español: Qué Estudiar para el Examen",
+    "description": "Conoce el Manual del Conductor de Nueva York en español y descubre qué temas debes estudiar para prepararte para el examen escrito del DMV.",
+    "datePublished": "08/31/2026",
+    "tags": ["new-york", "examen", "consejos"]
+  },
   "manual-manejo-florida-espanol": {
     "slug": "manual-manejo-florida-espanol",
     "title": "Manual de Manejo de Florida en Español: Qué Estudiar para el Examen",
