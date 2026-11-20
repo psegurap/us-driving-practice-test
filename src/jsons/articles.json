@@ -1,4 +1,39 @@
 {
+  "examen-manejo-arizona-espanol": {
+    "slug": "examen-manejo-arizona-espanol",
+    "title": "Examen de Manejo de Arizona en Español: Guía para Prepararte",
+    "description": "Prepárate para el examen de manejo de Arizona ante el MVD. Conoce cómo funciona la prueba, qué temas estudiar, el puntaje necesario y consejos prácticos para aprobar.",
+    "datePublished": "11/19/2026",
+    "tags": ["arizona", "examen"]
+  },
+  "documentos-licencia-conducir-arizona": {
+    "slug": "documentos-licencia-conducir-arizona",
+    "title": "¿Qué Documentos Necesito para Sacar la Licencia de Conducir en Arizona?",
+    "description": "Conoce los documentos requeridos por el MVD de Arizona para obtener tu licencia o Travel ID, incluyendo prueba de presencia autorizada, Seguro Social y residencia.",
+    "datePublished": "11/19/2026",
+    "tags": ["arizona", "licencia"]
+  },
+  "manual-manejo-arizona-espanol": {
+    "slug": "manual-manejo-arizona-espanol",
+    "title": "Manual de Manejo de Arizona en Español: Qué Estudiar para el Examen",
+    "description": "Descubre cómo estudiar el Manual del Conductor de Arizona en español y cuáles son los temas esenciales de tránsito, señales y seguridad vial que evalúa el MVD.",
+    "datePublished": "11/19/2026",
+    "tags": ["arizona", "examen", "consejos"]
+  },
+  "permiso-aprendiz-jovenes-arizona": {
+    "slug": "permiso-aprendiz-jovenes-arizona",
+    "title": "Permiso de Aprendiz y Licencia Graduada en Arizona: Requisitos para Jóvenes",
+    "description": "Conoce las edades mínimas, el permiso Clase G, las horas de práctica supervisada y los requisitos del MVD para que los jóvenes obtengan su licencia en Arizona.",
+    "datePublished": "11/19/2026",
+    "tags": ["arizona", "licencia", "consejos"]
+  },
+  "prueba-practica-manejo-arizona": {
+    "slug": "prueba-practica-manejo-arizona",
+    "title": "Prueba Práctica de Manejo en Arizona: Qué Esperar y Cómo Aprobar",
+    "description": "Prepárate para el examen práctico de manejo del MVD en Arizona. Conoce cómo se evalúa, qué considerar sobre el idioma y cómo evitar errores comunes.",
+    "datePublished": "11/19/2026",
+    "tags": ["arizona", "examen", "consejos"]
+  },
   "examen-manejo-new-york-espanol": {
     "slug": "examen-manejo-new-york-espanol",
     "title": "Examen de Manejo de Nueva York en Español: Guía para Prepararte",
